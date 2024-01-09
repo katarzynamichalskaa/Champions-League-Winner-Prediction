@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="60fa750d-e496-40f5-b0a1-cf142c9d3d3d" name="Changes" comment="" />
+    <list default="true" id="60fa750d-e496-40f5-b0a1-cf142c9d3d3d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/PredictChamp/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PredictChamp/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PredictChamp/.idea/Champions-League-Winner-Prediction.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PredictChamp/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PredictChamp/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PredictChamp/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PredictChamp/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PredictChamp/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PredictChamp/DataScraper.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PredictChamp/SEASONS20052023.csv" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,13 +37,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/User&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/User/Documents/Repositories/Champions-League-Winner-Prediction"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="DataScraper" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Champions-League-Winner-Prediction" />
