@@ -33,6 +33,7 @@ class DataScraper:
                 score_element = product.find('th', class_='fscore')
                 team_A = product.find('th', class_='fhome')
                 team_B = product.find('th', class_='faway')
+                nationality = product.find('span', class_='mw-image-border')
 
                 if score_element is not None and team_A is not None and team_B is not None:
 
@@ -42,7 +43,10 @@ class DataScraper:
 
                     team_A_text = team_A.text.strip()
                     team_B_text = team_B.text.strip()
-                    to_file = f'{team_A_text}|{team_B_text}|{result}'
+
+                    nationality_text = nationality.text.strip()
+
+                    to_file = f'{team_A_text}|{team_B_text}|{result}|{nationality_text}'
                     self.save_to_file(to_file)
 
 

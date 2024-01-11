@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="60fa750d-e496-40f5-b0a1-cf142c9d3d3d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/PredictChamp/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PredictChamp/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PredictChamp/.idea/Champions-League-Winner-Prediction.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PredictChamp/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PredictChamp/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PredictChamp/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PredictChamp/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PredictChamp/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PredictChamp/DataScraper.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PredictChamp/SEASONS20052023.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UCL_Prediction/DataScraper.py" beforeDir="false" afterPath="$PROJECT_DIR$/UCL_Prediction/DataScraper.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +23,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
   <component name="ProjectId" id="2afVg2RDymMc6CWbHTkhhzXvCL7" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -41,12 +36,16 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/User/Documents/Repositories/Champions-League-Winner-Prediction"
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/User/Documents/Repositories/Champions-League-Winner-Prediction",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RunManager">
     <configuration name="DataScraper" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Champions-League-Winner-Prediction" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -57,6 +56,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataScraper.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -72,6 +72,13 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-50da183f06c8-2887949eec09-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.13135.95" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -80,8 +87,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1704709727788</updated>
+      <workItem from="1704965134207" duration="332000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
