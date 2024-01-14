@@ -1,1729 +1,1729 @@
-teamA;teamB;score
-Rapid Wien;Bayern Munich;2
-Club Brugge;Juventus;2
-Juventus;Rapid Wien;0
-Bayern Munich;Club Brugge;0
-Bayern Munich;Juventus;0
-Rapid Wien;Club Brugge;2
-Juventus;Bayern Munich;0
-Club Brugge;Rapid Wien;0
-Bayern Munich;Rapid Wien;0
-Juventus;Club Brugge;0
-Rapid Wien;Juventus;2
-Club Brugge;Bayern Munich;1
-Sparta Prague;Ajax;1
-Arsenal;Thun;0
-Thun;Sparta Prague;0
-Ajax;Arsenal;2
-Ajax;Thun;0
-Sparta Prague;Arsenal;2
-Thun;Ajax;2
-Arsenal;Sparta Prague;0
-Ajax;Sparta Prague;0
-Thun;Arsenal;2
-Sparta Prague;Thun;1
-Arsenal;Ajax;1
-Udinese;Panathinaikos;0
-Werder Bremen;Barcelona;2
-Barcelona;Udinese;0
-Panathinaikos;Werder Bremen;0
-Panathinaikos;Barcelona;1
-Udinese;Werder Bremen;1
-Barcelona;Panathinaikos;0
-Werder Bremen;Udinese;0
-Panathinaikos;Udinese;2
-Barcelona;Werder Bremen;0
-Udinese;Barcelona;2
-Werder Bremen;Panathinaikos;0
-Villarreal;Manchester United;1
-Benfica;Lille;0
-Lille;Villarreal;1
-Manchester United;Benfica;0
-Manchester United;Lille;1
-Villarreal;Benfica;1
-Lille;Manchester United;0
-Benfica;Villarreal;2
-Manchester United;Villarreal;1
-Lille;Benfica;1
-Villarreal;Lille;0
-Benfica;Manchester United;0
-Milan;Fenerbahe;0
-PSV Eindhoven;Schalke 04;0
-Schalke 04;Milan;1
-Fenerbahe;PSV Eindhoven;0
-Fenerbahe;Schalke 04;1
-Milan;PSV Eindhoven;1
-Schalke 04;Fenerbahe;0
-PSV Eindhoven;Milan;0
-Fenerbahe;Milan;2
-Schalke 04;PSV Eindhoven;0
-Milan;Schalke 04;0
-PSV Eindhoven;Fenerbahe;0
-Lyon;Real Madrid;0
-Olympiacos;Rosenborg;2
-Rosenborg;Lyon;2
-Real Madrid;Olympiacos;0
-Real Madrid;Rosenborg;0
-Lyon;Olympiacos;0
-Rosenborg;Real Madrid;2
-Olympiacos;Lyon;2
-Real Madrid;Lyon;1
-Rosenborg;Olympiacos;1
-Lyon;Rosenborg;0
-Olympiacos;Real Madrid;0
-Chelsea;Anderlecht;0
-Real Betis;Liverpool;2
-Liverpool;Chelsea;1
-Anderlecht;Real Betis;2
-Anderlecht;Liverpool;2
-Chelsea;Real Betis;0
-Liverpool;Anderlecht;0
-Real Betis;Chelsea;0
-Anderlecht;Chelsea;2
-Liverpool;Real Betis;1
-Chelsea;Liverpool;1
-Real Betis;Anderlecht;2
-Rangers;Porto;0
-Artmedia;Internazionale;2
-Internazionale;Rangers;0
-Porto;Artmedia;2
-Porto;Internazionale;0
-Rangers;Artmedia;1
-Internazionale;Porto;0
-Artmedia;Rangers;1
-Porto;Rangers;1
-Internazionale;Artmedia;0
-Rangers;Internazionale;1
-Artmedia;Porto;1
-Chelsea;Werder Bremen;0
-Barcelona;Levski Sofia;0
-Levski Sofia;Chelsea;2
-Werder Bremen;Barcelona;1
-Werder Bremen;Levski Sofia;0
-Chelsea;Barcelona;0
-Levski Sofia;Werder Bremen;2
-Barcelona;Chelsea;1
-Werder Bremen;Chelsea;0
-Levski Sofia;Barcelona;2
-Chelsea;Levski Sofia;0
-Barcelona;Werder Bremen;0
-Sporting CP;Internazionale;0
-Bayern Munich;Spartak Moscow;0
-Spartak Moscow;Sporting CP;1
-Internazionale;Bayern Munich;2
-Internazionale;Spartak Moscow;0
-Sporting CP;Bayern Munich;2
-Spartak Moscow;Internazionale;2
-Bayern Munich;Sporting CP;1
-Spartak Moscow;Bayern Munich;1
-Internazionale;Sporting CP;0
-Sporting CP;Spartak Moscow;2
-Bayern Munich;Internazionale;1
-Galatasaray;Bordeaux;1
-PSV Eindhoven;Liverpool;1
-Liverpool;Galatasaray;0
-Bordeaux;PSV Eindhoven;2
-Bordeaux;Liverpool;2
-Galatasaray;PSV Eindhoven;2
-Liverpool;Bordeaux;0
-PSV Eindhoven;Galatasaray;0
-Bordeaux;Galatasaray;0
-Liverpool;PSV Eindhoven;0
-Galatasaray;Liverpool;0
-PSV Eindhoven;Bordeaux;2
-Olympiacos;Valencia;2
-Roma;Shakhtar Donetsk;0
-Shakhtar Donetsk;Olympiacos;1
-Valencia;Roma;0
-Valencia;Shakhtar Donetsk;0
-Olympiacos;Roma;2
-Shakhtar Donetsk;Valencia;1
-Roma;Olympiacos;1
-Valencia;Olympiacos;0
-Shakhtar Donetsk;Roma;0
-Olympiacos;Shakhtar Donetsk;1
-Roma;Valencia;0
-Dynamo Kyiv;Steaua Bucureti;2
-Lyon;Real Madrid;0
-Real Madrid;Dynamo Kyiv;0
-Steaua Bucureti;Lyon;2
-Steaua Bucureti;Real Madrid;2
-Dynamo Kyiv;Lyon;2
-Real Madrid;Steaua Bucureti;0
-Lyon;Dynamo Kyiv;0
-Steaua Bucureti;Dynamo Kyiv;1
-Real Madrid;Lyon;1
-Dynamo Kyiv;Real Madrid;1
-Lyon;Steaua Bucureti;1
-Manchester United;Celtic;0
-Copenhagen;Benfica;1
-Benfica;Manchester United;2
-Celtic;Copenhagen;0
-Celtic;Benfica;0
-Manchester United;Copenhagen;0
-Benfica;Celtic;0
-Copenhagen;Manchester United;0
-Celtic;Manchester United;0
-Benfica;Copenhagen;0
-Manchester United;Benfica;0
-Copenhagen;Celtic;0
-Porto;CSKA Moscow;1
-Hamburg;Arsenal;2
-CSKA Moscow;Hamburg;0
-Arsenal;Porto;0
-CSKA Moscow;Arsenal;0
-Porto;Hamburg;0
-Arsenal;CSKA Moscow;1
-Hamburg;Porto;2
-CSKA Moscow;Porto;2
-Arsenal;Hamburg;0
-Porto;Arsenal;1
-Hamburg;CSKA Moscow;0
-Anderlecht;Lille;1
-Milan;AEK Athens;0
-AEK Athens;Anderlecht;1
-Lille;Milan;1
-Lille;AEK Athens;0
-Anderlecht;Milan;2
-AEK Athens;Lille;0
-Milan;Anderlecht;0
-Lille;Anderlecht;1
-AEK Athens;Milan;0
-Anderlecht;AEK Athens;1
-Milan;Lille;2
-Marseille;Beikta;0
-Porto;Liverpool;1
-Liverpool;Marseille;2
-Beikta;Porto;2
-Beikta;Liverpool;0
-Marseille;Porto;1
-Liverpool;Beikta;0
-Porto;Marseille;0
-Beikta;Marseille;0
-Liverpool;Porto;0
-Marseille;Liverpool;2
-Porto;Beikta;0
-Chelsea;Rosenborg;1
-Schalke 04;Valencia;2
-Valencia;Chelsea;2
-Rosenborg;Schalke 04;2
-Rosenborg;Valencia;0
-Chelsea;Schalke 04;0
-Valencia;Rosenborg;2
-Schalke 04;Chelsea;1
-Rosenborg;Chelsea;2
-Valencia;Schalke 04;1
-Chelsea;Valencia;1
-Schalke 04;Rosenborg;0
-Real Madrid;Werder Bremen;0
-Olympiacos;Lazio;1
-Werder Bremen;Olympiacos;2
-Lazio;Real Madrid;1
-Werder Bremen;Lazio;0
-Real Madrid;Olympiacos;0
-Lazio;Werder Bremen;0
-Olympiacos;Real Madrid;1
-Werder Bremen;Real Madrid;0
-Lazio;Olympiacos;2
-Real Madrid;Lazio;0
-Olympiacos;Werder Bremen;0
-Milan;Benfica;0
-Shakhtar Donetsk;Celtic;0
-Celtic;Milan;0
-Benfica;Shakhtar Donetsk;2
-Milan;Shakhtar Donetsk;0
-Benfica;Celtic;0
-Shakhtar Donetsk;Milan;2
-Celtic;Benfica;0
-Benfica;Milan;1
-Celtic;Shakhtar Donetsk;0
-Milan;Celtic;0
-Shakhtar Donetsk;Benfica;2
-Rangers;Stuttgart;0
-Barcelona;Lyon;0
-Stuttgart;Barcelona;2
-Lyon;Rangers;2
-Rangers;Barcelona;1
-Stuttgart;Lyon;2
-Lyon;Stuttgart;0
-Barcelona;Rangers;0
-Stuttgart;Rangers;0
-Lyon;Barcelona;1
-Rangers;Lyon;2
-Barcelona;Stuttgart;0
-Sporting CP;Manchester United;2
-Roma;Dynamo Kyiv;0
-Manchester United;Roma;0
-Dynamo Kyiv;Sporting CP;2
-Roma;Sporting CP;0
-Dynamo Kyiv;Manchester United;2
-Sporting CP;Roma;1
-Manchester United;Dynamo Kyiv;0
-Dynamo Kyiv;Roma;2
-Manchester United;Sporting CP;0
-Roma;Manchester United;1
-Sporting CP;Dynamo Kyiv;0
-Fenerbahe;Internazionale;0
-PSV Eindhoven;CSKA Moscow;0
-CSKA Moscow;Fenerbahe;1
-Internazionale;PSV Eindhoven;0
-PSV Eindhoven;Fenerbahe;1
-CSKA Moscow;Internazionale;2
-Fenerbahe;PSV Eindhoven;0
-Internazionale;CSKA Moscow;0
-CSKA Moscow;PSV Eindhoven;2
-Internazionale;Fenerbahe;0
-PSV Eindhoven;Internazionale;2
-Fenerbahe;CSKA Moscow;0
-Arsenal;Sevilla;0
-Slavia Prague;Steaua Bucureti;0
-Steaua Bucureti;Arsenal;2
-Sevilla;Slavia Prague;0
-Sevilla;Steaua Bucureti;0
-Arsenal;Slavia Prague;0
-Steaua Bucureti;Sevilla;2
-Slavia Prague;Arsenal;1
-Sevilla;Arsenal;0
-Steaua Bucureti;Slavia Prague;1
-Arsenal;Steaua Bucureti;0
-Slavia Prague;Sevilla;2
-Chelsea;Bordeaux;0
-Roma;CFR Cluj;2
-CFR Cluj;Chelsea;1
-Bordeaux;Roma;2
-Bordeaux;CFR Cluj;0
-Chelsea;Roma;0
-CFR Cluj;Bordeaux;2
-Roma;Chelsea;0
-Bordeaux;Chelsea;1
-CFR Cluj;Roma;2
-Chelsea;CFR Cluj;0
-Roma;Bordeaux;0
-Panathinaikos;Internazionale;2
-Werder Bremen;Anorthosis Famagusta;1
-Anorthosis Famagusta;Panathinaikos;0
-Internazionale;Werder Bremen;1
-Internazionale;Anorthosis Famagusta;0
-Panathinaikos;Werder Bremen;1
-Anorthosis Famagusta;Internazionale;1
-Werder Bremen;Panathinaikos;2
-Internazionale;Panathinaikos;2
-Anorthosis Famagusta;Werder Bremen;1
-Panathinaikos;Anorthosis Famagusta;0
-Werder Bremen;Internazionale;0
-Basel;Shakhtar Donetsk;2
-Barcelona;Sporting CP;0
-Sporting CP;Basel;0
-Shakhtar Donetsk;Barcelona;2
-Shakhtar Donetsk;Sporting CP;2
-Basel;Barcelona;2
-Sporting CP;Shakhtar Donetsk;0
-Barcelona;Basel;1
-Shakhtar Donetsk;Basel;0
-Sporting CP;Barcelona;2
-Basel;Sporting CP;2
-Barcelona;Shakhtar Donetsk;2
-PSV Eindhoven;Atltico Madrid;2
-Marseille;Liverpool;2
-Liverpool;PSV Eindhoven;0
-Atltico Madrid;Marseille;0
-Atltico Madrid;Liverpool;1
-PSV Eindhoven;Marseille;0
-Liverpool;Atltico Madrid;1
-Marseille;PSV Eindhoven;0
-Atltico Madrid;PSV Eindhoven;0
-Liverpool;Marseille;0
-PSV Eindhoven;Liverpool;2
-Marseille;Atltico Madrid;1
-Manchester United;Villarreal;1
-Celtic;Aalborg BK;1
-Aalborg BK;Manchester United;2
-Villarreal;Celtic;0
-Villarreal;Aalborg BK;0
-Manchester United;Celtic;0
-Aalborg BK;Villarreal;1
-Celtic;Manchester United;1
-Villarreal;Manchester United;1
-Aalborg BK;Celtic;0
-Manchester United;Aalborg BK;1
-Celtic;Villarreal;0
-Steaua Bucureti;Bayern Munich;2
-Lyon;Fiorentina;1
-Fiorentina;Steaua Bucureti;1
-Bayern Munich;Lyon;1
-Bayern Munich;Fiorentina;0
-Steaua Bucureti;Lyon;2
-Fiorentina;Bayern Munich;1
-Lyon;Steaua Bucureti;0
-Bayern Munich;Steaua Bucureti;0
-Fiorentina;Lyon;2
-Steaua Bucureti;Fiorentina;2
-Lyon;Bayern Munich;2
-Porto;Fenerbahe;0
-Dynamo Kyiv;Arsenal;1
-Arsenal;Porto;0
-Fenerbahe;Dynamo Kyiv;1
-Fenerbahe;Arsenal;2
-Porto;Dynamo Kyiv;2
-Arsenal;Fenerbahe;1
-Dynamo Kyiv;Porto;2
-Fenerbahe;Porto;2
-Arsenal;Dynamo Kyiv;0
-Porto;Arsenal;0
-Dynamo Kyiv;Fenerbahe;0
-Juventus;Zenit Saint Petersburg;0
-Real Madrid;BATE Borisov;0
-Zenit Saint Petersburg;Real Madrid;2
-BATE Borisov;Juventus;1
-Zenit Saint Petersburg;BATE Borisov;1
-Juventus;Real Madrid;0
-BATE Borisov;Zenit Saint Petersburg;2
-Real Madrid;Juventus;2
-Zenit Saint Petersburg;Juventus;1
-BATE Borisov;Real Madrid;2
-Juventus;BATE Borisov;1
-Real Madrid;Zenit Saint Petersburg;0
-Juventus;Bordeaux;1
-Maccabi Haifa;Bayern Munich;2
-Bayern Munich;Juventus;1
-Bordeaux;Maccabi Haifa;0
-Bordeaux;Bayern Munich;0
-Juventus;Maccabi Haifa;0
-Bayern Munich;Bordeaux;2
-Maccabi Haifa;Juventus;2
-Bordeaux;Juventus;0
-Bayern Munich;Maccabi Haifa;0
-Juventus;Bayern Munich;2
-Maccabi Haifa;Bordeaux;2
-Wolfsburg;CSKA Moscow;0
-Beikta;Manchester United;2
-CSKA Moscow;Beikta;0
-Manchester United;Wolfsburg;0
-CSKA Moscow;Manchester United;2
-Wolfsburg;Beikta;1
-Manchester United;CSKA Moscow;1
-Beikta;Wolfsburg;2
-CSKA Moscow;Wolfsburg;0
-Manchester United;Beikta;2
-Wolfsburg;Manchester United;2
-Beikta;CSKA Moscow;2
-Zrich;Real Madrid;2
-Marseille;Milan;2
-Milan;Zrich;2
-Real Madrid;Marseille;0
-Real Madrid;Milan;2
-Zrich;Marseille;2
-Milan;Real Madrid;1
-Marseille;Zrich;0
-Real Madrid;Zrich;0
-Milan;Marseille;1
-Zrich;Milan;1
-Marseille;Real Madrid;2
-Chelsea;Porto;0
-Atltico Madrid;APOEL;1
-APOEL;Chelsea;2
-Porto;Atltico Madrid;0
-Porto;APOEL;0
-Chelsea;Atltico Madrid;0
-APOEL;Porto;2
-Atltico Madrid;Chelsea;1
-Porto;Chelsea;2
-APOEL;Atltico Madrid;1
-Chelsea;APOEL;1
-Atltico Madrid;Porto;2
-Liverpool;Debrecen;0
-Lyon;Fiorentina;0
-Fiorentina;Liverpool;0
-Debrecen;Lyon;2
-Debrecen;Fiorentina;2
-Liverpool;Lyon;2
-Fiorentina;Debrecen;0
-Lyon;Liverpool;1
-Debrecen;Liverpool;2
-Fiorentina;Lyon;0
-Liverpool;Fiorentina;2
-Lyon;Debrecen;0
-Inter Milan;Barcelona;1
-Dynamo Kyiv;Rubin Kazan;0
-Rubin Kazan;Inter Milan;1
-Barcelona;Dynamo Kyiv;0
-Barcelona;Rubin Kazan;2
-Inter Milan;Dynamo Kyiv;1
-Rubin Kazan;Barcelona;1
-Dynamo Kyiv;Inter Milan;2
-Rubin Kazan;Dynamo Kyiv;1
-Barcelona;Inter Milan;0
-Inter Milan;Rubin Kazan;0
-Dynamo Kyiv;Barcelona;2
-Stuttgart;Rangers;1
-Sevilla;Unirea Urziceni;0
-Unirea Urziceni;Stuttgart;1
-Rangers;Sevilla;2
-Rangers;Unirea Urziceni;2
-Stuttgart;Sevilla;2
-Unirea Urziceni;Rangers;1
-Sevilla;Stuttgart;1
-Rangers;Stuttgart;2
-Unirea Urziceni;Sevilla;0
-Stuttgart;Unirea Urziceni;0
-Sevilla;Rangers;0
-Olympiacos;AZ;0
-Standard Lige;Arsenal;2
-Arsenal;Olympiacos;0
-AZ;Standard Lige;1
-AZ;Arsenal;1
-Olympiacos;Standard Lige;0
-Arsenal;AZ;0
-Standard Lige;Olympiacos;0
-AZ;Olympiacos;1
-Arsenal;Standard Lige;0
-Olympiacos;Arsenal;0
-Standard Lige;AZ;1
-Twente;Internazionale;1
-Werder Bremen;Tottenham Hotspur;1
-Tottenham Hotspur;Twente;0
-Internazionale;Werder Bremen;0
-Internazionale;Tottenham Hotspur;0
-Twente;Werder Bremen;1
-Tottenham Hotspur;Internazionale;0
-Werder Bremen;Twente;2
-Internazionale;Twente;0
-Tottenham Hotspur;Werder Bremen;0
-Twente;Tottenham Hotspur;1
-Werder Bremen;Internazionale;0
-Lyon;Schalke 04;0
-Benfica;Hapoel Tel Aviv;0
-Hapoel Tel Aviv;Lyon;2
-Schalke 04;Benfica;0
-Schalke 04;Hapoel Tel Aviv;0
-Lyon;Benfica;0
-Hapoel Tel Aviv;Schalke 04;1
-Benfica;Lyon;0
-Schalke 04;Lyon;0
-Hapoel Tel Aviv;Benfica;0
-Lyon;Hapoel Tel Aviv;1
-Benfica;Schalke 04;2
-Manchester United;Rangers;1
-Bursaspor;Valencia;2
-Valencia;Manchester United;2
-Rangers;Bursaspor;0
-Rangers;Valencia;1
-Manchester United;Bursaspor;0
-Valencia;Rangers;0
-Bursaspor;Manchester United;2
-Rangers;Manchester United;2
-Valencia;Bursaspor;0
-Manchester United;Valencia;1
-Bursaspor;Rangers;1
-Barcelona;Panathinaikos;0
-Copenhagen;Rubin Kazan;0
-Rubin Kazan;Barcelona;1
-Panathinaikos;Copenhagen;2
-Panathinaikos;Rubin Kazan;1
-Barcelona;Copenhagen;0
-Rubin Kazan;Panathinaikos;1
-Copenhagen;Barcelona;1
-Rubin Kazan;Copenhagen;0
-Panathinaikos;Barcelona;2
-Barcelona;Rubin Kazan;0
-Copenhagen;Panathinaikos;0
-Bayern Munich;Roma;0
-CFR Cluj;Basel;0
-Basel;Bayern Munich;2
-Roma;CFR Cluj;0
-Roma;Basel;2
-Bayern Munich;CFR Cluj;0
-Basel;Roma;2
-CFR Cluj;Bayern Munich;2
-Roma;Bayern Munich;0
-Basel;CFR Cluj;0
-Bayern Munich;Basel;0
-CFR Cluj;Roma;1
-Marseille;Spartak Moscow;2
-ilina;Chelsea;2
-Spartak Moscow;ilina;0
-Chelsea;Marseille;0
-Spartak Moscow;Chelsea;2
-Marseille;ilina;0
-Chelsea;Spartak Moscow;0
-ilina;Marseille;2
-Spartak Moscow;Marseille;2
-Chelsea;ilina;0
-Marseille;Chelsea;0
-ilina;Spartak Moscow;2
-Real Madrid;Ajax;0
-Milan;Auxerre;0
-Auxerre;Real Madrid;2
-Ajax;Milan;1
-Ajax;Auxerre;0
-Real Madrid;Milan;0
-Auxerre;Ajax;0
-Milan;Real Madrid;1
-Ajax;Real Madrid;2
-Auxerre;Milan;2
-Real Madrid;Auxerre;0
-Milan;Ajax;2
-Arsenal;Braga;0
-Shakhtar Donetsk;Partizan;0
-Partizan;Arsenal;2
-Braga;Shakhtar Donetsk;2
-Braga;Partizan;0
-Arsenal;Shakhtar Donetsk;0
-Partizan;Braga;2
-Shakhtar Donetsk;Arsenal;0
-Braga;Arsenal;0
-Partizan;Shakhtar Donetsk;2
-Arsenal;Partizan;0
-Shakhtar Donetsk;Braga;0
-Manchester City;Napoli;1
-Villarreal;Bayern Munich;2
-Bayern Munich;Manchester City;0
-Napoli;Villarreal;0
-Napoli;Bayern Munich;1
-Manchester City;Villarreal;0
-Bayern Munich;Napoli;0
-Villarreal;Manchester City;2
-Napoli;Manchester City;0
-Bayern Munich;Villarreal;0
-Manchester City;Bayern Munich;0
-Villarreal;Napoli;2
-Lille;CSKA Moscow;1
-Internazionale;Trabzonspor;2
-CSKA Moscow;Internazionale;2
-Trabzonspor;Lille;1
-CSKA Moscow;Trabzonspor;0
-Lille;Internazionale;2
-Trabzonspor;CSKA Moscow;1
-Internazionale;Lille;0
-CSKA Moscow;Lille;2
-Trabzonspor;Internazionale;1
-Lille;Trabzonspor;1
-Internazionale;CSKA Moscow;2
-Basel;Oelul Galai;0
-Benfica;Manchester United;1
-Manchester United;Basel;1
-Oelul Galai;Benfica;2
-Oelul Galai;Manchester United;2
-Basel;Benfica;2
-Manchester United;Oelul Galai;0
-Benfica;Basel;1
-Oelul Galai;Basel;2
-Manchester United;Benfica;1
-Basel;Manchester United;0
-Benfica;Oelul Galai;0
-Dinamo Zagreb;Real Madrid;2
-Ajax;Lyon;1
-Lyon;Dinamo Zagreb;0
-Real Madrid;Ajax;0
-Real Madrid;Lyon;0
-Dinamo Zagreb;Ajax;2
-Lyon;Real Madrid;2
-Ajax;Dinamo Zagreb;0
-Real Madrid;Dinamo Zagreb;0
-Lyon;Ajax;1
-Dinamo Zagreb;Lyon;2
-Ajax;Real Madrid;2
-Chelsea;Bayer Leverkusen;0
-Genk;Valencia;1
-Valencia;Chelsea;1
-Bayer Leverkusen;Genk;0
-Bayer Leverkusen;Valencia;0
-Chelsea;Genk;0
-Valencia;Bayer Leverkusen;0
-Genk;Chelsea;1
-Bayer Leverkusen;Chelsea;0
-Valencia;Genk;0
-Chelsea;Valencia;0
-Genk;Bayer Leverkusen;1
-Olympiacos;Marseille;2
-Borussia Dortmund;Arsenal;1
-Arsenal;Olympiacos;0
-Marseille;Borussia Dortmund;0
-Marseille;Arsenal;2
-Olympiacos;Borussia Dortmund;0
-Arsenal;Marseille;1
-Borussia Dortmund;Olympiacos;0
-Marseille;Olympiacos;2
-Arsenal;Borussia Dortmund;0
-Olympiacos;Arsenal;0
-Borussia Dortmund;Marseille;2
-Porto;Shakhtar Donetsk;0
-APOEL;Zenit Saint Petersburg;0
-Zenit Saint Petersburg;Porto;0
-Shakhtar Donetsk;APOEL;1
-Shakhtar Donetsk;Zenit Saint Petersburg;1
-Porto;APOEL;1
-Zenit Saint Petersburg;Shakhtar Donetsk;0
-APOEL;Porto;0
-Zenit Saint Petersburg;APOEL;1
-Shakhtar Donetsk;Porto;2
-Porto;Zenit Saint Petersburg;1
-APOEL;Shakhtar Donetsk;2
-Barcelona;Milan;1
-Viktoria Plze;BATE Borisov;1
-BATE Borisov;Barcelona;2
-Milan;Viktoria Plze;0
-Milan;BATE Borisov;0
-Barcelona;Viktoria Plze;0
-BATE Borisov;Milan;1
-Viktoria Plze;Barcelona;2
-BATE Borisov;Viktoria Plze;2
-Milan;Barcelona;2
-Barcelona;BATE Borisov;0
-Viktoria Plze;Milan;1
-Dinamo Zagreb;Porto;2
-Paris SaintGermain;Dynamo Kyiv;0
-Dynamo Kyiv;Dinamo Zagreb;0
-Porto;Paris SaintGermain;0
-Porto;Dynamo Kyiv;0
-Dinamo Zagreb;Paris SaintGermain;2
-Dynamo Kyiv;Porto;1
-Paris SaintGermain;Dinamo Zagreb;0
-Porto;Dinamo Zagreb;0
-Dynamo Kyiv;Paris SaintGermain;2
-Dinamo Zagreb;Dynamo Kyiv;1
-Paris SaintGermain;Porto;0
-Montpellier;Arsenal;2
-Olympiacos;Schalke 04;2
-Schalke 04;Montpellier;1
-Arsenal;Olympiacos;0
-Arsenal;Schalke 04;2
-Montpellier;Olympiacos;2
-Schalke 04;Arsenal;1
-Olympiacos;Montpellier;0
-Arsenal;Montpellier;0
-Schalke 04;Olympiacos;0
-Montpellier;Schalke 04;1
-Olympiacos;Arsenal;0
-Mlaga;Zenit Saint Petersburg;0
-Milan;Anderlecht;1
-Zenit Saint Petersburg;Milan;2
-Anderlecht;Mlaga;2
-Zenit Saint Petersburg;Anderlecht;0
-Mlaga;Milan;0
-Anderlecht;Zenit Saint Petersburg;0
-Milan;Mlaga;1
-Zenit Saint Petersburg;Mlaga;1
-Anderlecht;Milan;2
-Mlaga;Anderlecht;1
-Milan;Zenit Saint Petersburg;2
-Borussia Dortmund;Ajax;0
-Real Madrid;Manchester City;0
-Manchester City;Borussia Dortmund;1
-Ajax;Real Madrid;2
-Ajax;Manchester City;0
-Borussia Dortmund;Real Madrid;0
-Manchester City;Ajax;1
-Real Madrid;Borussia Dortmund;1
-Ajax;Borussia Dortmund;2
-Manchester City;Real Madrid;1
-Borussia Dortmund;Manchester City;0
-Real Madrid;Ajax;0
-Shakhtar Donetsk;FC Nordsjlland;0
-Chelsea;Juventus;1
-Juventus;Shakhtar Donetsk;1
-FC Nordsjlland;Chelsea;2
-FC Nordsjlland;Juventus;1
-Shakhtar Donetsk;Chelsea;0
-Juventus;FC Nordsjlland;0
-Chelsea;Shakhtar Donetsk;0
-FC Nordsjlland;Shakhtar Donetsk;2
-Juventus;Chelsea;0
-Shakhtar Donetsk;Juventus;2
-Chelsea;FC Nordsjlland;0
-Lille;BATE Borisov;2
-Bayern Munich;Valencia;0
-Valencia;Lille;0
-BATE Borisov;Bayern Munich;0
-BATE Borisov;Valencia;2
-Lille;Bayern Munich;2
-Valencia;BATE Borisov;0
-Bayern Munich;Lille;0
-BATE Borisov;Lille;2
-Valencia;Bayern Munich;1
-Lille;Valencia;2
-Bayern Munich;BATE Borisov;0
-Barcelona;Spartak Moscow;0
-Celtic;Benfica;1
-Spartak Moscow;Celtic;2
-Benfica;Barcelona;2
-Spartak Moscow;Benfica;0
-Barcelona;Celtic;0
-Benfica;Spartak Moscow;0
-Celtic;Barcelona;0
-Spartak Moscow;Barcelona;2
-Benfica;Celtic;0
-Barcelona;Benfica;1
-Celtic;Spartak Moscow;0
-Manchester United;Galatasaray;0
-Braga;CFR Cluj;2
-CFR Cluj;Manchester United;2
-Galatasaray;Braga;2
-Galatasaray;CFR Cluj;1
-Manchester United;Braga;0
-CFR Cluj;Galatasaray;2
-Braga;Manchester United;2
-Galatasaray;Manchester United;0
-CFR Cluj;Braga;0
-Manchester United;CFR Cluj;2
-Braga;Galatasaray;2
-Manchester United;Bayer Leverkusen;0
-Real Sociedad;Shakhtar Donetsk;2
-Shakhtar Donetsk;Manchester United;1
-Bayer Leverkusen;Real Sociedad;0
-Bayer Leverkusen;Shakhtar Donetsk;0
-Manchester United;Real Sociedad;0
-Shakhtar Donetsk;Bayer Leverkusen;1
-Real Sociedad;Manchester United;1
-Bayer Leverkusen;Manchester United;2
-Shakhtar Donetsk;Real Sociedad;0
-Manchester United;Shakhtar Donetsk;0
-Real Sociedad;Bayer Leverkusen;2
-Galatasaray;Real Madrid;2
-Copenhagen;Juventus;1
-Juventus;Galatasaray;1
-Real Madrid;Copenhagen;0
-Real Madrid;Juventus;0
-Galatasaray;Copenhagen;0
-Juventus;Real Madrid;1
-Copenhagen;Galatasaray;0
-Real Madrid;Galatasaray;0
-Juventus;Copenhagen;0
-Galatasaray;Juventus;0
-Copenhagen;Real Madrid;2
-Benfica;Anderlecht;0
-Olympiacos;Paris SaintGermain;2
-Paris SaintGermain;Benfica;0
-Anderlecht;Olympiacos;2
-Anderlecht;Paris SaintGermain;2
-Benfica;Olympiacos;1
-Paris SaintGermain;Anderlecht;1
-Olympiacos;Benfica;0
-Anderlecht;Benfica;2
-Paris SaintGermain;Olympiacos;0
-Benfica;Paris SaintGermain;0
-Olympiacos;Anderlecht;0
-Bayern Munich;CSKA Moscow;0
-Viktoria Plze;Manchester City;2
-CSKA Moscow;Viktoria Plze;0
-Manchester City;Bayern Munich;2
-CSKA Moscow;Manchester City;2
-Bayern Munich;Viktoria Plze;0
-Manchester City;CSKA Moscow;0
-Viktoria Plze;Bayern Munich;2
-CSKA Moscow;Bayern Munich;2
-Manchester City;Viktoria Plze;0
-Bayern Munich;Manchester City;2
-Viktoria Plze;CSKA Moscow;0
-Schalke 04;Steaua Bucureti;0
-Chelsea;Basel;2
-Basel;Schalke 04;2
-Steaua Bucureti;Chelsea;2
-Steaua Bucureti;Basel;1
-Schalke 04;Chelsea;2
-Basel;Steaua Bucureti;1
-Chelsea;Schalke 04;0
-Steaua Bucureti;Schalke 04;1
-Basel;Chelsea;0
-Schalke 04;Basel;0
-Chelsea;Steaua Bucureti;0
-Marseille;Arsenal;2
-Napoli;Borussia Dortmund;0
-Borussia Dortmund;Marseille;0
-Arsenal;Napoli;0
-Arsenal;Borussia Dortmund;2
-Marseille;Napoli;2
-Borussia Dortmund;Arsenal;2
-Napoli;Marseille;0
-Arsenal;Marseille;0
-Borussia Dortmund;Napoli;0
-Marseille;Borussia Dortmund;2
-Napoli;Arsenal;0
-Austria Wien;Porto;2
-Atltico Madrid;Zenit Saint Petersburg;0
-Zenit Saint Petersburg;Austria Wien;1
-Porto;Atltico Madrid;2
-Porto;Zenit Saint Petersburg;2
-Austria Wien;Atltico Madrid;2
-Zenit Saint Petersburg;Porto;1
-Atltico Madrid;Austria Wien;0
-Zenit Saint Petersburg;Atltico Madrid;1
-Porto;Austria Wien;1
-Austria Wien;Zenit Saint Petersburg;0
-Atltico Madrid;Porto;0
-Milan;Celtic;0
-Barcelona;Ajax;0
-Ajax;Milan;1
-Celtic;Barcelona;2
-Celtic;Ajax;0
-Milan;Barcelona;1
-Ajax;Celtic;0
-Barcelona;Milan;0
-Celtic;Milan;2
-Ajax;Barcelona;0
-Milan;Ajax;1
-Barcelona;Celtic;0
-Olympiacos;Atltico Madrid;0
-Juventus;Malm FF;0
-Malm FF;Olympiacos;0
-Atltico Madrid;Juventus;0
-Atltico Madrid;Malm FF;0
-Olympiacos;Juventus;0
-Malm FF;Atltico Madrid;2
-Juventus;Olympiacos;0
-Atltico Madrid;Olympiacos;0
-Malm FF;Juventus;2
-Olympiacos;Malm FF;0
-Juventus;Atltico Madrid;1
-Liverpool;Ludogorets Razgrad;0
-Real Madrid;Basel;0
-Basel;Liverpool;0
-Ludogorets Razgrad;Real Madrid;2
-Ludogorets Razgrad;Basel;0
-Liverpool;Real Madrid;2
-Basel;Ludogorets Razgrad;0
-Real Madrid;Liverpool;0
-Ludogorets Razgrad;Liverpool;1
-Basel;Real Madrid;2
-Liverpool;Basel;1
-Real Madrid;Ludogorets Razgrad;0
-Monaco;Bayer Leverkusen;0
-Benfica;Zenit Saint Petersburg;2
-Zenit Saint Petersburg;Monaco;1
-Bayer Leverkusen;Benfica;0
-Bayer Leverkusen;Zenit Saint Petersburg;0
-Monaco;Benfica;1
-Zenit Saint Petersburg;Bayer Leverkusen;2
-Benfica;Monaco;0
-Zenit Saint Petersburg;Benfica;0
-Bayer Leverkusen;Monaco;2
-Monaco;Zenit Saint Petersburg;0
-Benfica;Bayer Leverkusen;1
-Galatasaray;Anderlecht;1
-Borussia Dortmund;Arsenal;0
-Arsenal;Galatasaray;0
-Anderlecht;Borussia Dortmund;2
-Anderlecht;Arsenal;2
-Galatasaray;Borussia Dortmund;2
-Arsenal;Anderlecht;1
-Borussia Dortmund;Galatasaray;0
-Anderlecht;Galatasaray;0
-Arsenal;Borussia Dortmund;0
-Galatasaray;Arsenal;2
-Borussia Dortmund;Anderlecht;1
-Roma;CSKA Moscow;0
-Bayern Munich;Manchester City;0
-CSKA Moscow;Bayern Munich;2
-Manchester City;Roma;1
-CSKA Moscow;Manchester City;1
-Roma;Bayern Munich;2
-Manchester City;CSKA Moscow;2
-Bayern Munich;Roma;0
-CSKA Moscow;Roma;1
-Manchester City;Bayern Munich;0
-Roma;Manchester City;2
-Bayern Munich;CSKA Moscow;0
-Barcelona;APOEL;0
-Ajax;Paris SaintGermain;1
-Paris SaintGermain;Barcelona;0
-APOEL;Ajax;1
-APOEL;Paris SaintGermain;2
-Barcelona;Ajax;0
-Paris SaintGermain;APOEL;0
-Ajax;Barcelona;2
-APOEL;Barcelona;2
-Paris SaintGermain;Ajax;0
-Barcelona;Paris SaintGermain;0
-Ajax;APOEL;0
-Chelsea;Schalke 04;1
-Maribor;Sporting CP;1
-Sporting CP;Chelsea;2
-Schalke 04;Maribor;1
-Schalke 04;Sporting CP;0
-Chelsea;Maribor;0
-Sporting CP;Schalke 04;0
-Maribor;Chelsea;1
-Schalke 04;Chelsea;2
-Sporting CP;Maribor;0
-Chelsea;Sporting CP;0
-Maribor;Schalke 04;2
-Porto;BATE Borisov;0
-Athletic Bilbao;Shakhtar Donetsk;1
-Shakhtar Donetsk;Porto;1
-BATE Borisov;Athletic Bilbao;0
-BATE Borisov;Shakhtar Donetsk;2
-Porto;Athletic Bilbao;0
-Shakhtar Donetsk;BATE Borisov;0
-Athletic Bilbao;Porto;2
-BATE Borisov;Porto;2
-Shakhtar Donetsk;Athletic Bilbao;2
-Porto;Shakhtar Donetsk;1
-Athletic Bilbao;BATE Borisov;0
-Paris SaintGermain;Malm FF;0
-Real Madrid;Shakhtar Donetsk;0
-Shakhtar Donetsk;Paris SaintGermain;2
-Malm FF;Real Madrid;2
-Malm FF;Shakhtar Donetsk;0
-Paris SaintGermain;Real Madrid;1
-Shakhtar Donetsk;Malm FF;0
-Real Madrid;Paris SaintGermain;0
-Malm FF;Paris SaintGermain;2
-Shakhtar Donetsk;Real Madrid;2
-Paris SaintGermain;Shakhtar Donetsk;0
-Real Madrid;Malm FF;0
-VfL Wolfsburg;CSKA Moscow;0
-PSV Eindhoven;Manchester United;0
-Manchester United;VfL Wolfsburg;0
-CSKA Moscow;PSV Eindhoven;0
-CSKA Moscow;Manchester United;1
-VfL Wolfsburg;PSV Eindhoven;0
-Manchester United;CSKA Moscow;0
-PSV Eindhoven;VfL Wolfsburg;0
-CSKA Moscow;VfL Wolfsburg;2
-Manchester United;PSV Eindhoven;1
-VfL Wolfsburg;Manchester United;0
-PSV Eindhoven;CSKA Moscow;0
-Galatasaray;Atltico Madrid;2
-Benfica;Astana;0
-Astana;Galatasaray;1
-Atltico Madrid;Benfica;2
-Atltico Madrid;Astana;0
-Galatasaray;Benfica;0
-Astana;Atltico Madrid;1
-Benfica;Galatasaray;0
-Astana;Benfica;1
-Atltico Madrid;Galatasaray;0
-Galatasaray;Astana;1
-Benfica;Atltico Madrid;2
-Manchester City;Juventus;2
-Sevilla;Borussia Mnchengladbach;0
-Borussia Mnchengladbach;Manchester City;2
-Juventus;Sevilla;0
-Juventus;Borussia Mnchengladbach;1
-Manchester City;Sevilla;0
-Borussia Mnchengladbach;Juventus;1
-Sevilla;Manchester City;2
-Juventus;Manchester City;0
-Borussia Mnchengladbach;Sevilla;0
-Manchester City;Borussia Mnchengladbach;0
-Sevilla;Juventus;0
-Bayer Leverkusen;BATE Borisov;0
-Roma;Barcelona;1
-Barcelona;Bayer Leverkusen;0
-BATE Borisov;Roma;0
-BATE Borisov;Barcelona;2
-Bayer Leverkusen;Roma;1
-Barcelona;BATE Borisov;0
-Roma;Bayer Leverkusen;0
-BATE Borisov;Bayer Leverkusen;1
-Barcelona;Roma;0
-Bayer Leverkusen;Barcelona;1
-Roma;BATE Borisov;1
-Dinamo Zagreb;Arsenal;0
-Olympiacos;Bayern Munich;2
-Bayern Munich;Dinamo Zagreb;0
-Arsenal;Olympiacos;2
-Arsenal;Bayern Munich;0
-Dinamo Zagreb;Olympiacos;2
-Bayern Munich;Arsenal;0
-Olympiacos;Dinamo Zagreb;0
-Arsenal;Dinamo Zagreb;0
-Bayern Munich;Olympiacos;0
-Dinamo Zagreb;Bayern Munich;2
-Olympiacos;Arsenal;2
-Dynamo Kyiv;Porto;1
-Chelsea;Maccabi Tel Aviv;0
-Maccabi Tel Aviv;Dynamo Kyiv;2
-Porto;Chelsea;0
-Porto;Maccabi Tel Aviv;0
-Dynamo Kyiv;Chelsea;1
-Maccabi Tel Aviv;Porto;2
-Chelsea;Dynamo Kyiv;0
-Porto;Dynamo Kyiv;2
-Maccabi Tel Aviv;Chelsea;2
-Dynamo Kyiv;Maccabi Tel Aviv;0
-Chelsea;Porto;0
-Valencia;Zenit Saint Petersburg;2
-Gent;Lyon;1
-Lyon;Valencia;2
-Zenit Saint Petersburg;Gent;0
-Zenit Saint Petersburg;Lyon;0
-Valencia;Gent;0
-Lyon;Zenit Saint Petersburg;2
-Gent;Valencia;0
-Zenit Saint Petersburg;Valencia;0
-Lyon;Gent;2
-Valencia;Lyon;2
-Gent;Zenit Saint Petersburg;0
-Paris SaintGermain;Arsenal;1
-Basel;Ludogorets Razgrad;1
-Ludogorets Razgrad;Paris SaintGermain;2
-Arsenal;Basel;0
-Arsenal;Ludogorets Razgrad;0
-Paris SaintGermain;Basel;0
-Ludogorets Razgrad;Arsenal;2
-Basel;Paris SaintGermain;2
-Arsenal;Paris SaintGermain;1
-Ludogorets Razgrad;Basel;1
-Paris SaintGermain;Ludogorets Razgrad;1
-Basel;Arsenal;2
-Dynamo Kyiv;Napoli;2
-Benfica;Beikta;1
-Beikta;Dynamo Kyiv;1
-Napoli;Benfica;0
-Napoli;Beikta;2
-Dynamo Kyiv;Benfica;2
-Beikta;Napoli;1
-Benfica;Dynamo Kyiv;0
-Beikta;Benfica;1
-Napoli;Dynamo Kyiv;1
-Dynamo Kyiv;Beikta;0
-Benfica;Napoli;2
-Barcelona;Celtic;0
-Manchester City;Borussia Mnchengladbach;0
-Borussia Mnchengladbach;Barcelona;2
-Celtic;Manchester City;1
-Celtic;Borussia Mnchengladbach;2
-Barcelona;Manchester City;0
-Borussia Mnchengladbach;Celtic;1
-Manchester City;Barcelona;0
-Celtic;Barcelona;2
-Borussia Mnchengladbach;Manchester City;1
-Barcelona;Borussia Mnchengladbach;0
-Manchester City;Celtic;1
-Bayern Munich;Rostov;0
-PSV Eindhoven;Atltico Madrid;2
-Atltico Madrid;Bayern Munich;0
-Rostov;PSV Eindhoven;1
-Rostov;Atltico Madrid;2
-Bayern Munich;PSV Eindhoven;0
-Atltico Madrid;Rostov;0
-PSV Eindhoven;Bayern Munich;2
-Rostov;Bayern Munich;0
-Atltico Madrid;PSV Eindhoven;0
-Bayern Munich;Atltico Madrid;0
-PSV Eindhoven;Rostov;1
-Bayer Leverkusen;CSKA Moscow;1
-Tottenham Hotspur;Monaco;2
-Monaco;Bayer Leverkusen;1
-CSKA Moscow;Tottenham Hotspur;2
-CSKA Moscow;Monaco;1
-Bayer Leverkusen;Tottenham Hotspur;1
-Monaco;CSKA Moscow;0
-Tottenham Hotspur;Bayer Leverkusen;2
-CSKA Moscow;Bayer Leverkusen;1
-Monaco;Tottenham Hotspur;0
-Bayer Leverkusen;Monaco;0
-Tottenham Hotspur;CSKA Moscow;0
-Real Madrid;Sporting CP;0
-Legia Warsaw;Borussia Dortmund;2
-Borussia Dortmund;Real Madrid;1
-Sporting CP;Legia Warsaw;0
-Sporting CP;Borussia Dortmund;2
-Real Madrid;Legia Warsaw;0
-Borussia Dortmund;Sporting CP;0
-Legia Warsaw;Real Madrid;1
-Sporting CP;Real Madrid;2
-Borussia Dortmund;Legia Warsaw;0
-Real Madrid;Borussia Dortmund;1
-Legia Warsaw;Sporting CP;0
-Club Brugge;Leicester City;2
-Porto;Copenhagen;1
-Copenhagen;Club Brugge;0
-Leicester City;Porto;0
-Leicester City;Copenhagen;0
-Club Brugge;Porto;2
-Copenhagen;Leicester City;1
-Porto;Club Brugge;0
-Leicester City;Club Brugge;0
-Copenhagen;Porto;1
-Club Brugge;Copenhagen;2
-Porto;Leicester City;0
-Lyon;Dinamo Zagreb;0
-Juventus;Sevilla;1
-Sevilla;Lyon;0
-Dinamo Zagreb;Juventus;2
-Dinamo Zagreb;Sevilla;2
-Lyon;Juventus;2
-Sevilla;Dinamo Zagreb;0
-Juventus;Lyon;1
-Dinamo Zagreb;Lyon;2
-Sevilla;Juventus;2
-Lyon;Sevilla;1
-Juventus;Dinamo Zagreb;0
-Benfica;CSKA Moscow;2
-Manchester United;Basel;0
-Basel;Benfica;0
-CSKA Moscow;Manchester United;2
-CSKA Moscow;Basel;2
-Benfica;Manchester United;2
-Basel;CSKA Moscow;2
-Manchester United;Benfica;0
-CSKA Moscow;Benfica;0
-Basel;Manchester United;0
-Benfica;Basel;2
-Manchester United;CSKA Moscow;0
-Bayern Munich;Anderlecht;0
-Celtic;Paris SaintGermain;2
-Paris SaintGermain;Bayern Munich;0
-Anderlecht;Celtic;2
-Anderlecht;Paris SaintGermain;2
-Bayern Munich;Celtic;0
-Paris SaintGermain;Anderlecht;0
-Celtic;Bayern Munich;2
-Anderlecht;Bayern Munich;2
-Paris SaintGermain;Celtic;0
-Bayern Munich;Paris SaintGermain;0
-Celtic;Anderlecht;2
-Chelsea;Qaraba;0
-Roma;Atltico Madrid;1
-Qaraba;Roma;2
-Atltico Madrid;Chelsea;2
-Qaraba;Atltico Madrid;1
-Chelsea;Roma;1
-Atltico Madrid;Qaraba;1
-Roma;Chelsea;0
-Qaraba;Chelsea;2
-Atltico Madrid;Roma;0
-Chelsea;Atltico Madrid;1
-Roma;Qaraba;0
-Barcelona;Juventus;0
-Olympiacos;Sporting CP;2
-Sporting CP;Barcelona;2
-Juventus;Olympiacos;0
-Juventus;Sporting CP;0
-Barcelona;Olympiacos;0
-Sporting CP;Juventus;1
-Olympiacos;Barcelona;1
-Juventus;Barcelona;1
-Sporting CP;Olympiacos;0
-Barcelona;Sporting CP;0
-Olympiacos;Juventus;2
-Maribor;Spartak Moscow;1
-Liverpool;Sevilla;1
-Sevilla;Maribor;0
-Spartak Moscow;Liverpool;1
-Spartak Moscow;Sevilla;0
-Maribor;Liverpool;2
-Sevilla;Spartak Moscow;0
-Liverpool;Maribor;0
-Spartak Moscow;Maribor;1
-Sevilla;Liverpool;1
-Maribor;Sevilla;1
-Liverpool;Spartak Moscow;0
-Feyenoord;Manchester City;2
-Shakhtar Donetsk;Napoli;0
-Napoli;Feyenoord;0
-Manchester City;Shakhtar Donetsk;0
-Manchester City;Napoli;0
-Feyenoord;Shakhtar Donetsk;2
-Napoli;Manchester City;2
-Shakhtar Donetsk;Feyenoord;0
-Manchester City;Feyenoord;0
-Napoli;Shakhtar Donetsk;0
-Feyenoord;Napoli;0
-Shakhtar Donetsk;Manchester City;0
-RB Leipzig;Monaco;1
-Porto;Beikta;2
-Beikta;RB Leipzig;0
-Monaco;Porto;2
-Monaco;Beikta;2
-RB Leipzig;Porto;0
-Beikta;Monaco;1
-Porto;RB Leipzig;0
-Beikta;Porto;1
-Monaco;RB Leipzig;2
-RB Leipzig;Beikta;2
-Porto;Monaco;0
-Real Madrid;APOEL;0
-Tottenham Hotspur;Borussia Dortmund;0
-Borussia Dortmund;Real Madrid;2
-APOEL;Tottenham Hotspur;2
-APOEL;Borussia Dortmund;1
-Real Madrid;Tottenham Hotspur;1
-Borussia Dortmund;APOEL;1
-Tottenham Hotspur;Real Madrid;0
-APOEL;Real Madrid;2
-Borussia Dortmund;Tottenham Hotspur;2
-Real Madrid;Borussia Dortmund;0
-Tottenham Hotspur;APOEL;0
-Club Brugge;Borussia Dortmund;2
-Monaco;Atltico Madrid;2
-Atltico Madrid;Club Brugge;0
-Borussia Dortmund;Monaco;0
-Club Brugge;Monaco;1
-Borussia Dortmund;Atltico Madrid;0
-Monaco;Club Brugge;2
-Atltico Madrid;Borussia Dortmund;0
-Atltico Madrid;Monaco;0
-Borussia Dortmund;Club Brugge;1
-Club Brugge;Atltico Madrid;1
-Monaco;Borussia Dortmund;2
-Barcelona;PSV Eindhoven;0
-Inter Milan;Tottenham Hotspur;0
-Tottenham Hotspur;Barcelona;2
-PSV Eindhoven;Inter Milan;2
-PSV Eindhoven;Tottenham Hotspur;1
-Barcelona;Inter Milan;0
-Tottenham Hotspur;PSV Eindhoven;0
-Inter Milan;Barcelona;1
-PSV Eindhoven;Barcelona;2
-Tottenham Hotspur;Inter Milan;0
-Barcelona;Tottenham Hotspur;1
-Inter Milan;PSV Eindhoven;1
-Liverpool;Paris SaintGermain;0
-Red Star Belgrade;Napoli;1
-Paris SaintGermain;Red Star Belgrade;0
-Napoli;Liverpool;0
-Paris SaintGermain;Napoli;1
-Liverpool;Red Star Belgrade;0
-Red Star Belgrade;Liverpool;0
-Napoli;Paris SaintGermain;1
-Paris SaintGermain;Liverpool;0
-Napoli;Red Star Belgrade;0
-Liverpool;Napoli;0
-Red Star Belgrade;Paris SaintGermain;2
-Galatasaray;Lokomotiv Moscow;0
-Schalke 04;Porto;1
-Lokomotiv Moscow;Schalke 04;2
-Porto;Galatasaray;0
-Lokomotiv Moscow;Porto;2
-Galatasaray;Schalke 04;1
-Porto;Lokomotiv Moscow;0
-Schalke 04;Galatasaray;0
-Lokomotiv Moscow;Galatasaray;0
-Porto;Schalke 04;0
-Galatasaray;Porto;2
-Schalke 04;Lokomotiv Moscow;0
-Ajax;AEK Athens;0
-Benfica;Bayern Munich;2
-Bayern Munich;Ajax;1
-AEK Athens;Benfica;2
-AEK Athens;Bayern Munich;2
-Ajax;Benfica;0
-Bayern Munich;AEK Athens;0
-Benfica;Ajax;1
-AEK Athens;Ajax;2
-Bayern Munich;Benfica;0
-Ajax;Bayern Munich;1
-Benfica;AEK Athens;0
-Shakhtar Donetsk;1899 Hoffenheim;1
-Manchester City;Lyon;2
-1899 Hoffenheim;Manchester City;2
-Lyon;Shakhtar Donetsk;1
-1899 Hoffenheim;Lyon;1
-Shakhtar Donetsk;Manchester City;2
-Lyon;1899 Hoffenheim;1
-Manchester City;Shakhtar Donetsk;0
-1899 Hoffenheim;Shakhtar Donetsk;2
-Lyon;Manchester City;1
-Shakhtar Donetsk;Lyon;1
-Manchester City;1899 Hoffenheim;0
-Real Madrid;Roma;0
-Viktoria Plze;CSKA Moscow;1
-CSKA Moscow;Real Madrid;0
-Roma;Viktoria Plze;0
-Roma;CSKA Moscow;0
-Real Madrid;Viktoria Plze;0
-CSKA Moscow;Roma;2
-Viktoria Plze;Real Madrid;2
-CSKA Moscow;Viktoria Plze;2
-Roma;Real Madrid;2
-Real Madrid;CSKA Moscow;2
-Viktoria Plze;Roma;0
-Young Boys;Manchester United;2
-Valencia;Juventus;2
-Juventus;Young Boys;0
-Manchester United;Valencia;1
-Young Boys;Valencia;1
-Manchester United;Juventus;2
-Valencia;Young Boys;0
-Juventus;Manchester United;2
-Manchester United;Young Boys;0
-Juventus;Valencia;0
-Young Boys;Juventus;0
-Valencia;Manchester United;0
-Club Brugge;Galatasaray;1
-Paris SaintGermain;Real Madrid;0
-Real Madrid;Club Brugge;1
-Galatasaray;Paris SaintGermain;2
-Galatasaray;Real Madrid;2
-Club Brugge;Paris SaintGermain;2
-Real Madrid;Galatasaray;0
-Paris SaintGermain;Club Brugge;0
-Galatasaray;Club Brugge;1
-Real Madrid;Paris SaintGermain;1
-Club Brugge;Real Madrid;2
-Paris SaintGermain;Galatasaray;0
-Olympiacos;Tottenham Hotspur;1
-Bayern Munich;Red Star Belgrade;0
-Red Star Belgrade;Olympiacos;0
-Tottenham Hotspur;Bayern Munich;2
-Tottenham Hotspur;Red Star Belgrade;0
-Olympiacos;Bayern Munich;2
-Bayern Munich;Olympiacos;0
-Red Star Belgrade;Tottenham Hotspur;2
-Tottenham Hotspur;Olympiacos;0
-Red Star Belgrade;Bayern Munich;2
-Olympiacos;Red Star Belgrade;0
-Bayern Munich;Tottenham Hotspur;0
-Shakhtar Donetsk;Manchester City;2
-Dinamo Zagreb;Atalanta;0
-Atalanta;Shakhtar Donetsk;2
-Manchester City;Dinamo Zagreb;0
-Shakhtar Donetsk;Dinamo Zagreb;1
-Manchester City;Atalanta;0
-Atalanta;Manchester City;1
-Dinamo Zagreb;Shakhtar Donetsk;1
-Manchester City;Shakhtar Donetsk;1
-Atalanta;Dinamo Zagreb;0
-Shakhtar Donetsk;Atalanta;2
-Dinamo Zagreb;Manchester City;2
-Atltico Madrid;Juventus;1
-Bayer Leverkusen;Lokomotiv Moscow;2
-Lokomotiv Moscow;Atltico Madrid;2
-Juventus;Bayer Leverkusen;0
-Atltico Madrid;Bayer Leverkusen;0
-Juventus;Lokomotiv Moscow;0
-Lokomotiv Moscow;Juventus;2
-Bayer Leverkusen;Atltico Madrid;0
-Lokomotiv Moscow;Bayer Leverkusen;2
-Juventus;Atltico Madrid;0
-Atltico Madrid;Lokomotiv Moscow;0
-Bayer Leverkusen;Juventus;2
-Red Bull Salzburg;Genk;0
-Napoli;Liverpool;0
-Genk;Napoli;1
-Liverpool;Red Bull Salzburg;0
-Genk;Liverpool;2
-Red Bull Salzburg;Napoli;2
-Liverpool;Genk;0
-Napoli;Red Bull Salzburg;1
-Genk;Red Bull Salzburg;2
-Liverpool;Napoli;1
-Red Bull Salzburg;Liverpool;2
-Napoli;Genk;0
-Inter Milan;Slavia Prague;1
-Borussia Dortmund;Barcelona;1
-Slavia Prague;Borussia Dortmund;2
-Barcelona;Inter Milan;0
-Slavia Prague;Barcelona;2
-Inter Milan;Borussia Dortmund;0
-Barcelona;Slavia Prague;1
-Borussia Dortmund;Inter Milan;0
-Slavia Prague;Inter Milan;2
-Barcelona;Borussia Dortmund;0
-Inter Milan;Barcelona;2
-Borussia Dortmund;Slavia Prague;0
-Lyon;Zenit Saint Petersburg;1
-Benfica;RB Leipzig;2
-Zenit Saint Petersburg;Benfica;0
-RB Leipzig;Lyon;2
-RB Leipzig;Zenit Saint Petersburg;0
-Benfica;Lyon;0
-Zenit Saint Petersburg;RB Leipzig;2
-Lyon;Benfica;0
-Zenit Saint Petersburg;Lyon;0
-RB Leipzig;Benfica;1
-Benfica;Zenit Saint Petersburg;0
-Lyon;RB Leipzig;1
-Ajax;Lille;0
-Chelsea;Valencia;2
-Valencia;Ajax;2
-Lille;Chelsea;2
-Ajax;Chelsea;2
-Lille;Valencia;1
-Valencia;Lille;0
-Chelsea;Ajax;1
-Valencia;Chelsea;1
-Lille;Ajax;2
-Ajax;Valencia;2
-Chelsea;Lille;0
-Red Bull Salzburg;Lokomotiv Moscow;1
-Bayern Munich;Atltico Madrid;0
-Lokomotiv Moscow;Bayern Munich;2
-Atltico Madrid;Red Bull Salzburg;0
-Lokomotiv Moscow;Atltico Madrid;1
-Red Bull Salzburg;Bayern Munich;2
-Atltico Madrid;Lokomotiv Moscow;1
-Bayern Munich;Red Bull Salzburg;0
-Lokomotiv Moscow;Red Bull Salzburg;2
-Atltico Madrid;Bayern Munich;1
-Bayern Munich;Lokomotiv Moscow;0
-Red Bull Salzburg;Atltico Madrid;2
-Real Madrid;Shakhtar Donetsk;2
-Inter Milan;Borussia Mnchengladbach;1
-Shakhtar Donetsk;Inter Milan;1
-Borussia Mnchengladbach;Real Madrid;1
-Shakhtar Donetsk;Borussia Mnchengladbach;2
-Real Madrid;Inter Milan;0
-Borussia Mnchengladbach;Shakhtar Donetsk;0
-Inter Milan;Real Madrid;2
-Shakhtar Donetsk;Real Madrid;0
-Borussia Mnchengladbach;Inter Milan;2
-Real Madrid;Borussia Mnchengladbach;0
-Inter Milan;Shakhtar Donetsk;1
-Manchester City;Porto;0
-Olympiacos;Marseille;0
-Porto;Olympiacos;0
-Marseille;Manchester City;2
-Manchester City;Olympiacos;0
-Porto;Marseille;0
-Olympiacos;Manchester City;2
-Marseille;Porto;2
-Marseille;Olympiacos;0
-Porto;Manchester City;1
-Manchester City;Marseille;0
-Olympiacos;Porto;2
-Ajax;Liverpool;2
-Midtjylland;Atalanta;2
-Liverpool;Midtjylland;0
-Atalanta;Ajax;1
-Midtjylland;Ajax;2
-Atalanta;Liverpool;2
-Liverpool;Atalanta;2
-Ajax;Midtjylland;0
-Liverpool;Ajax;0
-Atalanta;Midtjylland;1
-Ajax;Atalanta;2
-Midtjylland;Liverpool;1
-Chelsea;Sevilla;1
-Rennes;Krasnodar;1
-Krasnodar;Chelsea;2
-Sevilla;Rennes;0
-Sevilla;Krasnodar;0
-Chelsea;Rennes;0
-Krasnodar;Sevilla;2
-Rennes;Chelsea;2
-Krasnodar;Rennes;0
-Sevilla;Chelsea;2
-Chelsea;Krasnodar;1
-Rennes;Sevilla;2
-Zenit Saint Petersburg;Club Brugge;2
-Lazio;Borussia Dortmund;0
-Borussia Dortmund;Zenit Saint Petersburg;0
-Club Brugge;Lazio;1
-Zenit Saint Petersburg;Lazio;1
-Club Brugge;Borussia Dortmund;2
-Lazio;Zenit Saint Petersburg;0
-Borussia Dortmund;Club Brugge;0
-Borussia Dortmund;Lazio;1
-Club Brugge;Zenit Saint Petersburg;0
-Zenit Saint Petersburg;Borussia Dortmund;2
-Lazio;Club Brugge;1
-Dynamo Kyiv;Juventus;2
-Barcelona;Ferencvros;0
-Juventus;Barcelona;2
-Ferencvros;Dynamo Kyiv;1
-Barcelona;Dynamo Kyiv;0
-Ferencvros;Juventus;2
-Dynamo Kyiv;Barcelona;2
-Juventus;Ferencvros;0
-Juventus;Dynamo Kyiv;0
-Ferencvros;Barcelona;2
-Barcelona;Juventus;2
-Dynamo Kyiv;Ferencvros;0
-Paris SaintGermain;Manchester United;2
-RB Leipzig;stanbul Baakehir;0
-stanbul Baakehir;Paris SaintGermain;2
-Manchester United;RB Leipzig;0
-stanbul Baakehir;Manchester United;0
-RB Leipzig;Paris SaintGermain;0
-Manchester United;stanbul Baakehir;0
-Paris SaintGermain;RB Leipzig;0
-stanbul Baakehir;RB Leipzig;2
-Manchester United;Paris SaintGermain;2
-Paris SaintGermain;stanbul Baakehir;0
-RB Leipzig;Manchester United;0
-Manchester City;RB Leipzig;0
-Club Brugge;Paris SaintGermain;1
-RB Leipzig;Club Brugge;2
-Paris SaintGermain;Manchester City;0
-Club Brugge;Manchester City;2
-Paris SaintGermain;RB Leipzig;0
-RB Leipzig;Paris SaintGermain;1
-Manchester City;Club Brugge;0
-Manchester City;Paris SaintGermain;0
-Club Brugge;RB Leipzig;2
-RB Leipzig;Manchester City;0
-Paris SaintGermain;Club Brugge;0
-Liverpool;Milan;0
-Atltico Madrid;Porto;1
-Milan;Atltico Madrid;2
-Porto;Liverpool;2
-Atltico Madrid;Liverpool;2
-Porto;Milan;0
-Milan;Porto;1
-Liverpool;Atltico Madrid;0
-Liverpool;Porto;0
-Atltico Madrid;Milan;2
-Porto;Atltico Madrid;2
-Milan;Liverpool;2
-Beikta;Borussia Dortmund;2
-Sporting CP;Ajax;2
-Ajax;Beikta;0
-Borussia Dortmund;Sporting CP;0
-Beikta;Sporting CP;2
-Ajax;Borussia Dortmund;0
-Borussia Dortmund;Ajax;2
-Sporting CP;Beikta;0
-Beikta;Ajax;2
-Sporting CP;Borussia Dortmund;0
-Ajax;Sporting CP;0
-Borussia Dortmund;Beikta;0
-Sheriff Tiraspol;Shakhtar Donetsk;0
-Inter Milan;Real Madrid;2
-Shakhtar Donetsk;Inter Milan;1
-Real Madrid;Sheriff Tiraspol;2
-Shakhtar Donetsk;Real Madrid;2
-Inter Milan;Sheriff Tiraspol;0
-Real Madrid;Shakhtar Donetsk;0
-Sheriff Tiraspol;Inter Milan;2
-Inter Milan;Shakhtar Donetsk;0
-Sheriff Tiraspol;Real Madrid;2
-Shakhtar Donetsk;Sheriff Tiraspol;1
-Real Madrid;Inter Milan;0
-Barcelona;Bayern Munich;2
-Dynamo Kyiv;Benfica;1
-Benfica;Barcelona;0
-Bayern Munich;Dynamo Kyiv;0
-Barcelona;Dynamo Kyiv;0
-Benfica;Bayern Munich;2
-Bayern Munich;Benfica;0
-Dynamo Kyiv;Barcelona;2
-Dynamo Kyiv;Bayern Munich;2
-Barcelona;Benfica;1
-Bayern Munich;Barcelona;0
-Benfica;Dynamo Kyiv;0
-Young Boys;Manchester United;0
-Villarreal;Atalanta;1
-Atalanta;Young Boys;0
-Manchester United;Villarreal;0
-Manchester United;Atalanta;0
-Young Boys;Villarreal;2
-Atalanta;Manchester United;1
-Villarreal;Young Boys;0
-Villarreal;Manchester United;2
-Young Boys;Atalanta;1
-Manchester United;Young Boys;1
-Atalanta;Villarreal;2
-Sevilla;Red Bull Salzburg;1
-Lille;VfL Wolfsburg;1
-Red Bull Salzburg;Lille;0
-VfL Wolfsburg;Sevilla;1
-Red Bull Salzburg;VfL Wolfsburg;0
-Lille;Sevilla;1
-VfL Wolfsburg;Red Bull Salzburg;0
-Sevilla;Lille;2
-Sevilla;VfL Wolfsburg;0
-Lille;Red Bull Salzburg;0
-VfL Wolfsburg;Lille;2
-Red Bull Salzburg;Sevilla;0
-Chelsea;Zenit Saint Petersburg;0
-Malm FF;Juventus;2
-Zenit Saint Petersburg;Malm FF;0
-Juventus;Chelsea;0
-Zenit Saint Petersburg;Juventus;2
-Chelsea;Malm FF;0
-Malm FF;Chelsea;2
-Juventus;Zenit Saint Petersburg;0
-Chelsea;Juventus;0
-Malm FF;Zenit Saint Petersburg;1
-Zenit Saint Petersburg;Chelsea;1
-Juventus;Malm FF;0
-Ajax;Rangers;0
-Napoli;Liverpool;0
-Liverpool;Ajax;0
-Rangers;Napoli;2
-Liverpool;Rangers;0
-Ajax;Napoli;2
-Napoli;Ajax;0
-Rangers;Liverpool;2
-Napoli;Rangers;0
-Ajax;Liverpool;2
-Liverpool;Napoli;0
-Rangers;Ajax;2
-Atltico Madrid;Porto;0
-Club Brugge;Bayer Leverkusen;0
-Porto;Club Brugge;2
-Bayer Leverkusen;Atltico Madrid;0
-Porto;Bayer Leverkusen;0
-Club Brugge;Atltico Madrid;0
-Atltico Madrid;Club Brugge;1
-Bayer Leverkusen;Porto;2
-Club Brugge;Porto;2
-Atltico Madrid;Bayer Leverkusen;1
-Porto;Atltico Madrid;0
-Bayer Leverkusen;Club Brugge;1
-Barcelona;Viktoria Plze;0
-Inter Milan;Bayern Munich;2
-Viktoria Plze;Inter Milan;2
-Bayern Munich;Barcelona;0
-Bayern Munich;Viktoria Plze;0
-Inter Milan;Barcelona;0
-Barcelona;Inter Milan;1
-Viktoria Plze;Bayern Munich;2
-Inter Milan;Viktoria Plze;0
-Barcelona;Bayern Munich;2
-Bayern Munich;Inter Milan;0
-Viktoria Plze;Barcelona;2
-Eintracht Frankfurt;Sporting CP;2
-Tottenham Hotspur;Marseille;0
-Sporting CP;Tottenham Hotspur;0
-Marseille;Eintracht Frankfurt;2
-Marseille;Sporting CP;0
-Eintracht Frankfurt;Tottenham Hotspur;1
-Tottenham Hotspur;Eintracht Frankfurt;0
-Sporting CP;Marseille;2
-Tottenham Hotspur;Sporting CP;1
-Eintracht Frankfurt;Marseille;0
-Sporting CP;Eintracht Frankfurt;2
-Marseille;Tottenham Hotspur;2
-Dinamo Zagreb;Chelsea;0
-Red Bull Salzburg;Milan;1
-Milan;Dinamo Zagreb;0
-Chelsea;Red Bull Salzburg;1
-Red Bull Salzburg;Dinamo Zagreb;0
-Chelsea;Milan;0
-Dinamo Zagreb;Red Bull Salzburg;1
-Milan;Chelsea;2
-Red Bull Salzburg;Chelsea;2
-Dinamo Zagreb;Milan;2
-Chelsea;Dinamo Zagreb;0
-Milan;Red Bull Salzburg;0
-Celtic;Real Madrid;2
-RB Leipzig;Shakhtar Donetsk;2
-Shakhtar Donetsk;Celtic;1
-Real Madrid;RB Leipzig;0
-RB Leipzig;Celtic;0
-Real Madrid;Shakhtar Donetsk;0
-Shakhtar Donetsk;Real Madrid;1
-Celtic;RB Leipzig;2
-Celtic;Shakhtar Donetsk;1
-RB Leipzig;Real Madrid;0
-Real Madrid;Celtic;0
-Shakhtar Donetsk;RB Leipzig;2
-Borussia Dortmund;Copenhagen;0
-Sevilla;Manchester City;2
-Manchester City;Borussia Dortmund;0
-Copenhagen;Sevilla;1
-Manchester City;Copenhagen;0
-Sevilla;Borussia Dortmund;2
-Copenhagen;Manchester City;1
-Borussia Dortmund;Sevilla;1
-Sevilla;Copenhagen;0
-Borussia Dortmund;Manchester City;1
-Manchester City;Sevilla;0
-Copenhagen;Borussia Dortmund;1
-Paris SaintGermain;Juventus;0
-Benfica;Maccabi Haifa;0
-Juventus;Benfica;2
-Maccabi Haifa;Paris SaintGermain;2
-Juventus;Maccabi Haifa;0
-Benfica;Paris SaintGermain;1
-Maccabi Haifa;Juventus;0
-Paris SaintGermain;Benfica;1
-Paris SaintGermain;Maccabi Haifa;0
-Benfica;Juventus;0
-Juventus;Paris SaintGermain;2
-Maccabi Haifa;Benfica;2
+teamA;nationalityA;rankA;teamB;nationalityB;rankB;score
+Rapid Wien;Austria;24,875;Bayern Munich;Germany;48,989;2
+Club Brugge;Belgium;31,75;Juventus;Italy;61,186;2
+Juventus;Italy;61,186;Rapid Wien;Austria;24,875;0
+Bayern Munich;Germany;48,989;Club Brugge;Belgium;31,75;0
+Bayern Munich;Germany;48,989;Juventus;Italy;61,186;0
+Rapid Wien;Austria;24,875;Club Brugge;Belgium;31,75;2
+Juventus;Italy;61,186;Bayern Munich;Germany;48,989;0
+Club Brugge;Belgium;31,75;Rapid Wien;Austria;24,875;0
+Bayern Munich;Germany;48,989;Rapid Wien;Austria;24,875;0
+Juventus;Italy;61,186;Club Brugge;Belgium;31,75;0
+Rapid Wien;Austria;24,875;Juventus;Italy;61,186;2
+Club Brugge;Belgium;31,75;Bayern Munich;Germany;48,989;1
+Sparta Prague;Czech Republic;27,95;Ajax;Netherlands;39,831;1
+Arsenal;England;63,224;Thun;Switzerland;20,875;0
+Thun;Switzerland;20,875;Sparta Prague;Czech Republic;27,95;0
+Ajax;Netherlands;39,831;Arsenal;England;63,224;2
+Ajax;Netherlands;39,831;Thun;Switzerland;20,875;0
+Sparta Prague;Czech Republic;27,95;Arsenal;England;63,224;2
+Thun;Switzerland;20,875;Ajax;Netherlands;39,831;2
+Arsenal;England;63,224;Sparta Prague;Czech Republic;27,95;0
+Ajax;Netherlands;39,831;Sparta Prague;Czech Republic;27,95;0
+Thun;Switzerland;20,875;Arsenal;England;63,224;2
+Sparta Prague;Czech Republic;27,95;Thun;Switzerland;20,875;1
+Arsenal;England;63,224;Ajax;Netherlands;39,831;1
+Udinese;Italy;61,186;Panathinaikos;Greece;35,498;0
+Werder Bremen;Germany;48,989;Barcelona;Spain;73,717;2
+Barcelona;Spain;73,717;Udinese;Italy;61,186;0
+Panathinaikos;Greece;35,498;Werder Bremen;Germany;48,989;0
+Panathinaikos;Greece;35,498;Barcelona;Spain;73,717;1
+Udinese;Italy;61,186;Werder Bremen;Germany;48,989;1
+Barcelona;Spain;73,717;Panathinaikos;Greece;35,498;0
+Werder Bremen;Germany;48,989;Udinese;Italy;61,186;0
+Panathinaikos;Greece;35,498;Udinese;Italy;61,186;2
+Barcelona;Spain;73,717;Werder Bremen;Germany;48,989;0
+Udinese;Italy;61,186;Barcelona;Spain;73,717;2
+Werder Bremen;Germany;48,989;Panathinaikos;Greece;35,498;0
+Villarreal;Spain;73,717;Manchester United;England;63,224;1
+Benfica;Portugal;44,666;Lille;France;49,469;0
+Lille;France;49,469;Villarreal;Spain;73,717;1
+Manchester United;England;63,224;Benfica;Portugal;44,666;0
+Manchester United;England;63,224;Lille;France;49,469;1
+Villarreal;Spain;73,717;Benfica;Portugal;44,666;1
+Lille;France;49,469;Manchester United;England;63,224;0
+Benfica;Portugal;44,666;Villarreal;Spain;73,717;2
+Manchester United;England;63,224;Villarreal;Spain;73,717;1
+Lille;France;49,469;Benfica;Portugal;44,666;1
+Villarreal;Spain;73,717;Lille;France;49,469;0
+Benfica;Portugal;44,666;Manchester United;England;63,224;0
+Milan;Italy;61,186;Fenerbahe;Turkey;29,916;0
+PSV Eindhoven;Netherlands;39,831;Schalke 04;Germany;48,989;0
+Schalke 04;Germany;48,989;Milan;Italy;61,186;1
+Fenerbahe;Turkey;29,916;PSV Eindhoven;Netherlands;39,831;0
+Fenerbahe;Turkey;29,916;Schalke 04;Germany;48,989;1
+Milan;Italy;61,186;PSV Eindhoven;Netherlands;39,831;1
+Schalke 04;Germany;48,989;Fenerbahe;Turkey;29,916;0
+PSV Eindhoven;Netherlands;39,831;Milan;Italy;61,186;0
+Fenerbahe;Turkey;29,916;Milan;Italy;61,186;2
+Schalke 04;Germany;48,989;PSV Eindhoven;Netherlands;39,831;0
+Milan;Italy;61,186;Schalke 04;Germany;48,989;0
+PSV Eindhoven;Netherlands;39,831;Fenerbahe;Turkey;29,916;0
+Lyon;France;49,469;Real Madrid;Spain;73,717;0
+Olympiacos;Greece;35,498;Rosenborg;Norway;20,2;2
+Rosenborg;Norway;20,2;Lyon;France;49,469;2
+Real Madrid;Spain;73,717;Olympiacos;Greece;35,498;0
+Real Madrid;Spain;73,717;Rosenborg;Norway;20,2;0
+Lyon;France;49,469;Olympiacos;Greece;35,498;0
+Rosenborg;Norway;20,2;Real Madrid;Spain;73,717;2
+Olympiacos;Greece;35,498;Lyon;France;49,469;2
+Real Madrid;Spain;73,717;Lyon;France;49,469;1
+Rosenborg;Norway;20,2;Olympiacos;Greece;35,498;1
+Lyon;France;49,469;Rosenborg;Norway;20,2;0
+Olympiacos;Greece;35,498;Real Madrid;Spain;73,717;0
+Chelsea;England;63,224;Anderlecht;Belgium;31,75;0
+Real Betis;Spain;73,717;Liverpool;England;63,224;2
+Liverpool;England;63,224;Chelsea;England;63,224;1
+Anderlecht;Belgium;31,75;Real Betis;Spain;73,717;2
+Anderlecht;Belgium;31,75;Liverpool;England;63,224;2
+Chelsea;England;63,224;Real Betis;Spain;73,717;0
+Liverpool;England;63,224;Anderlecht;Belgium;31,75;0
+Real Betis;Spain;73,717;Chelsea;England;63,224;0
+Anderlecht;Belgium;31,75;Chelsea;England;63,224;2
+Liverpool;England;63,224;Real Betis;Spain;73,717;1
+Chelsea;England;63,224;Liverpool;England;63,224;1
+Real Betis;Spain;73,717;Anderlecht;Belgium;31,75;2
+Rangers;Scotland;31,75;Porto;Portugal;44,666;0
+Artmedia;Slovakia;11,665;Internazionale;Italy;61,186;2
+Internazionale;Italy;61,186;Rangers;Scotland;31,75;0
+Porto;Portugal;44,666;Artmedia;Slovakia;11,665;2
+Porto;Portugal;44,666;Internazionale;Italy;61,186;0
+Rangers;Scotland;31,75;Artmedia;Slovakia;11,665;1
+Internazionale;Italy;61,186;Porto;Portugal;44,666;0
+Artmedia;Slovakia;11,665;Rangers;Scotland;31,75;1
+Porto;Portugal;44,666;Rangers;Scotland;31,75;1
+Internazionale;Italy;61,186;Artmedia;Slovakia;11,665;0
+Rangers;Scotland;31,75;Internazionale;Italy;61,186;1
+Artmedia;Slovakia;11,665;Porto;Portugal;44,666;1
+Chelsea;England;63,486;Werder Bremen;Germany;48,364;0
+Barcelona;Spain;72,748;Levski Sofia;Bulgaria;24,29;0
+Levski Sofia;Bulgaria;24,29;Chelsea;England;63,486;2
+Werder Bremen;Germany;48,364;Barcelona;Spain;72,748;1
+Werder Bremen;Germany;48,364;Levski Sofia;Bulgaria;24,29;0
+Chelsea;England;63,486;Barcelona;Spain;72,748;0
+Levski Sofia;Bulgaria;24,29;Werder Bremen;Germany;48,364;2
+Barcelona;Spain;72,748;Chelsea;England;63,486;1
+Werder Bremen;Germany;48,364;Chelsea;England;63,486;0
+Levski Sofia;Bulgaria;24,29;Barcelona;Spain;72,748;2
+Chelsea;England;63,486;Levski Sofia;Bulgaria;24,29;0
+Barcelona;Spain;72,748;Werder Bremen;Germany;48,364;0
+Sporting CP;Portugal;44,041;Internazionale;Italy;66,731;0
+Bayern Munich;Germany;48,364;Spartak Moscow;Russia;31,833;0
+Spartak Moscow;Russia;31,833;Sporting CP;Portugal;44,041;1
+Internazionale;Italy;66,731;Bayern Munich;Germany;48,364;2
+Internazionale;Italy;66,731;Spartak Moscow;Russia;31,833;0
+Sporting CP;Portugal;44,041;Bayern Munich;Germany;48,364;2
+Spartak Moscow;Russia;31,833;Internazionale;Italy;66,731;2
+Bayern Munich;Germany;48,364;Sporting CP;Portugal;44,041;1
+Spartak Moscow;Russia;31,833;Bayern Munich;Germany;48,364;1
+Internazionale;Italy;66,731;Sporting CP;Portugal;44,041;0
+Sporting CP;Portugal;44,041;Spartak Moscow;Russia;31,833;2
+Bayern Munich;Germany;48,364;Internazionale;Italy;66,731;1
+Galatasaray;Turkey;26,166;Bordeaux;France;50,781;1
+PSV Eindhoven;Netherlands;41,331;Liverpool;England;63,486;1
+Liverpool;England;63,486;Galatasaray;Turkey;26,166;0
+Bordeaux;France;50,781;PSV Eindhoven;Netherlands;41,331;2
+Bordeaux;France;50,781;Liverpool;England;63,486;2
+Galatasaray;Turkey;26,166;PSV Eindhoven;Netherlands;41,331;2
+Liverpool;England;63,486;Bordeaux;France;50,781;0
+PSV Eindhoven;Netherlands;41,331;Galatasaray;Turkey;26,166;0
+Bordeaux;France;50,781;Galatasaray;Turkey;26,166;0
+Liverpool;England;63,486;PSV Eindhoven;Netherlands;41,331;0
+Galatasaray;Turkey;26,166;Liverpool;England;63,486;0
+PSV Eindhoven;Netherlands;41,331;Bordeaux;France;50,781;2
+Olympiacos;Greece;32,081;Valencia;Spain;72,748;2
+Roma;Italy;66,731;Shakhtar Donetsk;Ukraine;26,6;0
+Shakhtar Donetsk;Ukraine;26,6;Olympiacos;Greece;32,081;1
+Valencia;Spain;72,748;Roma;Italy;66,731;0
+Valencia;Spain;72,748;Shakhtar Donetsk;Ukraine;26,6;0
+Olympiacos;Greece;32,081;Roma;Italy;66,731;2
+Shakhtar Donetsk;Ukraine;26,6;Valencia;Spain;72,748;1
+Roma;Italy;66,731;Olympiacos;Greece;32,081;1
+Valencia;Spain;72,748;Olympiacos;Greece;32,081;0
+Shakhtar Donetsk;Ukraine;26,6;Roma;Italy;66,731;0
+Olympiacos;Greece;32,081;Shakhtar Donetsk;Ukraine;26,6;1
+Roma;Italy;66,731;Valencia;Spain;72,748;0
+Dynamo Kyiv;Ukraine;26,6;Steaua Bucureti;Romania;31,457;2
+Lyon;France;50,781;Real Madrid;Spain;72,748;0
+Real Madrid;Spain;72,748;Dynamo Kyiv;Ukraine;26,6;0
+Steaua Bucureti;Romania;31,457;Lyon;France;50,781;2
+Steaua Bucureti;Romania;31,457;Real Madrid;Spain;72,748;2
+Dynamo Kyiv;Ukraine;26,6;Lyon;France;50,781;2
+Real Madrid;Spain;72,748;Steaua Bucureti;Romania;31,457;0
+Lyon;France;50,781;Dynamo Kyiv;Ukraine;26,6;0
+Steaua Bucureti;Romania;31,457;Dynamo Kyiv;Ukraine;26,6;1
+Real Madrid;Spain;72,748;Lyon;France;50,781;1
+Dynamo Kyiv;Ukraine;26,6;Real Madrid;Spain;72,748;1
+Lyon;France;50,781;Steaua Bucureti;Romania;31,457;1
+Manchester United;England;63,486;Celtic;Scotland;30,375;0
+Copenhagen;Denmark;16,95;Benfica;Portugal;44,041;1
+Benfica;Portugal;44,041;Manchester United;England;63,486;2
+Celtic;Scotland;30,375;Copenhagen;Denmark;16,95;0
+Celtic;Scotland;30,375;Benfica;Portugal;44,041;0
+Manchester United;England;63,486;Copenhagen;Denmark;16,95;0
+Benfica;Portugal;44,041;Celtic;Scotland;30,375;0
+Copenhagen;Denmark;16,95;Manchester United;England;63,486;0
+Celtic;Scotland;30,375;Manchester United;England;63,486;0
+Benfica;Portugal;44,041;Copenhagen;Denmark;16,95;0
+Manchester United;England;63,486;Benfica;Portugal;44,041;0
+Copenhagen;Denmark;16,95;Celtic;Scotland;30,375;0
+Porto;Portugal;44,041;CSKA Moscow;Russia;31,833;1
+Hamburg;Germany;48,364;Arsenal;England;63,486;2
+CSKA Moscow;Russia;31,833;Hamburg;Germany;48,364;0
+Arsenal;England;63,486;Porto;Portugal;44,041;0
+CSKA Moscow;Russia;31,833;Arsenal;England;63,486;0
+Porto;Portugal;44,041;Hamburg;Germany;48,364;0
+Arsenal;England;63,486;CSKA Moscow;Russia;31,833;1
+Hamburg;Germany;48,364;Porto;Portugal;44,041;2
+CSKA Moscow;Russia;31,833;Porto;Portugal;44,041;2
+Arsenal;England;63,486;Hamburg;Germany;48,364;0
+Porto;Portugal;44,041;Arsenal;England;63,486;1
+Hamburg;Germany;48,364;CSKA Moscow;Russia;31,833;0
+Anderlecht;Belgium;30,25;Lille;France;50,781;1
+Milan;Italy;66,731;AEK Athens;Greece;32,081;0
+AEK Athens;Greece;32,081;Anderlecht;Belgium;30,25;1
+Lille;France;50,781;Milan;Italy;66,731;1
+Lille;France;50,781;AEK Athens;Greece;32,081;0
+Anderlecht;Belgium;30,25;Milan;Italy;66,731;2
+AEK Athens;Greece;32,081;Lille;France;50,781;0
+Milan;Italy;66,731;Anderlecht;Belgium;30,25;0
+Lille;France;50,781;Anderlecht;Belgium;30,25;1
+AEK Athens;Greece;32,081;Milan;Italy;66,731;0
+Anderlecht;Belgium;30,25;AEK Athens;Greece;32,081;1
+Milan;Italy;66,731;Lille;France;50,781;2
+Marseille;France;53,656;Beikta;Turkey;26,641;0
+Porto;Portugal;42,749;Liverpool;England;68,54;1
+Liverpool;England;68,54;Marseille;France;53,656;2
+Beikta;Turkey;26,641;Porto;Portugal;42,749;2
+Beikta;Turkey;26,641;Liverpool;England;68,54;0
+Marseille;France;53,656;Porto;Portugal;42,749;1
+Liverpool;England;68,54;Beikta;Turkey;26,641;0
+Porto;Portugal;42,749;Marseille;France;53,656;0
+Beikta;Turkey;26,641;Marseille;France;53,656;0
+Liverpool;England;68,54;Porto;Portugal;42,749;0
+Marseille;France;53,656;Liverpool;England;68,54;2
+Porto;Portugal;42,749;Beikta;Turkey;26,641;0
+Chelsea;England;68,54;Rosenborg;Norway;19,725;1
+Schalke 04;Germany;44,364;Valencia;Spain;76,891;2
+Valencia;Spain;76,891;Chelsea;England;68,54;2
+Rosenborg;Norway;19,725;Schalke 04;Germany;44,364;2
+Rosenborg;Norway;19,725;Valencia;Spain;76,891;0
+Chelsea;England;68,54;Schalke 04;Germany;44,364;0
+Valencia;Spain;76,891;Rosenborg;Norway;19,725;2
+Schalke 04;Germany;44,364;Chelsea;England;68,54;1
+Rosenborg;Norway;19,725;Chelsea;England;68,54;2
+Valencia;Spain;76,891;Schalke 04;Germany;44,364;1
+Chelsea;England;68,54;Valencia;Spain;76,891;1
+Schalke 04;Germany;44,364;Rosenborg;Norway;19,725;0
+Real Madrid;Spain;76,891;Werder Bremen;Germany;44,364;0
+Olympiacos;Greece;25,497;Lazio;Italy;66,088;1
+Werder Bremen;Germany;44,364;Olympiacos;Greece;25,497;2
+Lazio;Italy;66,088;Real Madrid;Spain;76,891;1
+Werder Bremen;Germany;44,364;Lazio;Italy;66,088;0
+Real Madrid;Spain;76,891;Olympiacos;Greece;25,497;0
+Lazio;Italy;66,088;Werder Bremen;Germany;44,364;0
+Olympiacos;Greece;25,497;Real Madrid;Spain;76,891;1
+Werder Bremen;Germany;44,364;Real Madrid;Spain;76,891;0
+Lazio;Italy;66,088;Olympiacos;Greece;25,497;2
+Real Madrid;Spain;76,891;Lazio;Italy;66,088;0
+Olympiacos;Greece;25,497;Werder Bremen;Germany;44,364;0
+Milan;Italy;66,088;Benfica;Portugal;42,749;0
+Shakhtar Donetsk;Ukraine;29,475;Celtic;Scotland;30,5;0
+Celtic;Scotland;30,5;Milan;Italy;66,088;0
+Benfica;Portugal;42,749;Shakhtar Donetsk;Ukraine;29,475;2
+Milan;Italy;66,088;Shakhtar Donetsk;Ukraine;29,475;0
+Benfica;Portugal;42,749;Celtic;Scotland;30,5;0
+Shakhtar Donetsk;Ukraine;29,475;Milan;Italy;66,088;2
+Celtic;Scotland;30,5;Benfica;Portugal;42,749;0
+Benfica;Portugal;42,749;Milan;Italy;66,088;1
+Celtic;Scotland;30,5;Shakhtar Donetsk;Ukraine;29,475;0
+Milan;Italy;66,088;Celtic;Scotland;30,5;0
+Shakhtar Donetsk;Ukraine;29,475;Benfica;Portugal;42,749;2
+Rangers;Scotland;30,5;Stuttgart;Germany;44,364;0
+Barcelona;Spain;76,891;Lyon;France;53,656;0
+Stuttgart;Germany;44,364;Barcelona;Spain;76,891;2
+Lyon;France;53,656;Rangers;Scotland;30,5;2
+Rangers;Scotland;30,5;Barcelona;Spain;76,891;1
+Stuttgart;Germany;44,364;Lyon;France;53,656;2
+Lyon;France;53,656;Stuttgart;Germany;44,364;0
+Barcelona;Spain;76,891;Rangers;Scotland;30,5;0
+Stuttgart;Germany;44,364;Rangers;Scotland;30,5;0
+Lyon;France;53,656;Barcelona;Spain;76,891;1
+Rangers;Scotland;30,5;Lyon;France;53,656;2
+Barcelona;Spain;76,891;Stuttgart;Germany;44,364;0
+Sporting CP;Portugal;42,749;Manchester United;England;68,54;2
+Roma;Italy;66,088;Dynamo Kyiv;Ukraine;29,475;0
+Manchester United;England;68,54;Roma;Italy;66,088;0
+Dynamo Kyiv;Ukraine;29,475;Sporting CP;Portugal;42,749;2
+Roma;Italy;66,088;Sporting CP;Portugal;42,749;0
+Dynamo Kyiv;Ukraine;29,475;Manchester United;England;68,54;2
+Sporting CP;Portugal;42,749;Roma;Italy;66,088;1
+Manchester United;England;68,54;Dynamo Kyiv;Ukraine;29,475;0
+Dynamo Kyiv;Ukraine;29,475;Roma;Italy;66,088;2
+Manchester United;England;68,54;Sporting CP;Portugal;42,749;0
+Roma;Italy;66,088;Manchester United;England;68,54;1
+Sporting CP;Portugal;42,749;Dynamo Kyiv;Ukraine;29,475;0
+Fenerbahe;Turkey;26,641;Internazionale;Italy;66,088;0
+PSV Eindhoven;Netherlands;39,379;CSKA Moscow;Russia;36,125;0
+CSKA Moscow;Russia;36,125;Fenerbahe;Turkey;26,641;1
+Internazionale;Italy;66,088;PSV Eindhoven;Netherlands;39,379;0
+PSV Eindhoven;Netherlands;39,379;Fenerbahe;Turkey;26,641;1
+CSKA Moscow;Russia;36,125;Internazionale;Italy;66,088;2
+Fenerbahe;Turkey;26,641;PSV Eindhoven;Netherlands;39,379;0
+Internazionale;Italy;66,088;CSKA Moscow;Russia;36,125;0
+CSKA Moscow;Russia;36,125;PSV Eindhoven;Netherlands;39,379;2
+Internazionale;Italy;66,088;Fenerbahe;Turkey;26,641;0
+PSV Eindhoven;Netherlands;39,379;Internazionale;Italy;66,088;2
+Fenerbahe;Turkey;26,641;CSKA Moscow;Russia;36,125;0
+Arsenal;England;68,54;Sevilla;Spain;76,891;0
+Slavia Prague;Czech Republic;26,825;Steaua Bucureti;Romania;40,165;0
+Steaua Bucureti;Romania;40,165;Arsenal;England;68,54;2
+Sevilla;Spain;76,891;Slavia Prague;Czech Republic;26,825;0
+Sevilla;Spain;76,891;Steaua Bucureti;Romania;40,165;0
+Arsenal;England;68,54;Slavia Prague;Czech Republic;26,825;0
+Steaua Bucureti;Romania;40,165;Sevilla;Spain;76,891;2
+Slavia Prague;Czech Republic;26,825;Arsenal;England;68,54;1
+Sevilla;Spain;76,891;Arsenal;England;68,54;0
+Steaua Bucureti;Romania;40,165;Slavia Prague;Czech Republic;26,825;1
+Arsenal;England;68,54;Steaua Bucureti;Romania;40,165;0
+Slavia Prague;Czech Republic;26,825;Sevilla;Spain;76,891;2
+Chelsea;England;75,749;Bordeaux;France;52,668;0
+Roma;Italy;60,41;CFR Cluj;Romania;40,599;2
+CFR Cluj;Romania;40,599;Chelsea;England;75,749;1
+Bordeaux;France;52,668;Roma;Italy;60,41;2
+Bordeaux;France;52,668;CFR Cluj;Romania;40,599;0
+Chelsea;England;75,749;Roma;Italy;60,41;0
+CFR Cluj;Romania;40,599;Bordeaux;France;52,668;2
+Roma;Italy;60,41;Chelsea;England;75,749;0
+Bordeaux;France;52,668;Chelsea;England;75,749;1
+CFR Cluj;Romania;40,599;Roma;Italy;60,41;2
+Chelsea;England;75,749;CFR Cluj;Romania;40,599;0
+Roma;Italy;60,41;Bordeaux;France;52,668;0
+Panathinaikos;Greece;25,831;Internazionale;Italy;60,41;2
+Werder Bremen;Germany;48,722;Anorthosis Famagusta;Cyprus;10,082;1
+Anorthosis Famagusta;Cyprus;10,082;Panathinaikos;Greece;25,831;0
+Internazionale;Italy;60,41;Werder Bremen;Germany;48,722;1
+Internazionale;Italy;60,41;Anorthosis Famagusta;Cyprus;10,082;0
+Panathinaikos;Greece;25,831;Werder Bremen;Germany;48,722;1
+Anorthosis Famagusta;Cyprus;10,082;Internazionale;Italy;60,41;1
+Werder Bremen;Germany;48,722;Panathinaikos;Greece;25,831;2
+Internazionale;Italy;60,41;Panathinaikos;Greece;25,831;2
+Anorthosis Famagusta;Cyprus;10,082;Werder Bremen;Germany;48,722;1
+Panathinaikos;Greece;25,831;Anorthosis Famagusta;Cyprus;10,082;0
+Werder Bremen;Germany;48,722;Internazionale;Italy;60,41;0
+Basel;Switzerland;24,225;Shakhtar Donetsk;Ukraine;30,1;2
+Barcelona;Spain;75,266;Sporting CP;Portugal;39,927;0
+Sporting CP;Portugal;39,927;Basel;Switzerland;24,225;0
+Shakhtar Donetsk;Ukraine;30,1;Barcelona;Spain;75,266;2
+Shakhtar Donetsk;Ukraine;30,1;Sporting CP;Portugal;39,927;2
+Basel;Switzerland;24,225;Barcelona;Spain;75,266;2
+Sporting CP;Portugal;39,927;Shakhtar Donetsk;Ukraine;30,1;0
+Barcelona;Spain;75,266;Basel;Switzerland;24,225;1
+Shakhtar Donetsk;Ukraine;30,1;Basel;Switzerland;24,225;0
+Sporting CP;Portugal;39,927;Barcelona;Spain;75,266;2
+Basel;Switzerland;24,225;Sporting CP;Portugal;39,927;2
+Barcelona;Spain;75,266;Shakhtar Donetsk;Ukraine;30,1;2
+PSV Eindhoven;Netherlands;38,213;Atltico Madrid;Spain;75,266;2
+Marseille;France;52,668;Liverpool;England;75,749;2
+Liverpool;England;75,749;PSV Eindhoven;Netherlands;38,213;0
+Atltico Madrid;Spain;75,266;Marseille;France;52,668;0
+Atltico Madrid;Spain;75,266;Liverpool;England;75,749;1
+PSV Eindhoven;Netherlands;38,213;Marseille;France;52,668;0
+Liverpool;England;75,749;Atltico Madrid;Spain;75,266;1
+Marseille;France;52,668;PSV Eindhoven;Netherlands;38,213;0
+Atltico Madrid;Spain;75,266;PSV Eindhoven;Netherlands;38,213;0
+Liverpool;England;75,749;Marseille;France;52,668;0
+PSV Eindhoven;Netherlands;38,213;Liverpool;England;75,749;2
+Marseille;France;52,668;Atltico Madrid;Spain;75,266;1
+Manchester United;England;75,749;Villarreal;Spain;75,266;1
+Celtic;Scotland;33,375;Aalborg BK;Denmark;20,45;1
+Aalborg BK;Denmark;20,45;Manchester United;England;75,749;2
+Villarreal;Spain;75,266;Celtic;Scotland;33,375;0
+Villarreal;Spain;75,266;Aalborg BK;Denmark;20,45;0
+Manchester United;England;75,749;Celtic;Scotland;33,375;0
+Aalborg BK;Denmark;20,45;Villarreal;Spain;75,266;1
+Celtic;Scotland;33,375;Manchester United;England;75,749;1
+Villarreal;Spain;75,266;Manchester United;England;75,749;1
+Aalborg BK;Denmark;20,45;Celtic;Scotland;33,375;0
+Manchester United;England;75,749;Aalborg BK;Denmark;20,45;1
+Celtic;Scotland;33,375;Villarreal;Spain;75,266;0
+Steaua Bucureti;Romania;40,599;Bayern Munich;Germany;48,722;2
+Lyon;France;52,668;Fiorentina;Italy;60,41;1
+Fiorentina;Italy;60,41;Steaua Bucureti;Romania;40,599;1
+Bayern Munich;Germany;48,722;Lyon;France;52,668;1
+Bayern Munich;Germany;48,722;Fiorentina;Italy;60,41;0
+Steaua Bucureti;Romania;40,599;Lyon;France;52,668;2
+Fiorentina;Italy;60,41;Bayern Munich;Germany;48,722;1
+Lyon;France;52,668;Steaua Bucureti;Romania;40,599;0
+Bayern Munich;Germany;48,722;Steaua Bucureti;Romania;40,599;0
+Fiorentina;Italy;60,41;Lyon;France;52,668;2
+Steaua Bucureti;Romania;40,599;Fiorentina;Italy;60,41;2
+Lyon;France;52,668;Bayern Munich;Germany;48,722;2
+Porto;Portugal;39,927;Fenerbahe;Turkey;31,725;0
+Dynamo Kyiv;Ukraine;30,1;Arsenal;England;75,749;1
+Arsenal;England;75,749;Porto;Portugal;39,927;0
+Fenerbahe;Turkey;31,725;Dynamo Kyiv;Ukraine;30,1;1
+Fenerbahe;Turkey;31,725;Arsenal;England;75,749;2
+Porto;Portugal;39,927;Dynamo Kyiv;Ukraine;30,1;2
+Arsenal;England;75,749;Fenerbahe;Turkey;31,725;1
+Dynamo Kyiv;Ukraine;30,1;Porto;Portugal;39,927;2
+Fenerbahe;Turkey;31,725;Porto;Portugal;39,927;2
+Arsenal;England;75,749;Dynamo Kyiv;Ukraine;30,1;0
+Porto;Portugal;39,927;Arsenal;England;75,749;0
+Dynamo Kyiv;Ukraine;30,1;Fenerbahe;Turkey;31,725;0
+Juventus;Italy;60,41;Zenit Saint Petersburg;Russia;43,75;0
+Real Madrid;Spain;75,266;BATE Borisov;Belarus;5,332;0
+Zenit Saint Petersburg;Russia;43,75;Real Madrid;Spain;75,266;2
+BATE Borisov;Belarus;5,332;Juventus;Italy;60,41;1
+Zenit Saint Petersburg;Russia;43,75;BATE Borisov;Belarus;5,332;1
+Juventus;Italy;60,41;Real Madrid;Spain;75,266;0
+BATE Borisov;Belarus;5,332;Zenit Saint Petersburg;Russia;43,75;2
+Real Madrid;Spain;75,266;Juventus;Italy;60,41;2
+Zenit Saint Petersburg;Russia;43,75;Juventus;Italy;60,41;1
+BATE Borisov;Belarus;5,332;Real Madrid;Spain;75,266;2
+Juventus;Italy;60,41;BATE Borisov;Belarus;5,332;1
+Real Madrid;Spain;75,266;Zenit Saint Petersburg;Russia;43,75;0
+Juventus;Italy;62,91;Bordeaux;France;50,168;1
+Maccabi Haifa;Israel;15,25;Bayern Munich;Germany;56,695;2
+Bayern Munich;Germany;56,695;Juventus;Italy;62,91;1
+Bordeaux;France;50,168;Maccabi Haifa;Israel;15,25;0
+Bordeaux;France;50,168;Bayern Munich;Germany;56,695;0
+Juventus;Italy;62,91;Maccabi Haifa;Israel;15,25;0
+Bayern Munich;Germany;56,695;Bordeaux;France;50,168;2
+Maccabi Haifa;Israel;15,25;Juventus;Italy;62,91;2
+Bordeaux;France;50,168;Juventus;Italy;62,91;0
+Bayern Munich;Germany;56,695;Maccabi Haifa;Israel;15,25;0
+Juventus;Italy;62,91;Bayern Munich;Germany;56,695;2
+Maccabi Haifa;Israel;15,25;Bordeaux;France;50,168;2
+Wolfsburg;Germany;56,695;CSKA Moscow;Russia;47,625;0
+Beikta;Turkey;32,225;Manchester United;England;79,499;2
+CSKA Moscow;Russia;47,625;Beikta;Turkey;32,225;0
+Manchester United;England;79,499;Wolfsburg;Germany;56,695;0
+CSKA Moscow;Russia;47,625;Manchester United;England;79,499;2
+Wolfsburg;Germany;56,695;Beikta;Turkey;32,225;1
+Manchester United;England;79,499;CSKA Moscow;Russia;47,625;1
+Beikta;Turkey;32,225;Wolfsburg;Germany;56,695;2
+CSKA Moscow;Russia;47,625;Wolfsburg;Germany;56,695;0
+Manchester United;England;79,499;Beikta;Turkey;32,225;2
+Wolfsburg;Germany;56,695;Manchester United;England;79,499;2
+Beikta;Turkey;32,225;CSKA Moscow;Russia;47,625;2
+Zrich;Switzerland;25,25;Real Madrid;Spain;74,266;2
+Marseille;France;50,168;Milan;Italy;62,91;2
+Milan;Italy;62,91;Zrich;Switzerland;25,25;2
+Real Madrid;Spain;74,266;Marseille;France;50,168;0
+Real Madrid;Spain;74,266;Milan;Italy;62,91;2
+Zrich;Switzerland;25,25;Marseille;France;50,168;2
+Milan;Italy;62,91;Real Madrid;Spain;74,266;1
+Marseille;France;50,168;Zrich;Switzerland;25,25;0
+Real Madrid;Spain;74,266;Zrich;Switzerland;25,25;0
+Milan;Italy;62,91;Marseille;France;50,168;1
+Zrich;Switzerland;25,25;Milan;Italy;62,91;1
+Marseille;France;50,168;Real Madrid;Spain;74,266;2
+Chelsea;England;79,499;Porto;Portugal;36,462;0
+Atltico Madrid;Spain;74,266;APOEL;Cyprus;15,082;1
+APOEL;Cyprus;15,082;Chelsea;England;79,499;2
+Porto;Portugal;36,462;Atltico Madrid;Spain;74,266;0
+Porto;Portugal;36,462;APOEL;Cyprus;15,082;0
+Chelsea;England;79,499;Atltico Madrid;Spain;74,266;0
+APOEL;Cyprus;15,082;Porto;Portugal;36,462;2
+Atltico Madrid;Spain;74,266;Chelsea;England;79,499;1
+Porto;Portugal;36,462;Chelsea;England;79,499;2
+APOEL;Cyprus;15,082;Atltico Madrid;Spain;74,266;1
+Chelsea;England;79,499;APOEL;Cyprus;15,082;1
+Atltico Madrid;Spain;74,266;Porto;Portugal;36,462;2
+Liverpool;England;79,499;Debrecen;Hungary;8,166;0
+Lyon;France;50,168;Fiorentina;Italy;62,91;0
+Fiorentina;Italy;62,91;Liverpool;England;79,499;0
+Debrecen;Hungary;8,166;Lyon;France;50,168;2
+Debrecen;Hungary;8,166;Fiorentina;Italy;62,91;2
+Liverpool;England;79,499;Lyon;France;50,168;2
+Fiorentina;Italy;62,91;Debrecen;Hungary;8,166;0
+Lyon;France;50,168;Liverpool;England;79,499;1
+Debrecen;Hungary;8,166;Liverpool;England;79,499;2
+Fiorentina;Italy;62,91;Lyon;France;50,168;0
+Liverpool;England;79,499;Fiorentina;Italy;62,91;2
+Lyon;France;50,168;Debrecen;Hungary;8,166;0
+Inter Milan;Italy;62,91;Barcelona;Spain;74,266;1
+Dynamo Kyiv;Ukraine;41,85;Rubin Kazan;Russia;47,625;0
+Rubin Kazan;Russia;47,625;Inter Milan;Italy;62,91;1
+Barcelona;Spain;74,266;Dynamo Kyiv;Ukraine;41,85;0
+Barcelona;Spain;74,266;Rubin Kazan;Russia;47,625;2
+Inter Milan;Italy;62,91;Dynamo Kyiv;Ukraine;41,85;1
+Rubin Kazan;Russia;47,625;Barcelona;Spain;74,266;1
+Dynamo Kyiv;Ukraine;41,85;Inter Milan;Italy;62,91;2
+Rubin Kazan;Russia;47,625;Dynamo Kyiv;Ukraine;41,85;1
+Barcelona;Spain;74,266;Inter Milan;Italy;62,91;0
+Inter Milan;Italy;62,91;Rubin Kazan;Russia;47,625;0
+Dynamo Kyiv;Ukraine;41,85;Barcelona;Spain;74,266;2
+Stuttgart;Germany;56,695;Rangers;Scotland;27,875;1
+Sevilla;Spain;74,266;Unirea Urziceni;Romania;38,908;0
+Unirea Urziceni;Romania;38,908;Stuttgart;Germany;56,695;1
+Rangers;Scotland;27,875;Sevilla;Spain;74,266;2
+Rangers;Scotland;27,875;Unirea Urziceni;Romania;38,908;2
+Stuttgart;Germany;56,695;Sevilla;Spain;74,266;2
+Unirea Urziceni;Romania;38,908;Rangers;Scotland;27,875;1
+Sevilla;Spain;74,266;Stuttgart;Germany;56,695;1
+Rangers;Scotland;27,875;Stuttgart;Germany;56,695;2
+Unirea Urziceni;Romania;38,908;Sevilla;Spain;74,266;0
+Stuttgart;Germany;56,695;Unirea Urziceni;Romania;38,908;0
+Sevilla;Spain;74,266;Rangers;Scotland;27,875;0
+Olympiacos;Greece;28,165;AZ;Netherlands;39,13;0
+Standard Lige;Belgium;25,325;Arsenal;England;79,499;2
+Arsenal;England;79,499;Olympiacos;Greece;28,165;0
+AZ;Netherlands;39,13;Standard Lige;Belgium;25,325;1
+AZ;Netherlands;39,13;Arsenal;England;79,499;1
+Olympiacos;Greece;28,165;Standard Lige;Belgium;25,325;0
+Arsenal;England;79,499;AZ;Netherlands;39,13;0
+Standard Lige;Belgium;25,325;Olympiacos;Greece;28,165;0
+AZ;Netherlands;39,13;Olympiacos;Greece;28,165;1
+Arsenal;England;79,499;Standard Lige;Belgium;25,325;0
+Olympiacos;Greece;28,165;Arsenal;England;79,499;0
+Standard Lige;Belgium;25,325;AZ;Netherlands;39,13;1
+Twente;Netherlands;36,546;Internazionale;Italy;64,338;1
+Werder Bremen;Germany;64,207;Tottenham Hotspur;England;81,856;1
+Tottenham Hotspur;England;81,856;Twente;Netherlands;36,546;0
+Internazionale;Italy;64,338;Werder Bremen;Germany;64,207;0
+Internazionale;Italy;64,338;Tottenham Hotspur;England;81,856;0
+Twente;Netherlands;36,546;Werder Bremen;Germany;64,207;1
+Tottenham Hotspur;England;81,856;Internazionale;Italy;64,338;0
+Werder Bremen;Germany;64,207;Twente;Netherlands;36,546;2
+Internazionale;Italy;64,338;Twente;Netherlands;36,546;0
+Tottenham Hotspur;England;81,856;Werder Bremen;Germany;64,207;0
+Twente;Netherlands;36,546;Tottenham Hotspur;England;81,856;1
+Werder Bremen;Germany;64,207;Internazionale;Italy;64,338;0
+Lyon;France;53,74;Schalke 04;Germany;64,207;0
+Benfica;Portugal;38,296;Hapoel Tel Aviv;Israel;18,875;0
+Hapoel Tel Aviv;Israel;18,875;Lyon;France;53,74;2
+Schalke 04;Germany;64,207;Benfica;Portugal;38,296;0
+Schalke 04;Germany;64,207;Hapoel Tel Aviv;Israel;18,875;0
+Lyon;France;53,74;Benfica;Portugal;38,296;0
+Hapoel Tel Aviv;Israel;18,875;Schalke 04;Germany;64,207;1
+Benfica;Portugal;38,296;Lyon;France;53,74;0
+Schalke 04;Germany;64,207;Lyon;France;53,74;0
+Hapoel Tel Aviv;Israel;18,875;Benfica;Portugal;38,296;0
+Lyon;France;53,74;Hapoel Tel Aviv;Israel;18,875;1
+Benfica;Portugal;38,296;Schalke 04;Germany;64,207;2
+Manchester United;England;81,856;Rangers;Scotland;25,791;1
+Bursaspor;Turkey;34,45;Valencia;Spain;79,757;2
+Valencia;Spain;79,757;Manchester United;England;81,856;2
+Rangers;Scotland;25,791;Bursaspor;Turkey;34,45;0
+Rangers;Scotland;25,791;Valencia;Spain;79,757;1
+Manchester United;England;81,856;Bursaspor;Turkey;34,45;0
+Valencia;Spain;79,757;Rangers;Scotland;25,791;0
+Bursaspor;Turkey;34,45;Manchester United;England;81,856;2
+Rangers;Scotland;25,791;Manchester United;England;81,856;2
+Valencia;Spain;79,757;Bursaspor;Turkey;34,45;0
+Manchester United;England;81,856;Valencia;Spain;79,757;1
+Bursaspor;Turkey;34,45;Rangers;Scotland;25,791;1
+Barcelona;Spain;79,757;Panathinaikos;Greece;29,899;0
+Copenhagen;Denmark;27,35;Rubin Kazan;Russia;43,791;0
+Rubin Kazan;Russia;43,791;Barcelona;Spain;79,757;1
+Panathinaikos;Greece;29,899;Copenhagen;Denmark;27,35;2
+Panathinaikos;Greece;29,899;Rubin Kazan;Russia;43,791;1
+Barcelona;Spain;79,757;Copenhagen;Denmark;27,35;0
+Rubin Kazan;Russia;43,791;Panathinaikos;Greece;29,899;1
+Copenhagen;Denmark;27,35;Barcelona;Spain;79,757;1
+Rubin Kazan;Russia;43,791;Copenhagen;Denmark;27,35;0
+Panathinaikos;Greece;29,899;Barcelona;Spain;79,757;2
+Barcelona;Spain;79,757;Rubin Kazan;Russia;43,791;0
+Copenhagen;Denmark;27,35;Panathinaikos;Greece;29,899;0
+Bayern Munich;Germany;64,207;Roma;Italy;64,338;0
+CFR Cluj;Romania;39,491;Basel;Switzerland;28,375;0
+Basel;Switzerland;28,375;Bayern Munich;Germany;64,207;2
+Roma;Italy;64,338;CFR Cluj;Romania;39,491;0
+Roma;Italy;64,338;Basel;Switzerland;28,375;2
+Bayern Munich;Germany;64,207;CFR Cluj;Romania;39,491;0
+Basel;Switzerland;28,375;Roma;Italy;64,338;2
+CFR Cluj;Romania;39,491;Bayern Munich;Germany;64,207;2
+Roma;Italy;64,338;Bayern Munich;Germany;64,207;0
+Basel;Switzerland;28,375;CFR Cluj;Romania;39,491;0
+Bayern Munich;Germany;64,207;Basel;Switzerland;28,375;0
+CFR Cluj;Romania;39,491;Roma;Italy;64,338;1
+Marseille;France;53,74;Spartak Moscow;Russia;43,791;2
+ilina;Slovakia;15,832;Chelsea;England;81,856;2
+Spartak Moscow;Russia;43,791;ilina;Slovakia;15,832;0
+Chelsea;England;81,856;Marseille;France;53,74;0
+Spartak Moscow;Russia;43,791;Chelsea;England;81,856;2
+Marseille;France;53,74;ilina;Slovakia;15,832;0
+Chelsea;England;81,856;Spartak Moscow;Russia;43,791;0
+ilina;Slovakia;15,832;Marseille;France;53,74;2
+Spartak Moscow;Russia;43,791;Marseille;France;53,74;2
+Chelsea;England;81,856;ilina;Slovakia;15,832;0
+Marseille;France;53,74;Chelsea;England;81,856;0
+ilina;Slovakia;15,832;Spartak Moscow;Russia;43,791;2
+Real Madrid;Spain;79,757;Ajax;Netherlands;36,546;0
+Milan;Italy;64,338;Auxerre;France;53,74;0
+Auxerre;France;53,74;Real Madrid;Spain;79,757;2
+Ajax;Netherlands;36,546;Milan;Italy;64,338;1
+Ajax;Netherlands;36,546;Auxerre;France;53,74;0
+Real Madrid;Spain;79,757;Milan;Italy;64,338;0
+Auxerre;France;53,74;Ajax;Netherlands;36,546;0
+Milan;Italy;64,338;Real Madrid;Spain;79,757;1
+Ajax;Netherlands;36,546;Real Madrid;Spain;79,757;2
+Auxerre;France;53,74;Milan;Italy;64,338;2
+Real Madrid;Spain;79,757;Auxerre;France;53,74;0
+Milan;Italy;64,338;Ajax;Netherlands;36,546;2
+Arsenal;England;81,856;Braga;Portugal;38,296;0
+Shakhtar Donetsk;Ukraine;39,55;Partizan;Serbia;14;0
+Partizan;Serbia;14;Arsenal;England;81,856;2
+Braga;Portugal;38,296;Shakhtar Donetsk;Ukraine;39,55;2
+Braga;Portugal;38,296;Partizan;Serbia;14;0
+Arsenal;England;81,856;Shakhtar Donetsk;Ukraine;39,55;0
+Partizan;Serbia;14;Braga;Portugal;38,296;2
+Shakhtar Donetsk;Ukraine;39,55;Arsenal;England;81,856;0
+Braga;Portugal;38,296;Arsenal;England;81,856;0
+Partizan;Serbia;14;Shakhtar Donetsk;Ukraine;39,55;2
+Arsenal;England;81,856;Partizan;Serbia;14;0
+Shakhtar Donetsk;Ukraine;39,55;Braga;Portugal;38,296;0
+Manchester City;England;85,785;Napoli;Italy;60,552;1
+Villarreal;Spain;82,329;Bayern Munich;Germany;69,436;2
+Bayern Munich;Germany;69,436;Manchester City;England;85,785;0
+Napoli;Italy;60,552;Villarreal;Spain;82,329;0
+Napoli;Italy;60,552;Bayern Munich;Germany;69,436;1
+Manchester City;England;85,785;Villarreal;Spain;82,329;0
+Bayern Munich;Germany;69,436;Napoli;Italy;60,552;0
+Villarreal;Spain;82,329;Manchester City;England;85,785;2
+Napoli;Italy;60,552;Manchester City;England;85,785;0
+Bayern Munich;Germany;69,436;Villarreal;Spain;82,329;0
+Manchester City;England;85,785;Bayern Munich;Germany;69,436;0
+Villarreal;Spain;82,329;Napoli;Italy;60,552;2
+Lille;France;53,678;CSKA Moscow;Russia;44,707;1
+Internazionale;Italy;60,552;Trabzonspor;Turkey;35,05;2
+CSKA Moscow;Russia;44,707;Internazionale;Italy;60,552;2
+Trabzonspor;Turkey;35,05;Lille;France;53,678;1
+CSKA Moscow;Russia;44,707;Trabzonspor;Turkey;35,05;0
+Lille;France;53,678;Internazionale;Italy;60,552;2
+Trabzonspor;Turkey;35,05;CSKA Moscow;Russia;44,707;1
+Internazionale;Italy;60,552;Lille;France;53,678;0
+CSKA Moscow;Russia;44,707;Lille;France;53,678;2
+Trabzonspor;Turkey;35,05;Internazionale;Italy;60,552;1
+Lille;France;53,678;Trabzonspor;Turkey;35,05;1
+Internazionale;Italy;60,552;CSKA Moscow;Russia;44,707;2
+Basel;Switzerland;24,9;Oelul Galai;Romania;25,824;0
+Benfica;Portugal;51,596;Manchester United;England;85,785;1
+Manchester United;England;85,785;Basel;Switzerland;24,9;1
+Oelul Galai;Romania;25,824;Benfica;Portugal;51,596;2
+Oelul Galai;Romania;25,824;Manchester United;England;85,785;2
+Basel;Switzerland;24,9;Benfica;Portugal;51,596;2
+Manchester United;England;85,785;Oelul Galai;Romania;25,824;0
+Benfica;Portugal;51,596;Basel;Switzerland;24,9;1
+Oelul Galai;Romania;25,824;Basel;Switzerland;24,9;2
+Manchester United;England;85,785;Benfica;Portugal;51,596;1
+Basel;Switzerland;24,9;Manchester United;England;85,785;0
+Benfica;Portugal;51,596;Oelul Galai;Romania;25,824;0
+Dinamo Zagreb;Croatia;16,124;Real Madrid;Spain;82,329;2
+Ajax;Netherlands;40,129;Lyon;France;53,678;1
+Lyon;France;53,678;Dinamo Zagreb;Croatia;16,124;0
+Real Madrid;Spain;82,329;Ajax;Netherlands;40,129;0
+Real Madrid;Spain;82,329;Lyon;France;53,678;0
+Dinamo Zagreb;Croatia;16,124;Ajax;Netherlands;40,129;2
+Lyon;France;53,678;Real Madrid;Spain;82,329;2
+Ajax;Netherlands;40,129;Dinamo Zagreb;Croatia;16,124;0
+Real Madrid;Spain;82,329;Dinamo Zagreb;Croatia;16,124;0
+Lyon;France;53,678;Ajax;Netherlands;40,129;1
+Dinamo Zagreb;Croatia;16,124;Lyon;France;53,678;2
+Ajax;Netherlands;40,129;Real Madrid;Spain;82,329;2
+Chelsea;England;85,785;Bayer Leverkusen;Germany;69,436;0
+Genk;Belgium;27;Valencia;Spain;82,329;1
+Valencia;Spain;82,329;Chelsea;England;85,785;1
+Bayer Leverkusen;Germany;69,436;Genk;Belgium;27;0
+Bayer Leverkusen;Germany;69,436;Valencia;Spain;82,329;0
+Chelsea;England;85,785;Genk;Belgium;27;0
+Valencia;Spain;82,329;Bayer Leverkusen;Germany;69,436;0
+Genk;Belgium;27;Chelsea;England;85,785;1
+Bayer Leverkusen;Germany;69,436;Chelsea;England;85,785;0
+Valencia;Spain;82,329;Genk;Belgium;27;0
+Chelsea;England;85,785;Valencia;Spain;82,329;0
+Genk;Belgium;27;Bayer Leverkusen;Germany;69,436;1
+Olympiacos;Greece;34,166;Marseille;France;53,678;2
+Borussia Dortmund;Germany;69,436;Arsenal;England;85,785;1
+Arsenal;England;85,785;Olympiacos;Greece;34,166;0
+Marseille;France;53,678;Borussia Dortmund;Germany;69,436;0
+Marseille;France;53,678;Arsenal;England;85,785;2
+Olympiacos;Greece;34,166;Borussia Dortmund;Germany;69,436;0
+Arsenal;England;85,785;Marseille;France;53,678;1
+Borussia Dortmund;Germany;69,436;Olympiacos;Greece;34,166;0
+Marseille;France;53,678;Olympiacos;Greece;34,166;2
+Arsenal;England;85,785;Borussia Dortmund;Germany;69,436;0
+Olympiacos;Greece;34,166;Arsenal;England;85,785;0
+Borussia Dortmund;Germany;69,436;Marseille;France;53,678;2
+Porto;Portugal;51,596;Shakhtar Donetsk;Ukraine;43,883;0
+APOEL;Cyprus;18,124;Zenit Saint Petersburg;Russia;44,707;0
+Zenit Saint Petersburg;Russia;44,707;Porto;Portugal;51,596;0
+Shakhtar Donetsk;Ukraine;43,883;APOEL;Cyprus;18,124;1
+Shakhtar Donetsk;Ukraine;43,883;Zenit Saint Petersburg;Russia;44,707;1
+Porto;Portugal;51,596;APOEL;Cyprus;18,124;1
+Zenit Saint Petersburg;Russia;44,707;Shakhtar Donetsk;Ukraine;43,883;0
+APOEL;Cyprus;18,124;Porto;Portugal;51,596;0
+Zenit Saint Petersburg;Russia;44,707;APOEL;Cyprus;18,124;1
+Shakhtar Donetsk;Ukraine;43,883;Porto;Portugal;51,596;2
+Porto;Portugal;51,596;Zenit Saint Petersburg;Russia;44,707;1
+APOEL;Cyprus;18,124;Shakhtar Donetsk;Ukraine;43,883;2
+Barcelona;Spain;82,329;Milan;Italy;60,552;1
+Viktoria Plze;Czech Republic;20,85;BATE Borisov;Belarus;16,083;1
+BATE Borisov;Belarus;16,083;Barcelona;Spain;82,329;2
+Milan;Italy;60,552;Viktoria Plze;Czech Republic;20,85;0
+Milan;Italy;60,552;BATE Borisov;Belarus;16,083;0
+Barcelona;Spain;82,329;Viktoria Plze;Czech Republic;20,85;0
+BATE Borisov;Belarus;16,083;Milan;Italy;60,552;1
+Viktoria Plze;Czech Republic;20,85;Barcelona;Spain;82,329;2
+BATE Borisov;Belarus;16,083;Viktoria Plze;Czech Republic;20,85;2
+Milan;Italy;60,552;Barcelona;Spain;82,329;2
+Barcelona;Spain;82,329;BATE Borisov;Belarus;16,083;0
+Viktoria Plze;Czech Republic;20,85;Milan;Italy;60,552;1
+Dinamo Zagreb;Croatia;18,874;Porto;Portugal;55,346;2
+Paris SaintGermain;France;54,178;Dynamo Kyiv;Ukraine;45,133;0
+Dynamo Kyiv;Ukraine;45,133;Dinamo Zagreb;Croatia;18,874;0
+Porto;Portugal;55,346;Paris SaintGermain;France;54,178;0
+Porto;Portugal;55,346;Dynamo Kyiv;Ukraine;45,133;0
+Dinamo Zagreb;Croatia;18,874;Paris SaintGermain;France;54,178;2
+Dynamo Kyiv;Ukraine;45,133;Porto;Portugal;55,346;1
+Paris SaintGermain;France;54,178;Dinamo Zagreb;Croatia;18,874;0
+Porto;Portugal;55,346;Dinamo Zagreb;Croatia;18,874;0
+Dynamo Kyiv;Ukraine;45,133;Paris SaintGermain;France;54,178;2
+Dinamo Zagreb;Croatia;18,874;Dynamo Kyiv;Ukraine;45,133;1
+Paris SaintGermain;France;54,178;Porto;Portugal;55,346;0
+Montpellier;France;54,178;Arsenal;England;84,41;2
+Olympiacos;Greece;37,1;Schalke 04;Germany;75,186;2
+Schalke 04;Germany;75,186;Montpellier;France;54,178;1
+Arsenal;England;84,41;Olympiacos;Greece;37,1;0
+Arsenal;England;84,41;Schalke 04;Germany;75,186;2
+Montpellier;France;54,178;Olympiacos;Greece;37,1;2
+Schalke 04;Germany;75,186;Arsenal;England;84,41;1
+Olympiacos;Greece;37,1;Montpellier;France;54,178;0
+Arsenal;England;84,41;Montpellier;France;54,178;0
+Schalke 04;Germany;75,186;Olympiacos;Greece;37,1;0
+Montpellier;France;54,178;Schalke 04;Germany;75,186;1
+Olympiacos;Greece;37,1;Arsenal;England;84,41;0
+Mlaga;Spain;84,186;Zenit Saint Petersburg;Russia;47,832;0
+Milan;Italy;59,981;Anderlecht;Belgium;32,4;1
+Zenit Saint Petersburg;Russia;47,832;Milan;Italy;59,981;2
+Anderlecht;Belgium;32,4;Mlaga;Spain;84,186;2
+Zenit Saint Petersburg;Russia;47,832;Anderlecht;Belgium;32,4;0
+Mlaga;Spain;84,186;Milan;Italy;59,981;0
+Anderlecht;Belgium;32,4;Zenit Saint Petersburg;Russia;47,832;0
+Milan;Italy;59,981;Mlaga;Spain;84,186;1
+Zenit Saint Petersburg;Russia;47,832;Mlaga;Spain;84,186;1
+Anderlecht;Belgium;32,4;Milan;Italy;59,981;2
+Mlaga;Spain;84,186;Anderlecht;Belgium;32,4;1
+Milan;Italy;59,981;Zenit Saint Petersburg;Russia;47,832;2
+Borussia Dortmund;Germany;75,186;Ajax;Netherlands;45,515;0
+Real Madrid;Spain;84,186;Manchester City;England;84,41;0
+Manchester City;England;84,41;Borussia Dortmund;Germany;75,186;1
+Ajax;Netherlands;45,515;Real Madrid;Spain;84,186;2
+Ajax;Netherlands;45,515;Manchester City;England;84,41;0
+Borussia Dortmund;Germany;75,186;Real Madrid;Spain;84,186;0
+Manchester City;England;84,41;Ajax;Netherlands;45,515;1
+Real Madrid;Spain;84,186;Borussia Dortmund;Germany;75,186;1
+Ajax;Netherlands;45,515;Borussia Dortmund;Germany;75,186;2
+Manchester City;England;84,41;Real Madrid;Spain;84,186;1
+Borussia Dortmund;Germany;75,186;Manchester City;England;84,41;0
+Real Madrid;Spain;84,186;Ajax;Netherlands;45,515;0
+Shakhtar Donetsk;Ukraine;45,133;FC Nordsjlland;Denmark;27,525;0
+Chelsea;England;84,41;Juventus;Italy;59,981;1
+Juventus;Italy;59,981;Shakhtar Donetsk;Ukraine;45,133;1
+FC Nordsjlland;Denmark;27,525;Chelsea;England;84,41;2
+FC Nordsjlland;Denmark;27,525;Juventus;Italy;59,981;1
+Shakhtar Donetsk;Ukraine;45,133;Chelsea;England;84,41;0
+Juventus;Italy;59,981;FC Nordsjlland;Denmark;27,525;0
+Chelsea;England;84,41;Shakhtar Donetsk;Ukraine;45,133;0
+FC Nordsjlland;Denmark;27,525;Shakhtar Donetsk;Ukraine;45,133;2
+Juventus;Italy;59,981;Chelsea;England;84,41;0
+Shakhtar Donetsk;Ukraine;45,133;Juventus;Italy;59,981;2
+Chelsea;England;84,41;FC Nordsjlland;Denmark;27,525;0
+Lille;France;54,178;BATE Borisov;Belarus;18,208;2
+Bayern Munich;Germany;75,186;Valencia;Spain;84,186;0
+Valencia;Spain;84,186;Lille;France;54,178;0
+BATE Borisov;Belarus;18,208;Bayern Munich;Germany;75,186;0
+BATE Borisov;Belarus;18,208;Valencia;Spain;84,186;2
+Lille;France;54,178;Bayern Munich;Germany;75,186;2
+Valencia;Spain;84,186;BATE Borisov;Belarus;18,208;0
+Bayern Munich;Germany;75,186;Lille;France;54,178;0
+BATE Borisov;Belarus;18,208;Lille;France;54,178;2
+Valencia;Spain;84,186;Bayern Munich;Germany;75,186;1
+Lille;France;54,178;Valencia;Spain;84,186;2
+Bayern Munich;Germany;75,186;BATE Borisov;Belarus;18,208;0
+Barcelona;Spain;84,186;Spartak Moscow;Russia;47,832;0
+Celtic;Scotland;21,141;Benfica;Portugal;55,346;1
+Spartak Moscow;Russia;47,832;Celtic;Scotland;21,141;2
+Benfica;Portugal;55,346;Barcelona;Spain;84,186;2
+Spartak Moscow;Russia;47,832;Benfica;Portugal;55,346;0
+Barcelona;Spain;84,186;Celtic;Scotland;21,141;0
+Benfica;Portugal;55,346;Spartak Moscow;Russia;47,832;0
+Celtic;Scotland;21,141;Barcelona;Spain;84,186;0
+Spartak Moscow;Russia;47,832;Barcelona;Spain;84,186;2
+Benfica;Portugal;55,346;Celtic;Scotland;21,141;0
+Barcelona;Spain;84,186;Benfica;Portugal;55,346;1
+Celtic;Scotland;21,141;Spartak Moscow;Russia;47,832;0
+Manchester United;England;84,41;Galatasaray;Turkey;34,05;0
+Braga;Portugal;55,346;CFR Cluj;Romania;18,824;2
+CFR Cluj;Romania;18,824;Manchester United;England;84,41;2
+Galatasaray;Turkey;34,05;Braga;Portugal;55,346;2
+Galatasaray;Turkey;34,05;CFR Cluj;Romania;18,824;1
+Manchester United;England;84,41;Braga;Portugal;55,346;0
+CFR Cluj;Romania;18,824;Galatasaray;Turkey;34,05;2
+Braga;Portugal;55,346;Manchester United;England;84,41;2
+Galatasaray;Turkey;34,05;Manchester United;England;84,41;0
+CFR Cluj;Romania;18,824;Braga;Portugal;55,346;0
+Manchester United;England;84,41;CFR Cluj;Romania;18,824;2
+Braga;Portugal;55,346;Galatasaray;Turkey;34,05;2
+Manchester United;England;82,963;Bayer Leverkusen;Germany;79,614;0
+Real Sociedad;Spain;88,025;Shakhtar Donetsk;Ukraine;49,758;2
+Shakhtar Donetsk;Ukraine;49,758;Manchester United;England;82,963;1
+Bayer Leverkusen;Germany;79,614;Real Sociedad;Spain;88,025;0
+Bayer Leverkusen;Germany;79,614;Shakhtar Donetsk;Ukraine;49,758;0
+Manchester United;England;82,963;Real Sociedad;Spain;88,025;0
+Shakhtar Donetsk;Ukraine;49,758;Bayer Leverkusen;Germany;79,614;1
+Real Sociedad;Spain;88,025;Manchester United;England;82,963;1
+Bayer Leverkusen;Germany;79,614;Manchester United;England;82,963;2
+Shakhtar Donetsk;Ukraine;49,758;Real Sociedad;Spain;88,025;0
+Manchester United;England;82,963;Shakhtar Donetsk;Ukraine;49,758;0
+Real Sociedad;Spain;88,025;Bayer Leverkusen;Germany;79,614;2
+Galatasaray;Turkey;34,5;Real Madrid;Spain;88,025;2
+Copenhagen;Denmark;25,7;Juventus;Italy;64,147;1
+Juventus;Italy;64,147;Galatasaray;Turkey;34,5;1
+Real Madrid;Spain;88,025;Copenhagen;Denmark;25,7;0
+Real Madrid;Spain;88,025;Juventus;Italy;64,147;0
+Galatasaray;Turkey;34,5;Copenhagen;Denmark;25,7;0
+Juventus;Italy;64,147;Real Madrid;Spain;88,025;1
+Copenhagen;Denmark;25,7;Galatasaray;Turkey;34,5;0
+Real Madrid;Spain;88,025;Galatasaray;Turkey;34,5;0
+Juventus;Italy;64,147;Copenhagen;Denmark;25,7;0
+Galatasaray;Turkey;34,5;Juventus;Italy;64,147;0
+Copenhagen;Denmark;25,7;Real Madrid;Spain;88,025;2
+Benfica;Portugal;59,168;Anderlecht;Belgium;34,4;0
+Olympiacos;Greece;34;Paris SaintGermain;France;59;2
+Paris SaintGermain;France;59;Benfica;Portugal;59,168;0
+Anderlecht;Belgium;34,4;Olympiacos;Greece;34;2
+Anderlecht;Belgium;34,4;Paris SaintGermain;France;59;2
+Benfica;Portugal;59,168;Olympiacos;Greece;34;1
+Paris SaintGermain;France;59;Anderlecht;Belgium;34,4;1
+Olympiacos;Greece;34;Benfica;Portugal;59,168;0
+Anderlecht;Belgium;34,4;Benfica;Portugal;59,168;2
+Paris SaintGermain;France;59;Olympiacos;Greece;34;0
+Benfica;Portugal;59,168;Paris SaintGermain;France;59;0
+Olympiacos;Greece;34;Anderlecht;Belgium;34,4;0
+Bayern Munich;Germany;79,614;CSKA Moscow;Russia;46,332;0
+Viktoria Plze;Czech Republic;23,725;Manchester City;England;82,963;2
+CSKA Moscow;Russia;46,332;Viktoria Plze;Czech Republic;23,725;0
+Manchester City;England;82,963;Bayern Munich;Germany;79,614;2
+CSKA Moscow;Russia;46,332;Manchester City;England;82,963;2
+Bayern Munich;Germany;79,614;Viktoria Plze;Czech Republic;23,725;0
+Manchester City;England;82,963;CSKA Moscow;Russia;46,332;0
+Viktoria Plze;Czech Republic;23,725;Bayern Munich;Germany;79,614;2
+CSKA Moscow;Russia;46,332;Bayern Munich;Germany;79,614;2
+Manchester City;England;82,963;Viktoria Plze;Czech Republic;23,725;0
+Bayern Munich;Germany;79,614;Manchester City;England;82,963;2
+Viktoria Plze;Czech Republic;23,725;CSKA Moscow;Russia;46,332;0
+Schalke 04;Germany;79,614;Steaua Bucureti;Romania;23,024;0
+Chelsea;England;82,963;Basel;Switzerland;28,925;2
+Basel;Switzerland;28,925;Schalke 04;Germany;79,614;2
+Steaua Bucureti;Romania;23,024;Chelsea;England;82,963;2
+Steaua Bucureti;Romania;23,024;Basel;Switzerland;28,925;1
+Schalke 04;Germany;79,614;Chelsea;England;82,963;2
+Basel;Switzerland;28,925;Steaua Bucureti;Romania;23,024;1
+Chelsea;England;82,963;Schalke 04;Germany;79,614;0
+Steaua Bucureti;Romania;23,024;Schalke 04;Germany;79,614;1
+Basel;Switzerland;28,925;Chelsea;England;82,963;0
+Schalke 04;Germany;79,614;Basel;Switzerland;28,925;0
+Chelsea;England;82,963;Steaua Bucureti;Romania;23,024;0
+Marseille;France;59;Arsenal;England;82,963;2
+Napoli;Italy;64,147;Borussia Dortmund;Germany;79,614;0
+Borussia Dortmund;Germany;79,614;Marseille;France;59;0
+Arsenal;England;82,963;Napoli;Italy;64,147;0
+Arsenal;England;82,963;Borussia Dortmund;Germany;79,614;2
+Marseille;France;59;Napoli;Italy;64,147;2
+Borussia Dortmund;Germany;79,614;Arsenal;England;82,963;2
+Napoli;Italy;64,147;Marseille;France;59;0
+Arsenal;England;82,963;Marseille;France;59;0
+Borussia Dortmund;Germany;79,614;Napoli;Italy;64,147;0
+Marseille;France;59;Borussia Dortmund;Germany;79,614;2
+Napoli;Italy;64,147;Arsenal;England;82,963;0
+Austria Wien;Austria;25,375;Porto;Portugal;59,168;2
+Atltico Madrid;Spain;88,025;Zenit Saint Petersburg;Russia;46,332;0
+Zenit Saint Petersburg;Russia;46,332;Austria Wien;Austria;25,375;1
+Porto;Portugal;59,168;Atltico Madrid;Spain;88,025;2
+Porto;Portugal;59,168;Zenit Saint Petersburg;Russia;46,332;2
+Austria Wien;Austria;25,375;Atltico Madrid;Spain;88,025;2
+Zenit Saint Petersburg;Russia;46,332;Porto;Portugal;59,168;1
+Atltico Madrid;Spain;88,025;Austria Wien;Austria;25,375;0
+Zenit Saint Petersburg;Russia;46,332;Atltico Madrid;Spain;88,025;1
+Porto;Portugal;59,168;Austria Wien;Austria;25,375;1
+Austria Wien;Austria;25,375;Zenit Saint Petersburg;Russia;46,332;0
+Atltico Madrid;Spain;88,025;Porto;Portugal;59,168;0
+Milan;Italy;64,147;Celtic;Scotland;15,191;0
+Barcelona;Spain;88,025;Ajax;Netherlands;44,729;0
+Ajax;Netherlands;44,729;Milan;Italy;64,147;1
+Celtic;Scotland;15,191;Barcelona;Spain;88,025;2
+Celtic;Scotland;15,191;Ajax;Netherlands;44,729;0
+Milan;Italy;64,147;Barcelona;Spain;88,025;1
+Ajax;Netherlands;44,729;Celtic;Scotland;15,191;0
+Barcelona;Spain;88,025;Milan;Italy;64,147;0
+Celtic;Scotland;15,191;Milan;Italy;64,147;2
+Ajax;Netherlands;44,729;Barcelona;Spain;88,025;0
+Milan;Italy;64,147;Ajax;Netherlands;44,729;1
+Barcelona;Spain;88,025;Celtic;Scotland;15,191;0
+Olympiacos;Greece;33,6;Atltico Madrid;Spain;97,713;0
+Juventus;Italy;66,938;Malm FF;Sweden;16,325;0
+Malm FF;Sweden;16,325;Olympiacos;Greece;33,6;0
+Atltico Madrid;Spain;97,713;Juventus;Italy;66,938;0
+Atltico Madrid;Spain;97,713;Malm FF;Sweden;16,325;0
+Olympiacos;Greece;33,6;Juventus;Italy;66,938;0
+Malm FF;Sweden;16,325;Atltico Madrid;Spain;97,713;2
+Juventus;Italy;66,938;Olympiacos;Greece;33,6;0
+Atltico Madrid;Spain;97,713;Olympiacos;Greece;33,6;0
+Malm FF;Sweden;16,325;Juventus;Italy;66,938;2
+Olympiacos;Greece;33,6;Malm FF;Sweden;16,325;0
+Juventus;Italy;66,938;Atltico Madrid;Spain;97,713;1
+Liverpool;England;84,748;Ludogorets Razgrad;Bulgaria;15,625;0
+Real Madrid;Spain;97,713;Basel;Switzerland;33,225;0
+Basel;Switzerland;33,225;Liverpool;England;84,748;0
+Ludogorets Razgrad;Bulgaria;15,625;Real Madrid;Spain;97,713;2
+Ludogorets Razgrad;Bulgaria;15,625;Basel;Switzerland;33,225;0
+Liverpool;England;84,748;Real Madrid;Spain;97,713;2
+Basel;Switzerland;33,225;Ludogorets Razgrad;Bulgaria;15,625;0
+Real Madrid;Spain;97,713;Liverpool;England;84,748;0
+Ludogorets Razgrad;Bulgaria;15,625;Liverpool;England;84,748;1
+Basel;Switzerland;33,225;Real Madrid;Spain;97,713;2
+Liverpool;England;84,748;Basel;Switzerland;33,225;1
+Real Madrid;Spain;97,713;Ludogorets Razgrad;Bulgaria;15,625;0
+Monaco;France;56,5;Bayer Leverkusen;Germany;81,641;0
+Benfica;Portugal;62,299;Zenit Saint Petersburg;Russia;46,998;2
+Zenit Saint Petersburg;Russia;46,998;Monaco;France;56,5;1
+Bayer Leverkusen;Germany;81,641;Benfica;Portugal;62,299;0
+Bayer Leverkusen;Germany;81,641;Zenit Saint Petersburg;Russia;46,998;0
+Monaco;France;56,5;Benfica;Portugal;62,299;1
+Zenit Saint Petersburg;Russia;46,998;Bayer Leverkusen;Germany;81,641;2
+Benfica;Portugal;62,299;Monaco;France;56,5;0
+Zenit Saint Petersburg;Russia;46,998;Benfica;Portugal;62,299;0
+Bayer Leverkusen;Germany;81,641;Monaco;France;56,5;2
+Monaco;France;56,5;Zenit Saint Petersburg;Russia;46,998;0
+Benfica;Portugal;62,299;Bayer Leverkusen;Germany;81,641;1
+Galatasaray;Turkey;34,2;Anderlecht;Belgium;36,3;1
+Borussia Dortmund;Germany;81,641;Arsenal;England;84,748;0
+Arsenal;England;84,748;Galatasaray;Turkey;34,2;0
+Anderlecht;Belgium;36,3;Borussia Dortmund;Germany;81,641;2
+Anderlecht;Belgium;36,3;Arsenal;England;84,748;2
+Galatasaray;Turkey;34,2;Borussia Dortmund;Germany;81,641;2
+Arsenal;England;84,748;Anderlecht;Belgium;36,3;1
+Borussia Dortmund;Germany;81,641;Galatasaray;Turkey;34,2;0
+Anderlecht;Belgium;36,3;Galatasaray;Turkey;34,2;0
+Arsenal;England;84,748;Borussia Dortmund;Germany;81,641;0
+Galatasaray;Turkey;34,2;Arsenal;England;84,748;2
+Borussia Dortmund;Germany;81,641;Anderlecht;Belgium;36,3;1
+Roma;Italy;66,938;CSKA Moscow;Russia;46,998;0
+Bayern Munich;Germany;81,641;Manchester City;England;84,748;0
+CSKA Moscow;Russia;46,998;Bayern Munich;Germany;81,641;2
+Manchester City;England;84,748;Roma;Italy;66,938;1
+CSKA Moscow;Russia;46,998;Manchester City;England;84,748;1
+Roma;Italy;66,938;Bayern Munich;Germany;81,641;2
+Manchester City;England;84,748;CSKA Moscow;Russia;46,998;2
+Bayern Munich;Germany;81,641;Roma;Italy;66,938;0
+CSKA Moscow;Russia;46,998;Roma;Italy;66,938;1
+Manchester City;England;84,748;Bayern Munich;Germany;81,641;0
+Roma;Italy;66,938;Manchester City;England;84,748;2
+Bayern Munich;Germany;81,641;CSKA Moscow;Russia;46,998;0
+Barcelona;Spain;97,713;APOEL;Cyprus;23,25;0
+Ajax;Netherlands;44,312;Paris SaintGermain;France;56,5;1
+Paris SaintGermain;France;56,5;Barcelona;Spain;97,713;0
+APOEL;Cyprus;23,25;Ajax;Netherlands;44,312;1
+APOEL;Cyprus;23,25;Paris SaintGermain;France;56,5;2
+Barcelona;Spain;97,713;Ajax;Netherlands;44,312;0
+Paris SaintGermain;France;56,5;APOEL;Cyprus;23,25;0
+Ajax;Netherlands;44,312;Barcelona;Spain;97,713;2
+APOEL;Cyprus;23,25;Barcelona;Spain;97,713;2
+Paris SaintGermain;France;56,5;Ajax;Netherlands;44,312;0
+Barcelona;Spain;97,713;Paris SaintGermain;France;56,5;0
+Ajax;Netherlands;44,312;APOEL;Cyprus;23,25;0
+Chelsea;England;84,748;Schalke 04;Germany;81,641;1
+Maribor;Slovenia;11;Sporting CP;Portugal;62,299;1
+Sporting CP;Portugal;62,299;Chelsea;England;84,748;2
+Schalke 04;Germany;81,641;Maribor;Slovenia;11;1
+Schalke 04;Germany;81,641;Sporting CP;Portugal;62,299;0
+Chelsea;England;84,748;Maribor;Slovenia;11;0
+Sporting CP;Portugal;62,299;Schalke 04;Germany;81,641;0
+Maribor;Slovenia;11;Chelsea;England;84,748;1
+Schalke 04;Germany;81,641;Chelsea;England;84,748;2
+Sporting CP;Portugal;62,299;Maribor;Slovenia;11;0
+Chelsea;England;84,748;Sporting CP;Portugal;62,299;0
+Maribor;Slovenia;11;Schalke 04;Germany;81,641;2
+Porto;Portugal;62,299;BATE Borisov;Belarus;18,625;0
+Athletic Bilbao;Spain;97,713;Shakhtar Donetsk;Ukraine;40,966;1
+Shakhtar Donetsk;Ukraine;40,966;Porto;Portugal;62,299;1
+BATE Borisov;Belarus;18,625;Athletic Bilbao;Spain;97,713;0
+BATE Borisov;Belarus;18,625;Shakhtar Donetsk;Ukraine;40,966;2
+Porto;Portugal;62,299;Athletic Bilbao;Spain;97,713;0
+Shakhtar Donetsk;Ukraine;40,966;BATE Borisov;Belarus;18,625;0
+Athletic Bilbao;Spain;97,713;Porto;Portugal;62,299;2
+BATE Borisov;Belarus;18,625;Porto;Portugal;62,299;2
+Shakhtar Donetsk;Ukraine;40,966;Athletic Bilbao;Spain;97,713;2
+Porto;Portugal;62,299;Shakhtar Donetsk;Ukraine;40,966;1
+Athletic Bilbao;Spain;97,713;BATE Borisov;Belarus;18,625;0
+Paris SaintGermain;France;52,416;Malm FF;Sweden;17,725;0
+Real Madrid;Spain;99,999;Shakhtar Donetsk;Ukraine;45,166;0
+Shakhtar Donetsk;Ukraine;45,166;Paris SaintGermain;France;52,416;2
+Malm FF;Sweden;17,725;Real Madrid;Spain;99,999;2
+Malm FF;Sweden;17,725;Shakhtar Donetsk;Ukraine;45,166;0
+Paris SaintGermain;France;52,416;Real Madrid;Spain;99,999;1
+Shakhtar Donetsk;Ukraine;45,166;Malm FF;Sweden;17,725;0
+Real Madrid;Spain;99,999;Paris SaintGermain;France;52,416;0
+Malm FF;Sweden;17,725;Paris SaintGermain;France;52,416;2
+Shakhtar Donetsk;Ukraine;45,166;Real Madrid;Spain;99,999;2
+Paris SaintGermain;France;52,416;Shakhtar Donetsk;Ukraine;45,166;0
+Real Madrid;Spain;99,999;Malm FF;Sweden;17,725;0
+VfL Wolfsburg;Germany;79,415;CSKA Moscow;Russia;50,498;0
+PSV Eindhoven;Netherlands;40,979;Manchester United;England;80,391;0
+Manchester United;England;80,391;VfL Wolfsburg;Germany;79,415;0
+CSKA Moscow;Russia;50,498;PSV Eindhoven;Netherlands;40,979;0
+CSKA Moscow;Russia;50,498;Manchester United;England;80,391;1
+VfL Wolfsburg;Germany;79,415;PSV Eindhoven;Netherlands;40,979;0
+Manchester United;England;80,391;CSKA Moscow;Russia;50,498;0
+PSV Eindhoven;Netherlands;40,979;VfL Wolfsburg;Germany;79,415;0
+CSKA Moscow;Russia;50,498;VfL Wolfsburg;Germany;79,415;2
+Manchester United;England;80,391;PSV Eindhoven;Netherlands;40,979;1
+VfL Wolfsburg;Germany;79,415;Manchester United;England;80,391;0
+PSV Eindhoven;Netherlands;40,979;CSKA Moscow;Russia;50,498;0
+Galatasaray;Turkey;32,6;Atltico Madrid;Spain;99,999;2
+Benfica;Portugal;61,382;Astana;Kazakhstan;10,375;0
+Astana;Kazakhstan;10,375;Galatasaray;Turkey;32,6;1
+Atltico Madrid;Spain;99,999;Benfica;Portugal;61,382;2
+Atltico Madrid;Spain;99,999;Astana;Kazakhstan;10,375;0
+Galatasaray;Turkey;32,6;Benfica;Portugal;61,382;0
+Astana;Kazakhstan;10,375;Atltico Madrid;Spain;99,999;1
+Benfica;Portugal;61,382;Galatasaray;Turkey;32,6;0
+Astana;Kazakhstan;10,375;Benfica;Portugal;61,382;1
+Atltico Madrid;Spain;99,999;Galatasaray;Turkey;32,6;0
+Galatasaray;Turkey;32,6;Astana;Kazakhstan;10,375;1
+Benfica;Portugal;61,382;Atltico Madrid;Spain;99,999;2
+Manchester City;England;80,391;Juventus;Italy;70,51;2
+Sevilla;Spain;99,999;Borussia Mnchengladbach;Germany;79,415;0
+Borussia Mnchengladbach;Germany;79,415;Manchester City;England;80,391;2
+Juventus;Italy;70,51;Sevilla;Spain;99,999;0
+Juventus;Italy;70,51;Borussia Mnchengladbach;Germany;79,415;1
+Manchester City;England;80,391;Sevilla;Spain;99,999;0
+Borussia Mnchengladbach;Germany;79,415;Juventus;Italy;70,51;1
+Sevilla;Spain;99,999;Manchester City;England;80,391;2
+Juventus;Italy;70,51;Manchester City;England;80,391;0
+Borussia Mnchengladbach;Germany;79,415;Sevilla;Spain;99,999;0
+Manchester City;England;80,391;Borussia Mnchengladbach;Germany;79,415;0
+Sevilla;Spain;99,999;Juventus;Italy;70,51;0
+Bayer Leverkusen;Germany;79,415;BATE Borisov;Belarus;20,75;0
+Roma;Italy;70,51;Barcelona;Spain;99,999;1
+Barcelona;Spain;99,999;Bayer Leverkusen;Germany;79,415;0
+BATE Borisov;Belarus;20,75;Roma;Italy;70,51;0
+BATE Borisov;Belarus;20,75;Barcelona;Spain;99,999;2
+Bayer Leverkusen;Germany;79,415;Roma;Italy;70,51;1
+Barcelona;Spain;99,999;BATE Borisov;Belarus;20,75;0
+Roma;Italy;70,51;Bayer Leverkusen;Germany;79,415;0
+BATE Borisov;Belarus;20,75;Bayer Leverkusen;Germany;79,415;1
+Barcelona;Spain;99,999;Roma;Italy;70,51;0
+Bayer Leverkusen;Germany;79,415;Barcelona;Spain;99,999;1
+Roma;Italy;70,51;BATE Borisov;Belarus;20,75;1
+Dinamo Zagreb;Croatia;23,5;Arsenal;England;80,391;0
+Olympiacos;Greece;31,9;Bayern Munich;Germany;79,415;2
+Bayern Munich;Germany;79,415;Dinamo Zagreb;Croatia;23,5;0
+Arsenal;England;80,391;Olympiacos;Greece;31,9;2
+Arsenal;England;80,391;Bayern Munich;Germany;79,415;0
+Dinamo Zagreb;Croatia;23,5;Olympiacos;Greece;31,9;2
+Bayern Munich;Germany;79,415;Arsenal;England;80,391;0
+Olympiacos;Greece;31,9;Dinamo Zagreb;Croatia;23,5;0
+Arsenal;England;80,391;Dinamo Zagreb;Croatia;23,5;0
+Bayern Munich;Germany;79,415;Olympiacos;Greece;31,9;0
+Dinamo Zagreb;Croatia;23,5;Bayern Munich;Germany;79,415;2
+Olympiacos;Greece;31,9;Arsenal;England;80,391;2
+Dynamo Kyiv;Ukraine;45,166;Porto;Portugal;61,382;1
+Chelsea;England;80,391;Maccabi Tel Aviv;Israel;21;0
+Maccabi Tel Aviv;Israel;21;Dynamo Kyiv;Ukraine;45,166;2
+Porto;Portugal;61,382;Chelsea;England;80,391;0
+Porto;Portugal;61,382;Maccabi Tel Aviv;Israel;21;0
+Dynamo Kyiv;Ukraine;45,166;Chelsea;England;80,391;1
+Maccabi Tel Aviv;Israel;21;Porto;Portugal;61,382;2
+Chelsea;England;80,391;Dynamo Kyiv;Ukraine;45,166;0
+Porto;Portugal;61,382;Dynamo Kyiv;Ukraine;45,166;2
+Maccabi Tel Aviv;Israel;21;Chelsea;England;80,391;2
+Dynamo Kyiv;Ukraine;45,166;Maccabi Tel Aviv;Israel;21;0
+Chelsea;England;80,391;Porto;Portugal;61,382;0
+Valencia;Spain;99,999;Zenit Saint Petersburg;Russia;50,498;2
+Gent;Belgium;37,2;Lyon;France;52,416;1
+Lyon;France;52,416;Valencia;Spain;99,999;2
+Zenit Saint Petersburg;Russia;50,498;Gent;Belgium;37,2;0
+Zenit Saint Petersburg;Russia;50,498;Lyon;France;52,416;0
+Valencia;Spain;99,999;Gent;Belgium;37,2;0
+Lyon;France;52,416;Zenit Saint Petersburg;Russia;50,498;2
+Gent;Belgium;37,2;Valencia;Spain;99,999;0
+Zenit Saint Petersburg;Russia;50,498;Valencia;Spain;99,999;0
+Lyon;France;52,416;Gent;Belgium;37,2;2
+Valencia;Spain;99,999;Lyon;France;52,416;2
+Gent;Belgium;37,2;Zenit Saint Petersburg;Russia;50,498;0
+Paris SaintGermain;France;52,749;Arsenal;England;76,284;1
+Basel;Switzerland;33,775;Ludogorets Razgrad;Bulgaria;13,125;1
+Ludogorets Razgrad;Bulgaria;13,125;Paris SaintGermain;France;52,749;2
+Arsenal;England;76,284;Basel;Switzerland;33,775;0
+Arsenal;England;76,284;Ludogorets Razgrad;Bulgaria;13,125;0
+Paris SaintGermain;France;52,749;Basel;Switzerland;33,775;0
+Ludogorets Razgrad;Bulgaria;13,125;Arsenal;England;76,284;2
+Basel;Switzerland;33,775;Paris SaintGermain;France;52,749;2
+Arsenal;England;76,284;Paris SaintGermain;France;52,749;1
+Ludogorets Razgrad;Bulgaria;13,125;Basel;Switzerland;33,775;1
+Paris SaintGermain;France;52,749;Ludogorets Razgrad;Bulgaria;13,125;1
+Basel;Switzerland;33,775;Arsenal;England;76,284;2
+Dynamo Kyiv;Ukraine;44,883;Napoli;Italy;70,439;2
+Benfica;Portugal;53,082;Beikta;Turkey;34,6;1
+Beikta;Turkey;34,6;Dynamo Kyiv;Ukraine;44,883;1
+Napoli;Italy;70,439;Benfica;Portugal;53,082;0
+Napoli;Italy;70,439;Beikta;Turkey;34,6;2
+Dynamo Kyiv;Ukraine;44,883;Benfica;Portugal;53,082;2
+Beikta;Turkey;34,6;Napoli;Italy;70,439;1
+Benfica;Portugal;53,082;Dynamo Kyiv;Ukraine;44,883;0
+Beikta;Turkey;34,6;Benfica;Portugal;53,082;1
+Napoli;Italy;70,439;Dynamo Kyiv;Ukraine;44,883;1
+Dynamo Kyiv;Ukraine;44,883;Beikta;Turkey;34,6;0
+Benfica;Portugal;53,082;Napoli;Italy;70,439;2
+Barcelona;Spain;105,713;Celtic;Scotland;17,3;0
+Manchester City;England;76,284;Borussia Mnchengladbach;Germany;80,177;0
+Borussia Mnchengladbach;Germany;80,177;Barcelona;Spain;105,713;2
+Celtic;Scotland;17,3;Manchester City;England;76,284;1
+Celtic;Scotland;17,3;Borussia Mnchengladbach;Germany;80,177;2
+Barcelona;Spain;105,713;Manchester City;England;76,284;0
+Borussia Mnchengladbach;Germany;80,177;Celtic;Scotland;17,3;1
+Manchester City;England;76,284;Barcelona;Spain;105,713;0
+Celtic;Scotland;17,3;Barcelona;Spain;105,713;2
+Borussia Mnchengladbach;Germany;80,177;Manchester City;England;76,284;1
+Barcelona;Spain;105,713;Borussia Mnchengladbach;Germany;80,177;0
+Manchester City;England;76,284;Celtic;Scotland;17,3;1
+Bayern Munich;Germany;80,177;Rostov;Russia;51,082;0
+PSV Eindhoven;Netherlands;35,563;Atltico Madrid;Spain;105,713;2
+Atltico Madrid;Spain;105,713;Bayern Munich;Germany;80,177;0
+Rostov;Russia;51,082;PSV Eindhoven;Netherlands;35,563;1
+Rostov;Russia;51,082;Atltico Madrid;Spain;105,713;2
+Bayern Munich;Germany;80,177;PSV Eindhoven;Netherlands;35,563;0
+Atltico Madrid;Spain;105,713;Rostov;Russia;51,082;0
+PSV Eindhoven;Netherlands;35,563;Bayern Munich;Germany;80,177;2
+Rostov;Russia;51,082;Bayern Munich;Germany;80,177;0
+Atltico Madrid;Spain;105,713;PSV Eindhoven;Netherlands;35,563;0
+Bayern Munich;Germany;80,177;Atltico Madrid;Spain;105,713;0
+PSV Eindhoven;Netherlands;35,563;Rostov;Russia;51,082;1
+Bayer Leverkusen;Germany;80,177;CSKA Moscow;Russia;51,082;1
+Tottenham Hotspur;England;76,284;Monaco;France;52,749;2
+Monaco;France;52,749;Bayer Leverkusen;Germany;80,177;1
+CSKA Moscow;Russia;51,082;Tottenham Hotspur;England;76,284;2
+CSKA Moscow;Russia;51,082;Monaco;France;52,749;1
+Bayer Leverkusen;Germany;80,177;Tottenham Hotspur;England;76,284;1
+Monaco;France;52,749;CSKA Moscow;Russia;51,082;0
+Tottenham Hotspur;England;76,284;Bayer Leverkusen;Germany;80,177;2
+CSKA Moscow;Russia;51,082;Bayer Leverkusen;Germany;80,177;1
+Monaco;France;52,749;Tottenham Hotspur;England;76,284;0
+Bayer Leverkusen;Germany;80,177;Monaco;France;52,749;0
+Tottenham Hotspur;England;76,284;CSKA Moscow;Russia;51,082;0
+Real Madrid;Spain;105,713;Sporting CP;Portugal;53,082;0
+Legia Warsaw;Poland;22,5;Borussia Dortmund;Germany;80,177;2
+Borussia Dortmund;Germany;80,177;Real Madrid;Spain;105,713;1
+Sporting CP;Portugal;53,082;Legia Warsaw;Poland;22,5;0
+Sporting CP;Portugal;53,082;Borussia Dortmund;Germany;80,177;2
+Real Madrid;Spain;105,713;Legia Warsaw;Poland;22,5;0
+Borussia Dortmund;Germany;80,177;Sporting CP;Portugal;53,082;0
+Legia Warsaw;Poland;22,5;Real Madrid;Spain;105,713;1
+Sporting CP;Portugal;53,082;Real Madrid;Spain;105,713;2
+Borussia Dortmund;Germany;80,177;Legia Warsaw;Poland;22,5;0
+Real Madrid;Spain;105,713;Borussia Dortmund;Germany;80,177;1
+Legia Warsaw;Poland;22,5;Sporting CP;Portugal;53,082;0
+Club Brugge;Belgium;40;Leicester City;England;76,284;2
+Porto;Portugal;53,082;Copenhagen;Denmark;18,6;1
+Copenhagen;Denmark;18,6;Club Brugge;Belgium;40;0
+Leicester City;England;76,284;Porto;Portugal;53,082;0
+Leicester City;England;76,284;Copenhagen;Denmark;18,6;0
+Club Brugge;Belgium;40;Porto;Portugal;53,082;2
+Copenhagen;Denmark;18,6;Leicester City;England;76,284;1
+Porto;Portugal;53,082;Club Brugge;Belgium;40;0
+Leicester City;England;76,284;Club Brugge;Belgium;40;0
+Copenhagen;Denmark;18,6;Porto;Portugal;53,082;1
+Club Brugge;Belgium;40;Copenhagen;Denmark;18,6;2
+Porto;Portugal;53,082;Leicester City;England;76,284;0
+Lyon;France;52,749;Dinamo Zagreb;Croatia;23,875;0
+Juventus;Italy;70,439;Sevilla;Spain;105,713;1
+Sevilla;Spain;105,713;Lyon;France;52,749;0
+Dinamo Zagreb;Croatia;23,875;Juventus;Italy;70,439;2
+Dinamo Zagreb;Croatia;23,875;Sevilla;Spain;105,713;2
+Lyon;France;52,749;Juventus;Italy;70,439;2
+Sevilla;Spain;105,713;Dinamo Zagreb;Croatia;23,875;0
+Juventus;Italy;70,439;Lyon;France;52,749;1
+Dinamo Zagreb;Croatia;23,875;Lyon;France;52,749;2
+Sevilla;Spain;105,713;Juventus;Italy;70,439;2
+Lyon;France;52,749;Sevilla;Spain;105,713;1
+Juventus;Italy;70,439;Dinamo Zagreb;Croatia;23,875;0
+Benfica;Portugal;49,332;CSKA Moscow;Russia;50,532;2
+Manchester United;England;75,962;Basel;Switzerland;32,075;0
+Basel;Switzerland;32,075;Benfica;Portugal;49,332;0
+CSKA Moscow;Russia;50,532;Manchester United;England;75,962;2
+CSKA Moscow;Russia;50,532;Basel;Switzerland;32,075;2
+Benfica;Portugal;49,332;Manchester United;England;75,962;2
+Basel;Switzerland;32,075;CSKA Moscow;Russia;50,532;2
+Manchester United;England;75,962;Benfica;Portugal;49,332;0
+CSKA Moscow;Russia;50,532;Benfica;Portugal;49,332;0
+Basel;Switzerland;32,075;Manchester United;England;75,962;0
+Benfica;Portugal;49,332;Basel;Switzerland;32,075;2
+Manchester United;England;75,962;CSKA Moscow;Russia;50,532;0
+Bayern Munich;Germany;79,498;Anderlecht;Belgium;42,4;0
+Celtic;Scotland;18,925;Paris SaintGermain;France;56,665;2
+Paris SaintGermain;France;56,665;Bayern Munich;Germany;79,498;0
+Anderlecht;Belgium;42,4;Celtic;Scotland;18,925;2
+Anderlecht;Belgium;42,4;Paris SaintGermain;France;56,665;2
+Bayern Munich;Germany;79,498;Celtic;Scotland;18,925;0
+Paris SaintGermain;France;56,665;Anderlecht;Belgium;42,4;0
+Celtic;Scotland;18,925;Bayern Munich;Germany;79,498;2
+Anderlecht;Belgium;42,4;Bayern Munich;Germany;79,498;2
+Paris SaintGermain;France;56,665;Celtic;Scotland;18,925;0
+Bayern Munich;Germany;79,498;Paris SaintGermain;France;56,665;0
+Celtic;Scotland;18,925;Anderlecht;Belgium;42,4;2
+Chelsea;England;75,962;Qaraba;Azerbaijan;17,75;0
+Roma;Italy;73,332;Atltico Madrid;Spain;104,998;1
+Qaraba;Azerbaijan;17,75;Roma;Italy;73,332;2
+Atltico Madrid;Spain;104,998;Chelsea;England;75,962;2
+Qaraba;Azerbaijan;17,75;Atltico Madrid;Spain;104,998;1
+Chelsea;England;75,962;Roma;Italy;73,332;1
+Atltico Madrid;Spain;104,998;Qaraba;Azerbaijan;17,75;1
+Roma;Italy;73,332;Chelsea;England;75,962;0
+Qaraba;Azerbaijan;17,75;Chelsea;England;75,962;2
+Atltico Madrid;Spain;104,998;Roma;Italy;73,332;0
+Chelsea;England;75,962;Atltico Madrid;Spain;104,998;1
+Roma;Italy;73,332;Qaraba;Azerbaijan;17,75;0
+Barcelona;Spain;104,998;Juventus;Italy;73,332;0
+Olympiacos;Greece;27,9;Sporting CP;Portugal;49,332;2
+Sporting CP;Portugal;49,332;Barcelona;Spain;104,998;2
+Juventus;Italy;73,332;Olympiacos;Greece;27,9;0
+Juventus;Italy;73,332;Sporting CP;Portugal;49,332;0
+Barcelona;Spain;104,998;Olympiacos;Greece;27,9;0
+Sporting CP;Portugal;49,332;Juventus;Italy;73,332;1
+Olympiacos;Greece;27,9;Barcelona;Spain;104,998;1
+Juventus;Italy;73,332;Barcelona;Spain;104,998;1
+Sporting CP;Portugal;49,332;Olympiacos;Greece;27,9;0
+Barcelona;Spain;104,998;Sporting CP;Portugal;49,332;0
+Olympiacos;Greece;27,9;Juventus;Italy;73,332;2
+Maribor;Slovenia;13,125;Spartak Moscow;Russia;50,532;1
+Liverpool;England;75,962;Sevilla;Spain;104,998;1
+Sevilla;Spain;104,998;Maribor;Slovenia;13,125;0
+Spartak Moscow;Russia;50,532;Liverpool;England;75,962;1
+Spartak Moscow;Russia;50,532;Sevilla;Spain;104,998;0
+Maribor;Slovenia;13,125;Liverpool;England;75,962;2
+Sevilla;Spain;104,998;Spartak Moscow;Russia;50,532;0
+Liverpool;England;75,962;Maribor;Slovenia;13,125;0
+Spartak Moscow;Russia;50,532;Maribor;Slovenia;13,125;1
+Sevilla;Spain;104,998;Liverpool;England;75,962;1
+Maribor;Slovenia;13,125;Sevilla;Spain;104,998;1
+Liverpool;England;75,962;Spartak Moscow;Russia;50,532;0
+Feyenoord;Netherlands;31,063;Manchester City;England;75,962;2
+Shakhtar Donetsk;Ukraine;42,633;Napoli;Italy;73,332;0
+Napoli;Italy;73,332;Feyenoord;Netherlands;31,063;0
+Manchester City;England;75,962;Shakhtar Donetsk;Ukraine;42,633;0
+Manchester City;England;75,962;Napoli;Italy;73,332;0
+Feyenoord;Netherlands;31,063;Shakhtar Donetsk;Ukraine;42,633;2
+Napoli;Italy;73,332;Manchester City;England;75,962;2
+Shakhtar Donetsk;Ukraine;42,633;Feyenoord;Netherlands;31,063;0
+Manchester City;England;75,962;Feyenoord;Netherlands;31,063;0
+Napoli;Italy;73,332;Shakhtar Donetsk;Ukraine;42,633;0
+Feyenoord;Netherlands;31,063;Napoli;Italy;73,332;0
+Shakhtar Donetsk;Ukraine;42,633;Manchester City;England;75,962;0
+RB Leipzig;Germany;79,498;Monaco;France;56,665;1
+Porto;Portugal;49,332;Beikta;Turkey;39,2;2
+Beikta;Turkey;39,2;RB Leipzig;Germany;79,498;0
+Monaco;France;56,665;Porto;Portugal;49,332;2
+Monaco;France;56,665;Beikta;Turkey;39,2;2
+RB Leipzig;Germany;79,498;Porto;Portugal;49,332;0
+Beikta;Turkey;39,2;Monaco;France;56,665;1
+Porto;Portugal;49,332;RB Leipzig;Germany;79,498;0
+Beikta;Turkey;39,2;Porto;Portugal;49,332;1
+Monaco;France;56,665;RB Leipzig;Germany;79,498;2
+RB Leipzig;Germany;79,498;Beikta;Turkey;39,2;2
+Porto;Portugal;49,332;Monaco;France;56,665;0
+Real Madrid;Spain;104,998;APOEL;Cyprus;18,55;0
+Tottenham Hotspur;England;75,962;Borussia Dortmund;Germany;79,498;0
+Borussia Dortmund;Germany;79,498;Real Madrid;Spain;104,998;2
+APOEL;Cyprus;18,55;Tottenham Hotspur;England;75,962;2
+APOEL;Cyprus;18,55;Borussia Dortmund;Germany;79,498;1
+Real Madrid;Spain;104,998;Tottenham Hotspur;England;75,962;1
+Borussia Dortmund;Germany;79,498;APOEL;Cyprus;18,55;1
+Tottenham Hotspur;England;75,962;Real Madrid;Spain;104,998;0
+APOEL;Cyprus;18,55;Real Madrid;Spain;104,998;2
+Borussia Dortmund;Germany;79,498;Tottenham Hotspur;England;75,962;2
+Real Madrid;Spain;104,998;Borussia Dortmund;Germany;79,498;0
+Tottenham Hotspur;England;75,962;APOEL;Cyprus;18,55;0
+Club Brugge;Belgium;38,5;Borussia Dortmund;Germany;71,427;2
+Monaco;France;56,415;Atltico Madrid;Spain;106,998;2
+Atltico Madrid;Spain;106,998;Club Brugge;Belgium;38,5;0
+Borussia Dortmund;Germany;71,427;Monaco;France;56,415;0
+Club Brugge;Belgium;38,5;Monaco;France;56,415;1
+Borussia Dortmund;Germany;71,427;Atltico Madrid;Spain;106,998;0
+Monaco;France;56,415;Club Brugge;Belgium;38,5;2
+Atltico Madrid;Spain;106,998;Borussia Dortmund;Germany;71,427;0
+Atltico Madrid;Spain;106,998;Monaco;France;56,415;0
+Borussia Dortmund;Germany;71,427;Club Brugge;Belgium;38,5;1
+Club Brugge;Belgium;38,5;Atltico Madrid;Spain;106,998;1
+Monaco;France;56,415;Borussia Dortmund;Germany;71,427;2
+Barcelona;Spain;106,998;PSV Eindhoven;Netherlands;29,749;0
+Inter Milan;Italy;76,249;Tottenham Hotspur;England;79,605;0
+Tottenham Hotspur;England;79,605;Barcelona;Spain;106,998;2
+PSV Eindhoven;Netherlands;29,749;Inter Milan;Italy;76,249;2
+PSV Eindhoven;Netherlands;29,749;Tottenham Hotspur;England;79,605;1
+Barcelona;Spain;106,998;Inter Milan;Italy;76,249;0
+Tottenham Hotspur;England;79,605;PSV Eindhoven;Netherlands;29,749;0
+Inter Milan;Italy;76,249;Barcelona;Spain;106,998;1
+PSV Eindhoven;Netherlands;29,749;Barcelona;Spain;106,998;2
+Tottenham Hotspur;England;79,605;Inter Milan;Italy;76,249;0
+Barcelona;Spain;106,998;Tottenham Hotspur;England;79,605;1
+Inter Milan;Italy;76,249;PSV Eindhoven;Netherlands;29,749;1
+Liverpool;England;79,605;Paris SaintGermain;France;56,415;0
+Red Star Belgrade;Serbia;18,75;Napoli;Italy;76,249;1
+Paris SaintGermain;France;56,415;Red Star Belgrade;Serbia;18,75;0
+Napoli;Italy;76,249;Liverpool;England;79,605;0
+Paris SaintGermain;France;56,415;Napoli;Italy;76,249;1
+Liverpool;England;79,605;Red Star Belgrade;Serbia;18,75;0
+Red Star Belgrade;Serbia;18,75;Liverpool;England;79,605;0
+Napoli;Italy;76,249;Paris SaintGermain;France;56,415;1
+Paris SaintGermain;France;56,415;Liverpool;England;79,605;0
+Napoli;Italy;76,249;Red Star Belgrade;Serbia;18,75;0
+Liverpool;England;79,605;Napoli;Italy;76,249;0
+Red Star Belgrade;Serbia;18,75;Paris SaintGermain;France;56,415;2
+Galatasaray;Turkey;35,8;Lokomotiv Moscow;Russia;53,382;0
+Schalke 04;Germany;71,427;Porto;Portugal;47,248;1
+Lokomotiv Moscow;Russia;53,382;Schalke 04;Germany;71,427;2
+Porto;Portugal;47,248;Galatasaray;Turkey;35,8;0
+Lokomotiv Moscow;Russia;53,382;Porto;Portugal;47,248;2
+Galatasaray;Turkey;35,8;Schalke 04;Germany;71,427;1
+Porto;Portugal;47,248;Lokomotiv Moscow;Russia;53,382;0
+Schalke 04;Germany;71,427;Galatasaray;Turkey;35,8;0
+Lokomotiv Moscow;Russia;53,382;Galatasaray;Turkey;35,8;0
+Porto;Portugal;47,248;Schalke 04;Germany;71,427;0
+Galatasaray;Turkey;35,8;Porto;Portugal;47,248;2
+Schalke 04;Germany;71,427;Lokomotiv Moscow;Russia;53,382;0
+Ajax;Netherlands;29,749;AEK Athens;Greece;28,6;0
+Benfica;Portugal;47,248;Bayern Munich;Germany;71,427;2
+Bayern Munich;Germany;71,427;Ajax;Netherlands;29,749;1
+AEK Athens;Greece;28,6;Benfica;Portugal;47,248;2
+AEK Athens;Greece;28,6;Bayern Munich;Germany;71,427;2
+Ajax;Netherlands;29,749;Benfica;Portugal;47,248;0
+Bayern Munich;Germany;71,427;AEK Athens;Greece;28,6;0
+Benfica;Portugal;47,248;Ajax;Netherlands;29,749;1
+AEK Athens;Greece;28,6;Ajax;Netherlands;29,749;2
+Bayern Munich;Germany;71,427;Benfica;Portugal;47,248;0
+Ajax;Netherlands;29,749;Bayern Munich;Germany;71,427;1
+Benfica;Portugal;47,248;AEK Athens;Greece;28,6;0
+Shakhtar Donetsk;Ukraine;41,133;1899 Hoffenheim;Germany;71,427;1
+Manchester City;England;79,605;Lyon;France;56,415;2
+1899 Hoffenheim;Germany;71,427;Manchester City;England;79,605;2
+Lyon;France;56,415;Shakhtar Donetsk;Ukraine;41,133;1
+1899 Hoffenheim;Germany;71,427;Lyon;France;56,415;1
+Shakhtar Donetsk;Ukraine;41,133;Manchester City;England;79,605;2
+Lyon;France;56,415;1899 Hoffenheim;Germany;71,427;1
+Manchester City;England;79,605;Shakhtar Donetsk;Ukraine;41,133;0
+1899 Hoffenheim;Germany;71,427;Shakhtar Donetsk;Ukraine;41,133;2
+Lyon;France;56,415;Manchester City;England;79,605;1
+Shakhtar Donetsk;Ukraine;41,133;Lyon;France;56,415;1
+Manchester City;England;79,605;1899 Hoffenheim;Germany;71,427;0
+Real Madrid;Spain;106,998;Roma;Italy;76,249;0
+Viktoria Plze;Czech Republic;30,175;CSKA Moscow;Russia;53,382;1
+CSKA Moscow;Russia;53,382;Real Madrid;Spain;106,998;0
+Roma;Italy;76,249;Viktoria Plze;Czech Republic;30,175;0
+Roma;Italy;76,249;CSKA Moscow;Russia;53,382;0
+Real Madrid;Spain;106,998;Viktoria Plze;Czech Republic;30,175;0
+CSKA Moscow;Russia;53,382;Roma;Italy;76,249;2
+Viktoria Plze;Czech Republic;30,175;Real Madrid;Spain;106,998;2
+CSKA Moscow;Russia;53,382;Viktoria Plze;Czech Republic;30,175;2
+Roma;Italy;76,249;Real Madrid;Spain;106,998;2
+Real Madrid;Spain;106,998;CSKA Moscow;Russia;53,382;2
+Viktoria Plze;Czech Republic;30,175;Roma;Italy;76,249;0
+Young Boys;Switzerland;30,2;Manchester United;England;79,605;2
+Valencia;Spain;106,998;Juventus;Italy;76,249;2
+Juventus;Italy;76,249;Young Boys;Switzerland;30,2;0
+Manchester United;England;79,605;Valencia;Spain;106,998;1
+Young Boys;Switzerland;30,2;Valencia;Spain;106,998;1
+Manchester United;England;79,605;Juventus;Italy;76,249;2
+Valencia;Spain;106,998;Young Boys;Switzerland;30,2;0
+Juventus;Italy;76,249;Manchester United;England;79,605;2
+Manchester United;England;79,605;Young Boys;Switzerland;30,2;0
+Juventus;Italy;76,249;Valencia;Spain;106,998;0
+Young Boys;Switzerland;30,2;Juventus;Italy;76,249;0
+Valencia;Spain;106,998;Manchester United;England;79,605;0
+Club Brugge;Belgium;39,9;Galatasaray;Turkey;34,6;1
+Paris SaintGermain;France;58,498;Real Madrid;Spain;103,569;0
+Real Madrid;Spain;103,569;Club Brugge;Belgium;39,9;1
+Galatasaray;Turkey;34,6;Paris SaintGermain;France;58,498;2
+Galatasaray;Turkey;34,6;Real Madrid;Spain;103,569;2
+Club Brugge;Belgium;39,9;Paris SaintGermain;France;58,498;2
+Real Madrid;Spain;103,569;Galatasaray;Turkey;34,6;0
+Paris SaintGermain;France;58,498;Club Brugge;Belgium;39,9;0
+Galatasaray;Turkey;34,6;Club Brugge;Belgium;39,9;1
+Real Madrid;Spain;103,569;Paris SaintGermain;France;58,498;1
+Club Brugge;Belgium;39,9;Real Madrid;Spain;103,569;2
+Paris SaintGermain;France;58,498;Galatasaray;Turkey;34,6;0
+Olympiacos;Greece;27,6;Tottenham Hotspur;England;85,462;1
+Bayern Munich;Germany;71,927;Red Star Belgrade;Serbia;22,25;0
+Red Star Belgrade;Serbia;22,25;Olympiacos;Greece;27,6;0
+Tottenham Hotspur;England;85,462;Bayern Munich;Germany;71,927;2
+Tottenham Hotspur;England;85,462;Red Star Belgrade;Serbia;22,25;0
+Olympiacos;Greece;27,6;Bayern Munich;Germany;71,927;2
+Bayern Munich;Germany;71,927;Olympiacos;Greece;27,6;0
+Red Star Belgrade;Serbia;22,25;Tottenham Hotspur;England;85,462;2
+Tottenham Hotspur;England;85,462;Olympiacos;Greece;27,6;0
+Red Star Belgrade;Serbia;22,25;Bayern Munich;Germany;71,927;2
+Olympiacos;Greece;27,6;Red Star Belgrade;Serbia;22,25;0
+Bayern Munich;Germany;71,927;Tottenham Hotspur;England;85,462;0
+Shakhtar Donetsk;Ukraine;38,9;Manchester City;England;85,462;2
+Dinamo Zagreb;Croatia;27,375;Atalanta;Italy;74,725;0
+Atalanta;Italy;74,725;Shakhtar Donetsk;Ukraine;38,9;2
+Manchester City;England;85,462;Dinamo Zagreb;Croatia;27,375;0
+Shakhtar Donetsk;Ukraine;38,9;Dinamo Zagreb;Croatia;27,375;1
+Manchester City;England;85,462;Atalanta;Italy;74,725;0
+Atalanta;Italy;74,725;Manchester City;England;85,462;1
+Dinamo Zagreb;Croatia;27,375;Shakhtar Donetsk;Ukraine;38,9;1
+Manchester City;England;85,462;Shakhtar Donetsk;Ukraine;38,9;1
+Atalanta;Italy;74,725;Dinamo Zagreb;Croatia;27,375;0
+Shakhtar Donetsk;Ukraine;38,9;Atalanta;Italy;74,725;2
+Dinamo Zagreb;Croatia;27,375;Manchester City;England;85,462;2
+Atltico Madrid;Spain;103,569;Juventus;Italy;74,725;1
+Bayer Leverkusen;Germany;71,927;Lokomotiv Moscow;Russia;50,549;2
+Lokomotiv Moscow;Russia;50,549;Atltico Madrid;Spain;103,569;2
+Juventus;Italy;74,725;Bayer Leverkusen;Germany;71,927;0
+Atltico Madrid;Spain;103,569;Bayer Leverkusen;Germany;71,927;0
+Juventus;Italy;74,725;Lokomotiv Moscow;Russia;50,549;0
+Lokomotiv Moscow;Russia;50,549;Juventus;Italy;74,725;2
+Bayer Leverkusen;Germany;71,927;Atltico Madrid;Spain;103,569;0
+Lokomotiv Moscow;Russia;50,549;Bayer Leverkusen;Germany;71,927;2
+Juventus;Italy;74,725;Atltico Madrid;Spain;103,569;0
+Atltico Madrid;Spain;103,569;Lokomotiv Moscow;Russia;50,549;0
+Bayer Leverkusen;Germany;71,927;Juventus;Italy;74,725;2
+Red Bull Salzburg;Austria;31,25;Genk;Belgium;39,9;0
+Napoli;Italy;74,725;Liverpool;England;85,462;0
+Genk;Belgium;39,9;Napoli;Italy;74,725;1
+Liverpool;England;85,462;Red Bull Salzburg;Austria;31,25;0
+Genk;Belgium;39,9;Liverpool;England;85,462;2
+Red Bull Salzburg;Austria;31,25;Napoli;Italy;74,725;2
+Liverpool;England;85,462;Genk;Belgium;39,9;0
+Napoli;Italy;74,725;Red Bull Salzburg;Austria;31,25;1
+Genk;Belgium;39,9;Red Bull Salzburg;Austria;31,25;2
+Liverpool;England;85,462;Napoli;Italy;74,725;1
+Red Bull Salzburg;Austria;31,25;Liverpool;England;85,462;2
+Napoli;Italy;74,725;Genk;Belgium;39,9;0
+Inter Milan;Italy;74,725;Slavia Prague;Czech Republic;28,675;1
+Borussia Dortmund;Germany;71,927;Barcelona;Spain;103,569;1
+Slavia Prague;Czech Republic;28,675;Borussia Dortmund;Germany;71,927;2
+Barcelona;Spain;103,569;Inter Milan;Italy;74,725;0
+Slavia Prague;Czech Republic;28,675;Barcelona;Spain;103,569;2
+Inter Milan;Italy;74,725;Borussia Dortmund;Germany;71,927;0
+Barcelona;Spain;103,569;Slavia Prague;Czech Republic;28,675;1
+Borussia Dortmund;Germany;71,927;Inter Milan;Italy;74,725;0
+Slavia Prague;Czech Republic;28,675;Inter Milan;Italy;74,725;2
+Barcelona;Spain;103,569;Borussia Dortmund;Germany;71,927;0
+Inter Milan;Italy;74,725;Barcelona;Spain;103,569;2
+Borussia Dortmund;Germany;71,927;Slavia Prague;Czech Republic;28,675;0
+Lyon;France;58,498;Zenit Saint Petersburg;Russia;50,549;1
+Benfica;Portugal;48,232;RB Leipzig;Germany;71,927;2
+Zenit Saint Petersburg;Russia;50,549;Benfica;Portugal;48,232;0
+RB Leipzig;Germany;71,927;Lyon;France;58,498;2
+RB Leipzig;Germany;71,927;Zenit Saint Petersburg;Russia;50,549;0
+Benfica;Portugal;48,232;Lyon;France;58,498;0
+Zenit Saint Petersburg;Russia;50,549;RB Leipzig;Germany;71,927;2
+Lyon;France;58,498;Benfica;Portugal;48,232;0
+Zenit Saint Petersburg;Russia;50,549;Lyon;France;58,498;0
+RB Leipzig;Germany;71,927;Benfica;Portugal;48,232;1
+Benfica;Portugal;48,232;Zenit Saint Petersburg;Russia;50,549;0
+Lyon;France;58,498;RB Leipzig;Germany;71,927;1
+Ajax;Netherlands;32,433;Lille;France;58,498;0
+Chelsea;England;85,462;Valencia;Spain;103,569;2
+Valencia;Spain;103,569;Ajax;Netherlands;32,433;2
+Lille;France;58,498;Chelsea;England;85,462;2
+Ajax;Netherlands;32,433;Chelsea;England;85,462;2
+Lille;France;58,498;Valencia;Spain;103,569;1
+Valencia;Spain;103,569;Lille;France;58,498;0
+Chelsea;England;85,462;Ajax;Netherlands;32,433;1
+Valencia;Spain;103,569;Chelsea;England;85,462;1
+Lille;France;58,498;Ajax;Netherlands;32,433;2
+Ajax;Netherlands;32,433;Valencia;Spain;103,569;2
+Chelsea;England;85,462;Lille;France;58,498;0
+Red Bull Salzburg;Austria;32,925;Lokomotiv Moscow;Russia;45,549;1
+Bayern Munich;Germany;74,784;Atltico Madrid;Spain;102,283;0
+Lokomotiv Moscow;Russia;45,549;Bayern Munich;Germany;74,784;2
+Atltico Madrid;Spain;102,283;Red Bull Salzburg;Austria;32,925;0
+Lokomotiv Moscow;Russia;45,549;Atltico Madrid;Spain;102,283;1
+Red Bull Salzburg;Austria;32,925;Bayern Munich;Germany;74,784;2
+Atltico Madrid;Spain;102,283;Lokomotiv Moscow;Russia;45,549;1
+Bayern Munich;Germany;74,784;Red Bull Salzburg;Austria;32,925;0
+Lokomotiv Moscow;Russia;45,549;Red Bull Salzburg;Austria;32,925;2
+Atltico Madrid;Spain;102,283;Bayern Munich;Germany;74,784;1
+Bayern Munich;Germany;74,784;Lokomotiv Moscow;Russia;45,549;0
+Red Bull Salzburg;Austria;32,925;Atltico Madrid;Spain;102,283;2
+Real Madrid;Spain;102,283;Shakhtar Donetsk;Ukraine;36,1;2
+Inter Milan;Italy;70,653;Borussia Mnchengladbach;Germany;74,784;1
+Shakhtar Donetsk;Ukraine;36,1;Inter Milan;Italy;70,653;1
+Borussia Mnchengladbach;Germany;74,784;Real Madrid;Spain;102,283;1
+Shakhtar Donetsk;Ukraine;36,1;Borussia Mnchengladbach;Germany;74,784;2
+Real Madrid;Spain;102,283;Inter Milan;Italy;70,653;0
+Borussia Mnchengladbach;Germany;74,784;Shakhtar Donetsk;Ukraine;36,1;0
+Inter Milan;Italy;70,653;Real Madrid;Spain;102,283;2
+Shakhtar Donetsk;Ukraine;36,1;Real Madrid;Spain;102,283;0
+Borussia Mnchengladbach;Germany;74,784;Inter Milan;Italy;70,653;2
+Real Madrid;Spain;102,283;Borussia Mnchengladbach;Germany;74,784;0
+Inter Milan;Italy;70,653;Shakhtar Donetsk;Ukraine;36,1;1
+Manchester City;England;90,462;Porto;Portugal;49,449;0
+Olympiacos;Greece;26,3;Marseille;France;59,248;0
+Porto;Portugal;49,449;Olympiacos;Greece;26,3;0
+Marseille;France;59,248;Manchester City;England;90,462;2
+Manchester City;England;90,462;Olympiacos;Greece;26,3;0
+Porto;Portugal;49,449;Marseille;France;59,248;0
+Olympiacos;Greece;26,3;Manchester City;England;90,462;2
+Marseille;France;59,248;Porto;Portugal;49,449;2
+Marseille;France;59,248;Olympiacos;Greece;26,3;0
+Porto;Portugal;49,449;Manchester City;England;90,462;1
+Manchester City;England;90,462;Marseille;France;59,248;0
+Olympiacos;Greece;26,3;Porto;Portugal;49,449;2
+Ajax;Netherlands;35,75;Liverpool;England;90,462;2
+Midtjylland;Denmark;29,25;Atalanta;Italy;70,653;2
+Liverpool;England;90,462;Midtjylland;Denmark;29,25;0
+Atalanta;Italy;70,653;Ajax;Netherlands;35,75;1
+Midtjylland;Denmark;29,25;Ajax;Netherlands;35,75;2
+Atalanta;Italy;70,653;Liverpool;England;90,462;2
+Liverpool;England;90,462;Atalanta;Italy;70,653;2
+Ajax;Netherlands;35,75;Midtjylland;Denmark;29,25;0
+Liverpool;England;90,462;Ajax;Netherlands;35,75;0
+Atalanta;Italy;70,653;Midtjylland;Denmark;29,25;1
+Ajax;Netherlands;35,75;Atalanta;Italy;70,653;2
+Midtjylland;Denmark;29,25;Liverpool;England;90,462;1
+Chelsea;England;90,462;Sevilla;Spain;102,283;1
+Rennes;France;59,248;Krasnodar;Russia;45,549;1
+Krasnodar;Russia;45,549;Chelsea;England;90,462;2
+Sevilla;Spain;102,283;Rennes;France;59,248;0
+Sevilla;Spain;102,283;Krasnodar;Russia;45,549;0
+Chelsea;England;90,462;Rennes;France;59,248;0
+Krasnodar;Russia;45,549;Sevilla;Spain;102,283;2
+Rennes;France;59,248;Chelsea;England;90,462;2
+Krasnodar;Russia;45,549;Rennes;France;59,248;0
+Sevilla;Spain;102,283;Chelsea;England;90,462;2
+Chelsea;England;90,462;Krasnodar;Russia;45,549;1
+Rennes;France;59,248;Sevilla;Spain;102,283;2
+Zenit Saint Petersburg;Russia;45,549;Club Brugge;Belgium;37,9;2
+Lazio;Italy;70,653;Borussia Dortmund;Germany;74,784;0
+Borussia Dortmund;Germany;74,784;Zenit Saint Petersburg;Russia;45,549;0
+Club Brugge;Belgium;37,9;Lazio;Italy;70,653;1
+Zenit Saint Petersburg;Russia;45,549;Lazio;Italy;70,653;1
+Club Brugge;Belgium;37,9;Borussia Dortmund;Germany;74,784;2
+Lazio;Italy;70,653;Zenit Saint Petersburg;Russia;45,549;0
+Borussia Dortmund;Germany;74,784;Club Brugge;Belgium;37,9;0
+Borussia Dortmund;Germany;74,784;Lazio;Italy;70,653;1
+Club Brugge;Belgium;37,9;Zenit Saint Petersburg;Russia;45,549;0
+Zenit Saint Petersburg;Russia;45,549;Borussia Dortmund;Germany;74,784;2
+Lazio;Italy;70,653;Club Brugge;Belgium;37,9;1
+Dynamo Kyiv;Ukraine;36,1;Juventus;Italy;70,653;2
+Barcelona;Spain;102,283;Ferencvros;Hungary;12,875;0
+Juventus;Italy;70,653;Barcelona;Spain;102,283;2
+Ferencvros;Hungary;12,875;Dynamo Kyiv;Ukraine;36,1;1
+Barcelona;Spain;102,283;Dynamo Kyiv;Ukraine;36,1;0
+Ferencvros;Hungary;12,875;Juventus;Italy;70,653;2
+Dynamo Kyiv;Ukraine;36,1;Barcelona;Spain;102,283;2
+Juventus;Italy;70,653;Ferencvros;Hungary;12,875;0
+Juventus;Italy;70,653;Dynamo Kyiv;Ukraine;36,1;0
+Ferencvros;Hungary;12,875;Barcelona;Spain;102,283;2
+Barcelona;Spain;102,283;Juventus;Italy;70,653;2
+Dynamo Kyiv;Ukraine;36,1;Ferencvros;Hungary;12,875;0
+Paris SaintGermain;France;59,248;Manchester United;England;90,462;2
+RB Leipzig;Germany;74,784;stanbul Baakehir;Turkey;33,6;0
+stanbul Baakehir;Turkey;33,6;Paris SaintGermain;France;59,248;2
+Manchester United;England;90,462;RB Leipzig;Germany;74,784;0
+stanbul Baakehir;Turkey;33,6;Manchester United;England;90,462;0
+RB Leipzig;Germany;74,784;Paris SaintGermain;France;59,248;0
+Manchester United;England;90,462;stanbul Baakehir;Turkey;33,6;0
+Paris SaintGermain;France;59,248;RB Leipzig;Germany;74,784;0
+stanbul Baakehir;Turkey;33,6;RB Leipzig;Germany;74,784;2
+Manchester United;England;90,462;Paris SaintGermain;France;59,248;2
+Paris SaintGermain;France;59,248;stanbul Baakehir;Turkey;33,6;0
+RB Leipzig;Germany;74,784;Manchester United;England;90,462;0
+Manchester City;England;100,569;RB Leipzig;Germany;73,57;0
+Club Brugge;Belgium;36,5;Paris SaintGermain;France;56,081;1
+RB Leipzig;Germany;73,57;Club Brugge;Belgium;36,5;2
+Paris SaintGermain;France;56,081;Manchester City;England;100,569;0
+Club Brugge;Belgium;36,5;Manchester City;England;100,569;2
+Paris SaintGermain;France;56,081;RB Leipzig;Germany;73,57;0
+RB Leipzig;Germany;73,57;Paris SaintGermain;France;56,081;1
+Manchester City;England;100,569;Club Brugge;Belgium;36,5;0
+Manchester City;England;100,569;Paris SaintGermain;France;56,081;0
+Club Brugge;Belgium;36,5;RB Leipzig;Germany;73,57;2
+RB Leipzig;Germany;73,57;Manchester City;England;100,569;0
+Paris SaintGermain;France;56,081;Club Brugge;Belgium;36,5;0
+Liverpool;England;100,569;Milan;Italy;75,438;0
+Atltico Madrid;Spain;97,855;Porto;Portugal;48,549;1
+Milan;Italy;75,438;Atltico Madrid;Spain;97,855;2
+Porto;Portugal;48,549;Liverpool;England;100,569;2
+Atltico Madrid;Spain;97,855;Liverpool;England;100,569;2
+Porto;Portugal;48,549;Milan;Italy;75,438;0
+Milan;Italy;75,438;Porto;Portugal;48,549;1
+Liverpool;England;100,569;Atltico Madrid;Spain;97,855;0
+Liverpool;England;100,569;Porto;Portugal;48,549;0
+Atltico Madrid;Spain;97,855;Milan;Italy;75,438;2
+Porto;Portugal;48,549;Atltico Madrid;Spain;97,855;2
+Milan;Italy;75,438;Liverpool;England;100,569;2
+Beikta;Turkey;30,1;Borussia Dortmund;Germany;73,57;2
+Sporting CP;Portugal;48,549;Ajax;Netherlands;39,2;2
+Ajax;Netherlands;39,2;Beikta;Turkey;30,1;0
+Borussia Dortmund;Germany;73,57;Sporting CP;Portugal;48,549;0
+Beikta;Turkey;30,1;Sporting CP;Portugal;48,549;2
+Ajax;Netherlands;39,2;Borussia Dortmund;Germany;73,57;0
+Borussia Dortmund;Germany;73,57;Ajax;Netherlands;39,2;2
+Sporting CP;Portugal;48,549;Beikta;Turkey;30,1;0
+Beikta;Turkey;30,1;Ajax;Netherlands;39,2;2
+Sporting CP;Portugal;48,549;Borussia Dortmund;Germany;73,57;0
+Ajax;Netherlands;39,2;Sporting CP;Portugal;48,549;0
+Borussia Dortmund;Germany;73,57;Beikta;Turkey;30,1;0
+Sheriff Tiraspol;Moldova;6,875;Shakhtar Donetsk;Ukraine;33,1;0
+Inter Milan;Italy;75,438;Real Madrid;Spain;97,855;2
+Shakhtar Donetsk;Ukraine;33,1;Inter Milan;Italy;75,438;1
+Real Madrid;Spain;97,855;Sheriff Tiraspol;Moldova;6,875;2
+Shakhtar Donetsk;Ukraine;33,1;Real Madrid;Spain;97,855;2
+Inter Milan;Italy;75,438;Sheriff Tiraspol;Moldova;6,875;0
+Real Madrid;Spain;97,855;Shakhtar Donetsk;Ukraine;33,1;0
+Sheriff Tiraspol;Moldova;6,875;Inter Milan;Italy;75,438;2
+Inter Milan;Italy;75,438;Shakhtar Donetsk;Ukraine;33,1;0
+Sheriff Tiraspol;Moldova;6,875;Real Madrid;Spain;97,855;2
+Shakhtar Donetsk;Ukraine;33,1;Sheriff Tiraspol;Moldova;6,875;1
+Real Madrid;Spain;97,855;Inter Milan;Italy;75,438;0
+Barcelona;Spain;97,855;Bayern Munich;Germany;73,57;2
+Dynamo Kyiv;Ukraine;33,1;Benfica;Portugal;48,549;1
+Benfica;Portugal;48,549;Barcelona;Spain;97,855;0
+Bayern Munich;Germany;73,57;Dynamo Kyiv;Ukraine;33,1;0
+Barcelona;Spain;97,855;Dynamo Kyiv;Ukraine;33,1;0
+Benfica;Portugal;48,549;Bayern Munich;Germany;73,57;2
+Bayern Munich;Germany;73,57;Benfica;Portugal;48,549;0
+Dynamo Kyiv;Ukraine;33,1;Barcelona;Spain;97,855;2
+Dynamo Kyiv;Ukraine;33,1;Bayern Munich;Germany;73,57;2
+Barcelona;Spain;97,855;Benfica;Portugal;48,549;1
+Bayern Munich;Germany;73,57;Barcelona;Spain;97,855;0
+Benfica;Portugal;48,549;Dynamo Kyiv;Ukraine;33,1;0
+Young Boys;Switzerland;26,225;Manchester United;England;100,569;0
+Villarreal;Spain;97,855;Atalanta;Italy;75,438;1
+Atalanta;Italy;75,438;Young Boys;Switzerland;26,225;0
+Manchester United;England;100,569;Villarreal;Spain;97,855;0
+Manchester United;England;100,569;Atalanta;Italy;75,438;0
+Young Boys;Switzerland;26,225;Villarreal;Spain;97,855;2
+Atalanta;Italy;75,438;Manchester United;England;100,569;1
+Villarreal;Spain;97,855;Young Boys;Switzerland;26,225;0
+Villarreal;Spain;97,855;Manchester United;England;100,569;2
+Young Boys;Switzerland;26,225;Atalanta;Italy;75,438;1
+Manchester United;England;100,569;Young Boys;Switzerland;26,225;1
+Atalanta;Italy;75,438;Villarreal;Spain;97,855;2
+Sevilla;Spain;97,855;Red Bull Salzburg;Austria;35,825;1
+Lille;France;56,081;VfL Wolfsburg;Germany;73,57;1
+Red Bull Salzburg;Austria;35,825;Lille;France;56,081;0
+VfL Wolfsburg;Germany;73,57;Sevilla;Spain;97,855;1
+Red Bull Salzburg;Austria;35,825;VfL Wolfsburg;Germany;73,57;0
+Lille;France;56,081;Sevilla;Spain;97,855;1
+VfL Wolfsburg;Germany;73,57;Red Bull Salzburg;Austria;35,825;0
+Sevilla;Spain;97,855;Lille;France;56,081;2
+Sevilla;Spain;97,855;VfL Wolfsburg;Germany;73,57;0
+Lille;France;56,081;Red Bull Salzburg;Austria;35,825;0
+VfL Wolfsburg;Germany;73,57;Lille;France;56,081;2
+Red Bull Salzburg;Austria;35,825;Sevilla;Spain;97,855;0
+Chelsea;England;100,569;Zenit Saint Petersburg;Russia;38,382;0
+Malm FF;Sweden;20,5;Juventus;Italy;75,438;2
+Zenit Saint Petersburg;Russia;38,382;Malm FF;Sweden;20,5;0
+Juventus;Italy;75,438;Chelsea;England;100,569;0
+Zenit Saint Petersburg;Russia;38,382;Juventus;Italy;75,438;2
+Chelsea;England;100,569;Malm FF;Sweden;20,5;0
+Malm FF;Sweden;20,5;Chelsea;England;100,569;2
+Juventus;Italy;75,438;Zenit Saint Petersburg;Russia;38,382;0
+Chelsea;England;100,569;Juventus;Italy;75,438;0
+Malm FF;Sweden;20,5;Zenit Saint Petersburg;Russia;38,382;1
+Zenit Saint Petersburg;Russia;38,382;Chelsea;England;100,569;1
+Juventus;Italy;75,438;Malm FF;Sweden;20,5;0
+Ajax;Netherlands;49,3;Rangers;Scotland;36,9;0
+Napoli;Italy;76,902;Liverpool;England;106,641;0
+Liverpool;England;106,641;Ajax;Netherlands;49,3;0
+Rangers;Scotland;36,9;Napoli;Italy;76,902;2
+Liverpool;England;106,641;Rangers;Scotland;36,9;0
+Ajax;Netherlands;49,3;Napoli;Italy;76,902;2
+Napoli;Italy;76,902;Ajax;Netherlands;49,3;0
+Rangers;Scotland;36,9;Liverpool;England;106,641;2
+Napoli;Italy;76,902;Rangers;Scotland;36,9;0
+Ajax;Netherlands;49,3;Liverpool;England;106,641;2
+Liverpool;England;106,641;Napoli;Italy;76,902;0
+Rangers;Scotland;36,9;Ajax;Netherlands;49,3;2
+Atltico Madrid;Spain;96,141;Porto;Portugal;53,382;0
+Club Brugge;Belgium;30,6;Bayer Leverkusen;Germany;75,213;0
+Porto;Portugal;53,382;Club Brugge;Belgium;30,6;2
+Bayer Leverkusen;Germany;75,213;Atltico Madrid;Spain;96,141;0
+Porto;Portugal;53,382;Bayer Leverkusen;Germany;75,213;0
+Club Brugge;Belgium;30,6;Atltico Madrid;Spain;96,141;0
+Atltico Madrid;Spain;96,141;Club Brugge;Belgium;30,6;1
+Bayer Leverkusen;Germany;75,213;Porto;Portugal;53,382;2
+Club Brugge;Belgium;30,6;Porto;Portugal;53,382;2
+Atltico Madrid;Spain;96,141;Bayer Leverkusen;Germany;75,213;1
+Porto;Portugal;53,382;Atltico Madrid;Spain;96,141;0
+Bayer Leverkusen;Germany;75,213;Club Brugge;Belgium;30,6;1
+Barcelona;Spain;96,141;Viktoria Plze;Czech Republic;27,8;0
+Inter Milan;Italy;76,902;Bayern Munich;Germany;75,213;2
+Viktoria Plze;Czech Republic;27,8;Inter Milan;Italy;76,902;2
+Bayern Munich;Germany;75,213;Barcelona;Spain;96,141;0
+Bayern Munich;Germany;75,213;Viktoria Plze;Czech Republic;27,8;0
+Inter Milan;Italy;76,902;Barcelona;Spain;96,141;0
+Barcelona;Spain;96,141;Inter Milan;Italy;76,902;1
+Viktoria Plze;Czech Republic;27,8;Bayern Munich;Germany;75,213;2
+Inter Milan;Italy;76,902;Viktoria Plze;Czech Republic;27,8;0
+Barcelona;Spain;96,141;Bayern Munich;Germany;75,213;2
+Bayern Munich;Germany;75,213;Inter Milan;Italy;76,902;0
+Viktoria Plze;Czech Republic;27,8;Barcelona;Spain;96,141;2
+Eintracht Frankfurt;Germany;75,213;Sporting CP;Portugal;53,382;2
+Tottenham Hotspur;England;106,641;Marseille;France;60,081;0
+Sporting CP;Portugal;53,382;Tottenham Hotspur;England;106,641;0
+Marseille;France;60,081;Eintracht Frankfurt;Germany;75,213;2
+Marseille;France;60,081;Sporting CP;Portugal;53,382;0
+Eintracht Frankfurt;Germany;75,213;Tottenham Hotspur;England;106,641;1
+Tottenham Hotspur;England;106,641;Eintracht Frankfurt;Germany;75,213;0
+Sporting CP;Portugal;53,382;Marseille;France;60,081;2
+Tottenham Hotspur;England;106,641;Sporting CP;Portugal;53,382;1
+Eintracht Frankfurt;Germany;75,213;Marseille;France;60,081;0
+Sporting CP;Portugal;53,382;Eintracht Frankfurt;Germany;75,213;2
+Marseille;France;60,081;Tottenham Hotspur;England;106,641;2
+Dinamo Zagreb;Croatia;27,15;Chelsea;England;106,641;0
+Red Bull Salzburg;Austria;38,85;Milan;Italy;76,902;1
+Milan;Italy;76,902;Dinamo Zagreb;Croatia;27,15;0
+Chelsea;England;106,641;Red Bull Salzburg;Austria;38,85;1
+Red Bull Salzburg;Austria;38,85;Dinamo Zagreb;Croatia;27,15;0
+Chelsea;England;106,641;Milan;Italy;76,902;0
+Dinamo Zagreb;Croatia;27,15;Red Bull Salzburg;Austria;38,85;1
+Milan;Italy;76,902;Chelsea;England;106,641;2
+Red Bull Salzburg;Austria;38,85;Chelsea;England;106,641;2
+Dinamo Zagreb;Croatia;27,15;Milan;Italy;76,902;2
+Chelsea;England;106,641;Dinamo Zagreb;Croatia;27,15;0
+Milan;Italy;76,902;Red Bull Salzburg;Austria;38,85;0
+Celtic;Scotland;36,9;Real Madrid;Spain;96,141;2
+RB Leipzig;Germany;75,213;Shakhtar Donetsk;Ukraine;31,8;2
+Shakhtar Donetsk;Ukraine;31,8;Celtic;Scotland;36,9;1
+Real Madrid;Spain;96,141;RB Leipzig;Germany;75,213;0
+RB Leipzig;Germany;75,213;Celtic;Scotland;36,9;0
+Real Madrid;Spain;96,141;Shakhtar Donetsk;Ukraine;31,8;0
+Shakhtar Donetsk;Ukraine;31,8;Real Madrid;Spain;96,141;1
+Celtic;Scotland;36,9;RB Leipzig;Germany;75,213;2
+Celtic;Scotland;36,9;Shakhtar Donetsk;Ukraine;31,8;1
+RB Leipzig;Germany;75,213;Real Madrid;Spain;96,141;0
+Real Madrid;Spain;96,141;Celtic;Scotland;36,9;0
+Shakhtar Donetsk;Ukraine;31,8;RB Leipzig;Germany;75,213;2
+Borussia Dortmund;Germany;75,213;Copenhagen;Denmark;27,175;0
+Sevilla;Spain;96,141;Manchester City;England;106,641;2
+Manchester City;England;106,641;Borussia Dortmund;Germany;75,213;0
+Copenhagen;Denmark;27,175;Sevilla;Spain;96,141;1
+Manchester City;England;106,641;Copenhagen;Denmark;27,175;0
+Sevilla;Spain;96,141;Borussia Dortmund;Germany;75,213;2
+Copenhagen;Denmark;27,175;Manchester City;England;106,641;1
+Borussia Dortmund;Germany;75,213;Sevilla;Spain;96,141;1
+Sevilla;Spain;96,141;Copenhagen;Denmark;27,175;0
+Borussia Dortmund;Germany;75,213;Manchester City;England;106,641;1
+Manchester City;England;106,641;Sevilla;Spain;96,141;0
+Copenhagen;Denmark;27,175;Borussia Dortmund;Germany;75,213;1
+Paris SaintGermain;France;60,081;Juventus;Italy;76,902;0
+Benfica;Portugal;53,382;Maccabi Haifa;Israel;24,375;0
+Juventus;Italy;76,902;Benfica;Portugal;53,382;2
+Maccabi Haifa;Israel;24,375;Paris SaintGermain;France;60,081;2
+Juventus;Italy;76,902;Maccabi Haifa;Israel;24,375;0
+Benfica;Portugal;53,382;Paris SaintGermain;France;60,081;1
+Maccabi Haifa;Israel;24,375;Juventus;Italy;76,902;0
+Paris SaintGermain;France;60,081;Benfica;Portugal;53,382;1
+Paris SaintGermain;France;60,081;Maccabi Haifa;Israel;24,375;0
+Benfica;Portugal;53,382;Juventus;Italy;76,902;0
+Juventus;Italy;76,902;Paris SaintGermain;France;60,081;2
+Maccabi Haifa;Israel;24,375;Benfica;Portugal;53,382;2
