@@ -25,11 +25,11 @@ class GroupsResults(GetContent):
                     team_B_text = self.strip(team_B)
                     nationalityA_text = team_A.find('img')['alt']
                     nationalityB_text = team_B.find_next('img')['alt']
-                    rankA = self.relu_scaled(float(self.initAssociationRanking(nationalityA_text, year)))
-                    rankB = self.relu_scaled(float(self.initAssociationRanking(nationalityB_text, year)))
+                    rankA = self.initAssociationRanking(nationalityA_text, year)
+                    rankB = self.initAssociationRanking(nationalityB_text, year)
 
                     #saving
-                    to_file = f'{team_A_text}|{nationalityA_text}|{rankA}|{team_B_text}|{nationalityB_text}|{rankB}|{result}'
+                    to_file = f'{team_A_text}|{nationalityA_text}|{rankA}|{team_B_text}|{nationalityB_text}|{rankB}|{result}|{year}'
                     saveObject = SaveToFile()
                     saveObject.save(to_file)
 
@@ -76,6 +76,4 @@ class GroupsResults(GetContent):
         rank = ranking.scrape(nationality)
         return rank
 
-    def relu_scaled(self, x):
-        return max(0, x) / 100.0
 

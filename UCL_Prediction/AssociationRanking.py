@@ -17,13 +17,8 @@ class AssociationRanking(GetContent):
                 country = row.find('td', style='text-align: left;').text.strip()
 
                 if country == nationality:
-                    ranks = row.find_all('td')
-
-                    for rank in ranks:
-                        rank_list.append(rank.text.strip())
-
-                    raw_rank = rank_list[len(rank_list) - 2]
-                    return raw_rank
+                    rank = row.find('td').text.strip()
+                    return rank
 
 
 

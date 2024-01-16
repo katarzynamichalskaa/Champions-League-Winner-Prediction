@@ -11,7 +11,7 @@ class SaveToFile():
         df = pd.read_csv(StringIO(cleaned_text),
                          sep='|',
                          header=None,
-                         names=['teamA', 'nationalityA', 'rankA', 'teamB', 'nationalityB', 'rankB', 'score'],
+                         names=['teamA', 'nationalityA', 'rankA', 'teamB', 'nationalityB', 'rankB', 'score', 'year'],
                          decimal=',')
 
         file_path = f'SEASONS20052023.csv'
