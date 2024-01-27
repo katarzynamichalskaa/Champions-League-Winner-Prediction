@@ -1,6 +1,6 @@
 from bs4 import BeautifulSoup
 from GetContent import GetContent
-from AssociationRanking import AssociationRanking
+from UCL_Prediction.Scraping.AssociationRanking import AssociationRanking
 from SaveToFile import SaveToFile
 
 class GroupsResults(GetContent):

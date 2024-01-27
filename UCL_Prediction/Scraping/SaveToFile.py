@@ -14,5 +14,5 @@ class SaveToFile():
                          names=['teamA', 'nationalityA', 'rankA', 'teamB', 'nationalityB', 'rankB', 'score', 'year'],
                          decimal=',')
 
-        file_path = f'SEASONS20052023.csv'
+        file_path = f'../SEASONS20052023.csv'
         df.to_csv(file_path, mode='a', header=not os.path.exists(file_path), index=False)
