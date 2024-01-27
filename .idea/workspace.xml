@@ -5,17 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="60fa750d-e496-40f5-b0a1-cf142c9d3d3d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/UCL_Prediction/Model/SVM_model.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UCL_Prediction/PreprocessingData/preprocessing_data.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UCL_Prediction/PreprocessingData/stats.xls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UCL_Prediction/Scraping/SEASONS20052023.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UCL_Prediction/ScrapingTransfermarkt/links_to_convert" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UCL_Prediction/ScrapingTransfermarkt/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UCL_Prediction/AssociationRanking.py" beforeDir="false" afterPath="$PROJECT_DIR$/UCL_Prediction/Scraping/AssociationRanking.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UCL_Prediction/GetContent.py" beforeDir="false" afterPath="$PROJECT_DIR$/UCL_Prediction/Scraping/GetContent.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UCL_Prediction/GroupsResults.py" beforeDir="false" afterPath="$PROJECT_DIR$/UCL_Prediction/Scraping/GroupsResults.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UCL_Prediction/SEASONS20052023.csv" beforeDir="false" afterPath="$PROJECT_DIR$/UCL_Prediction/PreprocessingData/SEASONS20052023_final.xls" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UCL_Prediction/SaveToFile.py" beforeDir="false" afterPath="$PROJECT_DIR$/UCL_Prediction/Scraping/SaveToFile.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UCL_Prediction/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/UCL_Prediction/Scraping/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UCL_Prediction/Model/SVM_model.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/UCL_Prediction/Model/SVM_model.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UCL_Prediction/PreprocessingData/SEASONS20052023_final.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UCL_Prediction/PreprocessingData/preprocessing_data.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/UCL_Prediction/PreprocessingData/preprocessing_data.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UCL_Prediction/PreprocessingData/stats.xls" beforeDir="false" afterPath="$PROJECT_DIR$/UCL_Prediction/ScrapingTransfermarkt/stats.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UCL_Prediction/Scraping/AssociationRanking.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UCL_Prediction/Scraping/GetContent.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UCL_Prediction/Scraping/GroupsResults.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UCL_Prediction/Scraping/SEASONS20052023.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UCL_Prediction/Scraping/SaveToFile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UCL_Prediction/Scraping/main.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,31 +47,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.DataScraper.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Kasia/Documents/Repositories/UCL_Prediction/UCL_Prediction/Model&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.DataScraper.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Kasia/Documents/Repositories/UCL_Prediction/UCL_Prediction/ScrapingTransfermarkt",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Kasia\Documents\Repositories\UCL_Prediction\UCL_Prediction\ScrapingTransfermarkt" />
       <recent name="C:\Users\Kasia\Documents\Repositories\UCL_Prediction\UCL_Prediction\Model" />
       <recent name="C:\Users\Kasia\Documents\Repositories\UCL_Prediction\UCL_Prediction\PreprocessingData" />
       <recent name="C:\Users\Kasia\Documents\Repositories\UCL_Prediction\UCL_Prediction" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Kasia\Documents\Repositories\UCL_Prediction\UCL_Prediction\Model" />
+      <recent name="C:\Users\Kasia\Documents\Repositories\UCL_Prediction\UCL_Prediction\ScrapingTransfermarkt" />
       <recent name="C:\Users\Kasia\Documents\Repositories\UCL_Prediction\UCL_Prediction\Scraping" />
+      <recent name="C:\Users\Kasia\Documents\Repositories\UCL_Prediction\UCL_Prediction\Model" />
       <recent name="C:\Users\Kasia\Documents\Repositories\UCL_Prediction\UCL_Prediction\PreprocessingData" />
       <recent name="C:\Users\Kasia\Documents\Repositories\UCL_Prediction\UCL_Prediction" />
     </key>
@@ -130,6 +134,8 @@
       <workItem from="1706360079473" duration="52000" />
       <workItem from="1706361736797" duration="3846000" />
       <workItem from="1706365801284" duration="28000" />
+      <workItem from="1706367521046" duration="33000" />
+      <workItem from="1706379987529" duration="796000" />
     </task>
     <servers />
   </component>
