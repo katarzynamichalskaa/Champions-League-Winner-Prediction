@@ -1,6 +1,6 @@
 # UEFA Champions League Winner Prediction
 
-PredictChamp is a project aimed at creating an advanced system for predicting the winner of the UEFA Champions League. 
+UCL Prediction is a project aimed at creating an advanced system for predicting the winner of the UEFA Champions League. 
 Our application will utilize sophisticated machine learning algorithms to analyze data related to teams, players, tactics, and historical data from previous Champions League seasons.
 
 # Authors
@@ -8,9 +8,11 @@ Our application will utilize sophisticated machine learning algorithms to analyz
 * Katarzyna Michalska - https://github.com/katarzynamichalskaa
 
 # State of art
+The following document presents state of art.
 https://docs.google.com/document/d/1xhWFymMA4mMUrnb8eSUXVqNd8KtVeRP4lQfWgN3QCYU/edit
 
 # Description of the selected concept
+The following document contains a description of the selected concept. 
 https://docs.google.com/document/d/1PB8MO0dEm7q2zUFtnMrXBzUhj2IKY6S4DwGKVlHEuXM/edit
 
 # Datasets
