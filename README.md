@@ -8,11 +8,11 @@ Our application will utilize sophisticated machine learning algorithms to analyz
 * Katarzyna Michalska - https://github.com/katarzynamichalskaa
 
 # State of art
-This document presents three concepts for solving the problem.
+The following document presents three concepts for solving the problem.
 https://docs.google.com/document/d/1xhWFymMA4mMUrnb8eSUXVqNd8KtVeRP4lQfWgN3QCYU/edit
 
 # Description of the selected concept
-This document contains a description of the selected method and the operating principles of our project.
+The following document contains a description of the selected method and the operating principles of our project.
 https://docs.google.com/document/d/1PB8MO0dEm7q2zUFtnMrXBzUhj2IKY6S4DwGKVlHEuXM/edit
 
 # Datasets
